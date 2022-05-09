@@ -1,0 +1,2563 @@
+[
+  {
+    "id": "Airi",
+    "images": [
+      "Airi"
+    ],
+    "names": {
+      "en": "Kurimura Airi",
+      "ja": "栗村 アイリ",
+      "zh-cn": "栗村 爱莉",
+      "zh-tw": "栗村 愛莉"
+    },
+    "searches": [
+      "trinity",
+      "after_school_sweets_club"
+    ],
+    "short_names": {
+      "en": "Airi",
+      "ja": "アイリ",
+      "zh-cn": "爱莉",
+      "zh-tw": "愛莉"
+    }
+  },
+  {
+    "id": "Akane",
+    "images": [
+      "Akane",
+      "Akane_BunnyGirl"
+    ],
+    "names": {
+      "en": "Murokasa Akane",
+      "ja": "室笠 アカネ",
+      "zh-cn": "室笠 茜",
+      "zh-tw": "室笠 朱音"
+    },
+    "searches": [
+      "millennium",
+      "cleaning_and_clearing"
+    ],
+    "short_names": {
+      "en": "Akane",
+      "ja": "アカネ",
+      "zh-cn": "茜",
+      "zh-tw": "朱音"
+    }
+  },
+  {
+    "id": "Akari",
+    "images": [
+      "Akari"
+    ],
+    "names": {
+      "en": "Wanibuchi Akari",
+      "ja": "鰐渕 アカリ",
+      "zh-cn": "鳄渊 茜里",
+      "zh-tw": "鰐渕 亞伽里"
+    },
+    "searches": [
+      "gehenna",
+      "gourmet_research_society"
+    ],
+    "short_names": {
+      "en": "Akari",
+      "ja": "アカリ",
+      "zh-cn": "茜里",
+      "zh-tw": "亞伽里"
+    }
+  },
+  {
+    "id": "Ako",
+    "images": [
+      "Ako"
+    ],
+    "names": {
+      "en": "Amau Ako",
+      "ja": "天雨 アコ",
+      "zh-cn": "天雨 亚子",
+      "zh-tw": ""
+    },
+    "searches": [
+      "gehenna",
+      "disciplinary_committee"
+    ],
+    "short_names": {
+      "en": "Ako",
+      "ja": "アコ",
+      "zh-cn": "亚子",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Alice",
+    "images": [
+      "Alice"
+    ],
+    "names": {
+      "en": "Tendou Alice",
+      "ja": "天童 アリス",
+      "zh-cn": "天童 爱丽丝",
+      "zh-tw": "天童 愛麗絲"
+    },
+    "searches": [
+      "millennium",
+      "game_development_department"
+    ],
+    "short_names": {
+      "en": "Alice",
+      "ja": "アリス",
+      "zh-cn": "爱丽丝",
+      "zh-tw": "愛麗絲"
+    }
+  },
+  {
+    "id": "Android",
+    "images": [
+      "Citizen_Borot_1",
+      "Citizen_Borot_2"
+    ],
+    "names": {
+      "en": " Android",
+      "ja": " アンドロイド",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "citizen"
+    ],
+    "short_names": {
+      "en": "Android",
+      "ja": "アンドロイド",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Arona",
+    "images": [
+      "Arona"
+    ],
+    "names": {
+      "en": " Arona",
+      "ja": " アロナ",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "shitim's_box"
+    ],
+    "short_names": {
+      "en": "Arona",
+      "ja": "アロナ",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Aru",
+    "images": [
+      "Aru",
+      "Aru_Newyear"
+    ],
+    "names": {
+      "en": "Rikuhachima Aru",
+      "ja": "陸八魔 アル",
+      "zh-cn": "陆八魔 阿露",
+      "zh-tw": "陸八魔 亞瑠"
+    },
+    "searches": [
+      "gehenna",
+      "problem_solver_68"
+    ],
+    "short_names": {
+      "en": "Aru",
+      "ja": "アル",
+      "zh-cn": "阿露",
+      "zh-tw": "亞瑠"
+    }
+  },
+  {
+    "id": "Asuna",
+    "images": [
+      "Asuna",
+      "Asuna_BunnyGirl"
+    ],
+    "names": {
+      "en": "Ichinose Asuna",
+      "ja": "一之瀬 アスナ",
+      "zh-cn": "一之濑 明日奈",
+      "zh-tw": "一之瀬 明日奈"
+    },
+    "searches": [
+      "millennium",
+      "cleaning_and_clearing"
+    ],
+    "short_names": {
+      "en": "Asuna",
+      "ja": "アスナ",
+      "zh-cn": "明日奈",
+      "zh-tw": "明日奈"
+    }
+  },
+  {
+    "id": "Ayane",
+    "images": [
+      "Ayane",
+      "Ayane_Robber"
+    ],
+    "names": {
+      "en": "Okusora Ayane",
+      "ja": "奥空 アヤネ",
+      "zh-cn": "奥空 绫音",
+      "zh-tw": "奥空 綾音"
+    },
+    "searches": [
+      "abydos",
+      "countermeasures_council",
+      "masked_swimsuit_group"
+    ],
+    "short_names": {
+      "en": "Ayane",
+      "ja": "アヤネ",
+      "zh-cn": "绫音",
+      "zh-tw": "綾音"
+    }
+  },
+  {
+    "id": "Ayumu",
+    "images": [
+      "Ayumu"
+    ],
+    "names": {
+      "en": "Iwabitsu Ayumu",
+      "ja": "岩櫃 アユム",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "prime_student_council"
+    ],
+    "short_names": {
+      "en": "Ayumu",
+      "ja": "アユム",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Azusa",
+    "images": [
+      "Azusa",
+      "Azusa_Swimsuit"
+    ],
+    "names": {
+      "en": "Shirasu Azusa",
+      "ja": "白洲 アズサ",
+      "zh-cn": "白洲 梓",
+      "zh-tw": "白洲 梓"
+    },
+    "searches": [
+      "trinity",
+      "makeup_work_club"
+    ],
+    "short_names": {
+      "en": "Azusa",
+      "ja": "アズサ",
+      "zh-cn": "梓",
+      "zh-tw": "梓"
+    }
+  },
+  {
+    "id": "Binah",
+    "images": [
+      "Binah"
+    ],
+    "names": {
+      "en": " Binah",
+      "ja": " ビナー",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "decagrammaton"
+    ],
+    "short_names": {
+      "en": "Binah",
+      "ja": "ビナー",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Black_Suit",
+    "images": [
+      "Black_Suit"
+    ],
+    "names": {
+      "en": " Black Suit",
+      "ja": " 黒服",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "gematria"
+    ],
+    "short_names": {
+      "en": "Black Suit",
+      "ja": "黒服",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Cherino",
+    "images": [
+      "Cherino",
+      "Cherino_Hotspring"
+    ],
+    "names": {
+      "en": "Renkawa Cherino",
+      "ja": "連河 チェリノ",
+      "zh-cn": "连河 切里诺",
+      "zh-tw": "連河 潔莉諾"
+    },
+    "searches": [
+      "red_winter",
+      "red_winter_secretariat"
+    ],
+    "short_names": {
+      "en": "Cherino",
+      "ja": "チェリノ",
+      "zh-cn": "切里诺",
+      "zh-tw": "潔莉諾"
+    }
+  },
+  {
+    "id": "Chesed",
+    "images": [
+      "Chesed"
+    ],
+    "names": {
+      "en": " Chesed",
+      "ja": " ケセド",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "decagrammaton"
+    ],
+    "short_names": {
+      "en": "Chesed",
+      "ja": "ケセド",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Chihiro",
+    "images": [
+      "Chihiro"
+    ],
+    "names": {
+      "en": "Kagami Chihiro",
+      "ja": "各務 チヒロ",
+      "zh-cn": "各务 千寻",
+      "zh-tw": ""
+    },
+    "searches": [
+      "millennium",
+      "veritas"
+    ],
+    "short_names": {
+      "en": "Chihiro",
+      "ja": "チヒロ",
+      "zh-cn": "千寻",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Sukeban",
+    "images": [
+      "Sukeban_HMG",
+      "Sukeban_SMG",
+      "Sukeban_SR",
+      "Sukeban_SMG_Swimsuit",
+      "Sukeban_MG_Swimsuit"
+    ],
+    "names": {
+      "en": " Chimpira",
+      "ja": " チンピラ",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "city_chimpira"
+    ],
+    "short_names": {
+      "en": "Chimpira",
+      "ja": "チンピラ",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Chinatsu",
+    "images": [
+      "Chinatsu",
+      "Chinatsu_Hotspring"
+    ],
+    "names": {
+      "en": "Hinomiya Chinatsu",
+      "ja": "火宮 チナツ",
+      "zh-cn": "火宫 千夏",
+      "zh-tw": "日野宮 千夏"
+    },
+    "searches": [
+      "gehenna",
+      "disciplinary_committee"
+    ],
+    "short_names": {
+      "en": "Chinatsu",
+      "ja": "チナツ",
+      "zh-cn": "千夏",
+      "zh-tw": "千夏"
+    }
+  },
+  {
+    "id": "Chise",
+    "images": [
+      "Chise"
+    ],
+    "names": {
+      "en": "Waraku Chise",
+      "ja": "和楽 チセ",
+      "zh-cn": "和乐 千世",
+      "zh-tw": "和樂 知世"
+    },
+    "searches": [
+      "hyakkiyako",
+      "yin_yang_club"
+    ],
+    "short_names": {
+      "en": "Chise",
+      "ja": "チセ",
+      "zh-cn": "千世",
+      "zh-tw": "知世"
+    }
+  },
+  {
+    "id": "Disciplinary_Committee_Member",
+    "images": [
+      "Fuuki_Normal_1"
+    ],
+    "names": {
+      "en": " Disciplinary Committee Member",
+      "ja": " 風紀委員",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "gehenna",
+      "disciplinary_committee"
+    ],
+    "short_names": {
+      "en": "Disciplinary Committee Member",
+      "ja": "風紀委員",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Décalcomanie",
+    "images": [
+      "Décalcomanie"
+    ],
+    "names": {
+      "en": " Décalcomanie",
+      "ja": " デカルコマニー",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "gematria"
+    ],
+    "short_names": {
+      "en": "Décalcomanie",
+      "ja": "デカルコマニー",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Eimi",
+    "images": [
+      "Eimi"
+    ],
+    "names": {
+      "en": "Izumimoto Eimi",
+      "ja": "和泉元 エイミ",
+      "zh-cn": "和泉元 艾米",
+      "zh-tw": "和泉元 英美"
+    },
+    "searches": [
+      "millennium",
+      "super_phenomenon_task_force"
+    ],
+    "short_names": {
+      "en": "Eimi",
+      "ja": "エイミ",
+      "zh-cn": "艾米",
+      "zh-tw": "英美"
+    }
+  },
+  {
+    "id": "Fubuki",
+    "images": [
+      "Fubuki"
+    ],
+    "names": {
+      "en": "Nemugaki Fubuki",
+      "ja": "合歓垣 フブキ",
+      "zh-cn": "合欢垣 吹雪",
+      "zh-tw": ""
+    },
+    "searches": [
+      "valkyrie",
+      "community_safety_bureau"
+    ],
+    "short_names": {
+      "en": "Fubuki",
+      "ja": "フブキ",
+      "zh-cn": "吹雪",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Fuuka",
+    "images": [
+      "Fuuka"
+    ],
+    "names": {
+      "en": "Aikiyo Fuuka",
+      "ja": "愛清 フウカ",
+      "zh-cn": "爱清 风香",
+      "zh-tw": "愛清 風華"
+    },
+    "searches": [
+      "gehenna",
+      "school_lunch_club"
+    ],
+    "short_names": {
+      "en": "Fuuka",
+      "ja": "フウカ",
+      "zh-cn": "风香",
+      "zh-tw": "風華"
+    }
+  },
+  {
+    "id": "Golconde",
+    "images": [
+      "Golconde"
+    ],
+    "names": {
+      "en": " Golconde",
+      "ja": " ゴルコンダ",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "gematria"
+    ],
+    "short_names": {
+      "en": "Golconde",
+      "ja": "ゴルコンダ",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Hanae",
+    "images": [
+      "Hanae"
+    ],
+    "names": {
+      "en": "Asagao Hanae",
+      "ja": "朝顔 ハナエ",
+      "zh-cn": "朝颜 花江",
+      "zh-tw": "朝顔 花繪"
+    },
+    "searches": [
+      "trinity",
+      "remedial_knights"
+    ],
+    "short_names": {
+      "en": "Hanae",
+      "ja": "ハナエ",
+      "zh-cn": "花江",
+      "zh-tw": "花繪"
+    }
+  },
+  {
+    "id": "Hanako",
+    "images": [
+      "Hanako"
+    ],
+    "names": {
+      "en": "Urawa Hanako",
+      "ja": "浦和 ハナコ",
+      "zh-cn": "浦和 花子",
+      "zh-tw": "浦和 花子"
+    },
+    "searches": [
+      "trinity",
+      "makeup_work_club"
+    ],
+    "short_names": {
+      "en": "Hanako",
+      "ja": "ハナコ",
+      "zh-cn": "花子",
+      "zh-tw": "花子"
+    }
+  },
+  {
+    "id": "Hare",
+    "images": [
+      "Hare"
+    ],
+    "names": {
+      "en": "Omagari Hare",
+      "ja": "小鈎 ハレ",
+      "zh-cn": "小钩 晴",
+      "zh-tw": "小鉤 晴"
+    },
+    "searches": [
+      "millennium",
+      "veritas"
+    ],
+    "short_names": {
+      "en": "Hare",
+      "ja": "ハレ",
+      "zh-cn": "晴",
+      "zh-tw": "晴"
+    }
+  },
+  {
+    "id": "Haruka",
+    "images": [
+      "Haruka",
+      "Haruka_Newyear"
+    ],
+    "names": {
+      "en": "Igusa Haruka",
+      "ja": "伊草 ハルカ",
+      "zh-cn": "伊草 春香",
+      "zh-tw": "伊草 遙香"
+    },
+    "searches": [
+      "gehenna",
+      "problem_solver_68"
+    ],
+    "short_names": {
+      "en": "Haruka",
+      "ja": "ハルカ",
+      "zh-cn": "春香",
+      "zh-tw": "遙香"
+    }
+  },
+  {
+    "id": "Haruna",
+    "images": [
+      "Haruna"
+    ],
+    "names": {
+      "en": "Kurodate Haruna",
+      "ja": "黒館 ハルナ",
+      "zh-cn": "黑馆 晴奈",
+      "zh-tw": "黑館 羽留奈"
+    },
+    "searches": [
+      "gehenna",
+      "gourmet_research_society"
+    ],
+    "short_names": {
+      "en": "Haruna",
+      "ja": "ハルナ",
+      "zh-cn": "晴奈",
+      "zh-tw": "羽留奈"
+    }
+  },
+  {
+    "id": "Hasumi",
+    "images": [
+      "Hasumi"
+    ],
+    "names": {
+      "en": "Hanekawa Hasumi",
+      "ja": "羽川 ハスミ",
+      "zh-cn": "羽川 莲见",
+      "zh-tw": "羽川 蓮實"
+    },
+    "searches": [
+      "trinity",
+      "justice_task_force"
+    ],
+    "short_names": {
+      "en": "Hasumi",
+      "ja": "ハスミ",
+      "zh-cn": "莲见",
+      "zh-tw": "蓮實"
+    }
+  },
+  {
+    "id": "Helmet_Dan",
+    "images": [
+      "Helmet_Dan_Black",
+      "Helmet_Dan_Red"
+    ],
+    "names": {
+      "en": " Helmet Dan",
+      "ja": " ヘルメット団",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "helmet_dan"
+    ],
+    "short_names": {
+      "en": "Helmet Dan",
+      "ja": "ヘルメット団",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Hibiki",
+    "images": [
+      "Hibiki"
+    ],
+    "names": {
+      "en": "Nekozuka Hibiki",
+      "ja": "猫塚 ヒビキ",
+      "zh-cn": "猫冢 响",
+      "zh-tw": "猫塚 響"
+    },
+    "searches": [
+      "millennium",
+      "engineering_club"
+    ],
+    "short_names": {
+      "en": "Hibiki",
+      "ja": "ヒビキ",
+      "zh-cn": "响",
+      "zh-tw": "響"
+    }
+  },
+  {
+    "id": "Hieronymus",
+    "images": [
+      "Hieronymus"
+    ],
+    "names": {
+      "en": " Hieronymus",
+      "ja": " ヒエロニムス",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "communio_sanctorum"
+    ],
+    "short_names": {
+      "en": "Hieronymus",
+      "ja": "ヒエロニムス",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Hifumi",
+    "images": [
+      "Hifumi",
+      "Hifumi_Robber",
+      "Hifumi_Swimsuit"
+    ],
+    "names": {
+      "en": "Ajitani Hifumi",
+      "ja": "阿慈谷 ヒフミ",
+      "zh-cn": "阿慈谷 日富美",
+      "zh-tw": "阿慈谷 日步美"
+    },
+    "searches": [
+      "trinity",
+      "makeup_work_club",
+      "masked_swimsuit_group"
+    ],
+    "short_names": {
+      "en": "Hifumi",
+      "ja": "ヒフミ",
+      "zh-cn": "日富美",
+      "zh-tw": "日步美"
+    }
+  },
+  {
+    "id": "Hina",
+    "images": [
+      "Hina",
+      "Hina_Swimsuit",
+      "Hina_Nightware"
+    ],
+    "names": {
+      "en": "Sorasaki Hina",
+      "ja": "空崎 ヒナ",
+      "zh-cn": "空崎 日奈",
+      "zh-tw": "空崎 陽奈"
+    },
+    "searches": [
+      "gehenna",
+      "disciplinary_committee"
+    ],
+    "short_names": {
+      "en": "Hina",
+      "ja": "ヒナ",
+      "zh-cn": "日奈",
+      "zh-tw": "陽奈"
+    }
+  },
+  {
+    "id": "Hinata",
+    "images": [
+      "Hinata"
+    ],
+    "names": {
+      "en": "Wakaba Hinata",
+      "ja": "若葉 ヒナタ",
+      "zh-cn": "若叶 日向",
+      "zh-tw": ""
+    },
+    "searches": [
+      "trinity",
+      "sisterhood"
+    ],
+    "short_names": {
+      "en": "Hinata",
+      "ja": "ヒナタ",
+      "zh-cn": "日向",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Hod",
+    "images": [
+      "Hod"
+    ],
+    "names": {
+      "en": " Hod",
+      "ja": " ホド",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "decagrammaton"
+    ],
+    "short_names": {
+      "en": "Hod",
+      "ja": "ホド",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Hoshino",
+    "images": [
+      "Hoshino",
+      "Hoshino_Robber"
+    ],
+    "names": {
+      "en": "Takanashi Hoshino",
+      "ja": "小鳥遊 ホシノ",
+      "zh-cn": "小鸟游 星野",
+      "zh-tw": "小鳥游 星野"
+    },
+    "searches": [
+      "abydos",
+      "countermeasures_council",
+      "masked_swimsuit_group"
+    ],
+    "short_names": {
+      "en": "Hoshino",
+      "ja": "ホシノ",
+      "zh-cn": "星野",
+      "zh-tw": "星野"
+    }
+  },
+  {
+    "id": "Iori",
+    "images": [
+      "Iori",
+      "Iori_Swimsuit"
+    ],
+    "names": {
+      "en": "Shiromi Iori",
+      "ja": "銀鏡 イオリ",
+      "zh-cn": "银镜 伊织",
+      "zh-tw": "銀鏡 伊織"
+    },
+    "searches": [
+      "gehenna",
+      "disciplinary_committee"
+    ],
+    "short_names": {
+      "en": "Iori",
+      "ja": "イオリ",
+      "zh-cn": "伊织",
+      "zh-tw": "伊織"
+    }
+  },
+  {
+    "id": "Iroha",
+    "images": [
+      "Iroha"
+    ],
+    "names": {
+      "en": "Natsume Iroha",
+      "ja": "棗 イロハ",
+      "zh-cn": "枣 伊吕波",
+      "zh-tw": ""
+    },
+    "searches": [
+      "gehenna",
+      "pandemonium_society"
+    ],
+    "short_names": {
+      "en": "Iroha",
+      "ja": "イロハ",
+      "zh-cn": "伊吕波",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Izumi",
+    "images": [
+      "Izumi",
+      "Izumi_Swimsuit"
+    ],
+    "names": {
+      "en": "Shishidou Izumi",
+      "ja": "獅子堂 イズミ",
+      "zh-cn": "狮子堂 泉",
+      "zh-tw": "獅子堂 泉"
+    },
+    "searches": [
+      "gehenna",
+      "gourmet_research_society"
+    ],
+    "short_names": {
+      "en": "Izumi",
+      "ja": "イズミ",
+      "zh-cn": "泉",
+      "zh-tw": "泉"
+    }
+  },
+  {
+    "id": "Izuna",
+    "images": [
+      "Izuna"
+    ],
+    "names": {
+      "en": "Kuda Izuna",
+      "ja": "久田 イズナ",
+      "zh-cn": "久田 泉奈",
+      "zh-tw": "久田 伊樹菜"
+    },
+    "searches": [
+      "hyakkiyako",
+      "ninjutsu_research_department"
+    ],
+    "short_names": {
+      "en": "Izuna",
+      "ja": "イズナ",
+      "zh-cn": "泉奈",
+      "zh-tw": "伊樹菜"
+    }
+  },
+  {
+    "id": "Junko",
+    "images": [
+      "Junko"
+    ],
+    "names": {
+      "en": "Akashi Junko",
+      "ja": "赤司 ジュンコ",
+      "zh-cn": "赤司 纯子",
+      "zh-tw": "赤司 淳子"
+    },
+    "searches": [
+      "gehenna",
+      "gourmet_research_society"
+    ],
+    "short_names": {
+      "en": "Junko",
+      "ja": "ジュンコ",
+      "zh-cn": "纯子",
+      "zh-tw": "淳子"
+    }
+  },
+  {
+    "id": "Juri",
+    "images": [
+      "Juri"
+    ],
+    "names": {
+      "en": "Ushimaki Juri",
+      "ja": "牛牧 ジュリ",
+      "zh-cn": "牛牧 朱莉",
+      "zh-tw": "牛牧 茱莉"
+    },
+    "searches": [
+      "gehenna",
+      "school_lunch_club"
+    ],
+    "short_names": {
+      "en": "Juri",
+      "ja": "ジュリ",
+      "zh-cn": "朱莉",
+      "zh-tw": "茱莉"
+    }
+  },
+  {
+    "id": "Justice_Task_Force_Member",
+    "images": [
+      "Justice_Normal_1"
+    ],
+    "names": {
+      "en": " Justice Task Force Member",
+      "ja": " 正義実現委員会部員",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "trinity",
+      "justice_task_force"
+    ],
+    "short_names": {
+      "en": "Justice Task Force Member",
+      "ja": "正義実現委員会部員",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "KAITEN_FX_Mk_0",
+    "images": [
+      "KaitenFxMk0"
+    ],
+    "names": {
+      "en": " KAITEN FX Mk.0",
+      "ja": " KAITEN FX Mk.0",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "kaitenger"
+    ],
+    "short_names": {
+      "en": "KAITEN FX Mk.0",
+      "ja": "KAITEN FX Mk.0",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Kaede",
+    "images": [
+      "Kaede"
+    ],
+    "names": {
+      "en": "Isami Kaede",
+      "ja": "勇美 カエデ",
+      "zh-cn": "勇美 枫",
+      "zh-tw": ""
+    },
+    "searches": [
+      "hyakkiyako",
+      "inner_discipline_club"
+    ],
+    "short_names": {
+      "en": "Kaede",
+      "ja": "カエデ",
+      "zh-cn": "枫",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Kaiser_PMC_Director",
+    "images": [
+      "Kaiser_PMC_Director"
+    ],
+    "names": {
+      "en": " Kaiser PMC Director",
+      "ja": " カイザーPMC理事",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "kaiser_pmc"
+    ],
+    "short_names": {
+      "en": "Kaiser PMC Director",
+      "ja": "カイザーPMC理事",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Kaitenger",
+    "images": [
+      "Kaitenger_Red",
+      "Kaitenger_Black",
+      "Kaitenger_Green",
+      "Kaitenger_Yellow",
+      "Kaitenger_Pink"
+    ],
+    "names": {
+      "en": " Kaitenger",
+      "ja": " カイテンジャー",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "kaitenger"
+    ],
+    "short_names": {
+      "en": "Kaitenger",
+      "ja": "カイテンジャー",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Karin",
+    "images": [
+      "Karin",
+      "Karin_BunnyGirl"
+    ],
+    "names": {
+      "en": "Kakudate Karin",
+      "ja": "角楯 カリン",
+      "zh-cn": "角楯 花凛",
+      "zh-tw": "角楯 花凛"
+    },
+    "searches": [
+      "millennium",
+      "cleaning_and_clearing"
+    ],
+    "short_names": {
+      "en": "Karin",
+      "ja": "カリン",
+      "zh-cn": "花凛",
+      "zh-tw": "花凛"
+    }
+  },
+  {
+    "id": "Kayoko",
+    "images": [
+      "Kayoko",
+      "Kayoko_Newyear"
+    ],
+    "names": {
+      "en": "Onikata Kayoko",
+      "ja": "鬼方 カヨコ",
+      "zh-cn": "鬼方 佳代子",
+      "zh-tw": "鬼方 佳世子"
+    },
+    "searches": [
+      "gehenna",
+      "problem_solver_68"
+    ],
+    "short_names": {
+      "en": "Kayoko",
+      "ja": "カヨコ",
+      "zh-cn": "佳代子",
+      "zh-tw": "佳世子"
+    }
+  },
+  {
+    "id": "Kirino",
+    "images": [
+      "Kirino"
+    ],
+    "names": {
+      "en": "Nakatsukasa Kirino",
+      "ja": "中務 キリノ",
+      "zh-cn": "中务 桐乃",
+      "zh-tw": "中務 桐乃"
+    },
+    "searches": [
+      "valkyrie",
+      "community_safety_bureau"
+    ],
+    "short_names": {
+      "en": "Kirino",
+      "ja": "キリノ",
+      "zh-cn": "桐乃",
+      "zh-tw": "桐乃"
+    }
+  },
+  {
+    "id": "Citizen",
+    "images": [
+      "Citizen_Animal_1",
+      "Citizen_Animal_6",
+      "Market_Animal_2",
+      "Citizen_animal7"
+    ],
+    "names": {
+      "en": " Kivotos Citizen",
+      "ja": " キヴォトス市民",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "citizen"
+    ],
+    "short_names": {
+      "en": "Kivotos Citizen",
+      "ja": "キヴォトス市民",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Koharu",
+    "images": [
+      "Koharu"
+    ],
+    "names": {
+      "en": "Shimoe Koharu",
+      "ja": "下江 コハル",
+      "zh-cn": "下江 小春",
+      "zh-tw": "下江 小春"
+    },
+    "searches": [
+      "trinity",
+      "makeup_work_club"
+    ],
+    "short_names": {
+      "en": "Koharu",
+      "ja": "コハル",
+      "zh-cn": "小春",
+      "zh-tw": "小春"
+    }
+  },
+  {
+    "id": "Kotama",
+    "images": [
+      "Kotama"
+    ],
+    "names": {
+      "en": "Otose Kotama",
+      "ja": "音瀬 コタマ",
+      "zh-cn": "音濑 小玉",
+      "zh-tw": "音瀬 小玉"
+    },
+    "searches": [
+      "millennium",
+      "veritas"
+    ],
+    "short_names": {
+      "en": "Kotama",
+      "ja": "コタマ",
+      "zh-cn": "小玉",
+      "zh-tw": "小玉"
+    }
+  },
+  {
+    "id": "Kotori",
+    "images": [
+      "Kotori"
+    ],
+    "names": {
+      "en": "Toyomi Kotori",
+      "ja": "豊見 コトリ",
+      "zh-cn": "豊见 琴里",
+      "zh-tw": "豐見 亞都梨"
+    },
+    "searches": [
+      "millennium",
+      "engineering_club"
+    ],
+    "short_names": {
+      "en": "Kotori",
+      "ja": "コトリ",
+      "zh-cn": "琴里",
+      "zh-tw": "亞都梨"
+    }
+  },
+  {
+    "id": "Kuro",
+    "images": [
+      "Kuro"
+    ],
+    "names": {
+      "en": " Kuro",
+      "ja": " クロ",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "mimesis"
+    ],
+    "short_names": {
+      "en": "Kuro",
+      "ja": "クロ",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Maestro",
+    "images": [
+      "Maestro"
+    ],
+    "names": {
+      "en": " Maestro",
+      "ja": " マエストロ",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "gematria"
+    ],
+    "short_names": {
+      "en": "Maestro",
+      "ja": "マエストロ",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Maki",
+    "images": [
+      "Maki"
+    ],
+    "names": {
+      "en": "Konuri Maki",
+      "ja": "小塗 マキ",
+      "zh-cn": "小涂 真纪",
+      "zh-tw": "小塗 真紀"
+    },
+    "searches": [
+      "millennium",
+      "veritas"
+    ],
+    "short_names": {
+      "en": "Maki",
+      "ja": "マキ",
+      "zh-cn": "真纪",
+      "zh-tw": "真紀"
+    }
+  },
+  {
+    "id": "Mari",
+    "images": [
+      "Mari"
+    ],
+    "names": {
+      "en": "Iochi Mari",
+      "ja": "伊落 マリー",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "trinity",
+      "sisterhood"
+    ],
+    "short_names": {
+      "en": "Mari",
+      "ja": "マリー",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Marina",
+    "images": [
+      "Marina"
+    ],
+    "names": {
+      "en": "Ikekura Marina",
+      "ja": "池倉 マリナ",
+      "zh-cn": "池仓 玛丽娜",
+      "zh-tw": ""
+    },
+    "searches": [
+      "red_winter",
+      "red_winter_secretariat"
+    ],
+    "short_names": {
+      "en": "Marina",
+      "ja": "マリナ",
+      "zh-cn": "玛丽娜",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Mashiro",
+    "images": [
+      "Mashiro",
+      "Mashiro_Swimsuit"
+    ],
+    "names": {
+      "en": "Shizuyama Mashiro",
+      "ja": "静山 マシロ",
+      "zh-cn": "静山 真白",
+      "zh-tw": "靜山 麻白"
+    },
+    "searches": [
+      "trinity",
+      "justice_task_force"
+    ],
+    "short_names": {
+      "en": "Mashiro",
+      "ja": "マシロ",
+      "zh-cn": "真白",
+      "zh-tw": "麻白"
+    }
+  },
+  {
+    "id": "Megu",
+    "images": [
+      "Megu"
+    ],
+    "names": {
+      "en": "Shimokura Megu",
+      "ja": "下倉 メグ",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "gehenna",
+      "onsen_development_club"
+    ],
+    "short_names": {
+      "en": "Megu",
+      "ja": "メグ",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Michiru",
+    "images": [
+      "Michiru"
+    ],
+    "names": {
+      "en": "Chidori Michiru",
+      "ja": "千鳥 ミチル",
+      "zh-cn": "千鸟 满",
+      "zh-tw": ""
+    },
+    "searches": [
+      "hyakkiyako",
+      "ninjutsu_research_department"
+    ],
+    "short_names": {
+      "en": "Michiru",
+      "ja": "ミチル",
+      "zh-cn": "满",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Midori",
+    "images": [
+      "Midori"
+    ],
+    "names": {
+      "en": "Saiba Midori",
+      "ja": "才羽 ミドリ",
+      "zh-cn": "才羽 绿",
+      "zh-tw": "才羽 綠"
+    },
+    "searches": [
+      "millennium",
+      "game_development_department"
+    ],
+    "short_names": {
+      "en": "Midori",
+      "ja": "ミドリ",
+      "zh-cn": "绿",
+      "zh-tw": "綠"
+    }
+  },
+  {
+    "id": "Mika",
+    "images": [
+      "Mika"
+    ],
+    "names": {
+      "en": "Misono Mika",
+      "ja": "聖園 ミカ",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "trinity",
+      "tea_party"
+    ],
+    "short_names": {
+      "en": "Mika",
+      "ja": "ミカ",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Mimori",
+    "images": [
+      "Mimori"
+    ],
+    "names": {
+      "en": "Mizuha Mimori",
+      "ja": "水羽 ミモリ",
+      "zh-cn": "水羽 三森",
+      "zh-tw": ""
+    },
+    "searches": [
+      "hyakkiyako",
+      "inner_discipline_club"
+    ],
+    "short_names": {
+      "en": "Mimori",
+      "ja": "ミモリ",
+      "zh-cn": "三森",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Minori",
+    "images": [
+      "Minori"
+    ],
+    "names": {
+      "en": "Yasumori Minori",
+      "ja": "安守 ミノリ",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "red_winter",
+      "construction_department"
+    ],
+    "short_names": {
+      "en": "Minori",
+      "ja": "ミノリ",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Miyako",
+    "images": [
+      "Miyako"
+    ],
+    "names": {
+      "en": "Tsukiyuki Miyako",
+      "ja": "月雪 ミヤコ",
+      "zh-cn": "月雪 宫子",
+      "zh-tw": ""
+    },
+    "searches": [
+      "srt",
+      "rabbit_platoon"
+    ],
+    "short_names": {
+      "en": "Miyako",
+      "ja": "ミヤコ",
+      "zh-cn": "宫子",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Miyu",
+    "images": [
+      "Miyu"
+    ],
+    "names": {
+      "en": "Kasumizawa Miyu",
+      "ja": "霞沢 ミユ",
+      "zh-cn": "霞沢 美游",
+      "zh-tw": ""
+    },
+    "searches": [
+      "srt",
+      "rabbit_platoon"
+    ],
+    "short_names": {
+      "en": "Miyu",
+      "ja": "ミユ",
+      "zh-cn": "美游",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Moe",
+    "images": [
+      "Moe"
+    ],
+    "names": {
+      "en": "Kazekura Moe",
+      "ja": "風倉 モエ",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "srt",
+      "rabbit_platoon"
+    ],
+    "short_names": {
+      "en": "Moe",
+      "ja": "モエ",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Momoi",
+    "images": [
+      "Momoi"
+    ],
+    "names": {
+      "en": "Saiba Momoi",
+      "ja": "才羽 モモイ",
+      "zh-cn": "才羽 桃衣",
+      "zh-tw": "才羽 桃井"
+    },
+    "searches": [
+      "millennium",
+      "game_development_department"
+    ],
+    "short_names": {
+      "en": "Momoi",
+      "ja": "モモイ",
+      "zh-cn": "桃衣",
+      "zh-tw": "桃井"
+    }
+  },
+  {
+    "id": "Momoka",
+    "images": [
+      "Momoka"
+    ],
+    "names": {
+      "en": "Yuragi Momoka",
+      "ja": "由良木 モモカ",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "prime_student_council"
+    ],
+    "short_names": {
+      "en": "Momoka",
+      "ja": "モモカ",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Mutsuki",
+    "images": [
+      "Mutsuki",
+      "Mutsuki_Newyear"
+    ],
+    "names": {
+      "en": "Asagi Mutsuki",
+      "ja": "浅黄 ムツキ",
+      "zh-cn": "浅黄 睦月",
+      "zh-tw": "浅黃 無月"
+    },
+    "searches": [
+      "gehenna",
+      "problem_solver_68"
+    ],
+    "short_names": {
+      "en": "Mutsuki",
+      "ja": "ムツキ",
+      "zh-cn": "睦月",
+      "zh-tw": "無月"
+    }
+  },
+  {
+    "id": "Nagisa",
+    "images": [
+      "Nagisa"
+    ],
+    "names": {
+      "en": "Kirifuji Nagisa",
+      "ja": "桐藤 ナギサ",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "trinity",
+      "tea_party"
+    ],
+    "short_names": {
+      "en": "Nagisa",
+      "ja": "ナギサ",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Natsu",
+    "images": [
+      "Natsu"
+    ],
+    "names": {
+      "en": "Yutori Natsu",
+      "ja": "柚鳥 ナツ",
+      "zh-cn": "柚鸟 夏",
+      "zh-tw": ""
+    },
+    "searches": [
+      "trinity",
+      "after_school_sweets_club"
+    ],
+    "short_names": {
+      "en": "Natsu",
+      "ja": "ナツ",
+      "zh-cn": "夏",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Neru",
+    "images": [
+      "Neru",
+      "Neru_BunnyGirl"
+    ],
+    "names": {
+      "en": "Mikamo Neru",
+      "ja": "美甘 ネル",
+      "zh-cn": "美甘 尼禄",
+      "zh-tw": "美甘 寧瑠"
+    },
+    "searches": [
+      "millennium",
+      "cleaning_and_clearing"
+    ],
+    "short_names": {
+      "en": "Neru",
+      "ja": "ネル",
+      "zh-cn": "尼禄",
+      "zh-tw": "寧瑠"
+    }
+  },
+  {
+    "id": "Nodoka",
+    "images": [
+      "Nodoka",
+      "Nodoka_Hotspring"
+    ],
+    "names": {
+      "en": "Amami Nodoka",
+      "ja": "天見 ノドカ",
+      "zh-cn": "天见 和香",
+      "zh-tw": "天見 和香"
+    },
+    "searches": [
+      "red_winter",
+      "special_class_no.227"
+    ],
+    "short_names": {
+      "en": "Nodoka",
+      "ja": "ノドカ",
+      "zh-cn": "和香",
+      "zh-tw": "和香"
+    }
+  },
+  {
+    "id": "Nonomi",
+    "images": [
+      "Nonomi",
+      "Nonomi_Robber"
+    ],
+    "names": {
+      "en": "Izayoi Nonomi",
+      "ja": "十六夜 ノノミ",
+      "zh-cn": "十六夜 野宫",
+      "zh-tw": "十六夜 野乃美"
+    },
+    "searches": [
+      "abydos",
+      "countermeasures_council",
+      "masked_swimsuit_group"
+    ],
+    "short_names": {
+      "en": "Nonomi",
+      "ja": "ノノミ",
+      "zh-cn": "野宫",
+      "zh-tw": "野乃美"
+    }
+  },
+  {
+    "id": "Nyantenmaru",
+    "images": [
+      "Nyantenmaru"
+    ],
+    "names": {
+      "en": " Nyantenmaru",
+      "ja": " ニャン天丸",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "hyakkiyako_commercial_district"
+    ],
+    "short_names": {
+      "en": "Nyantenmaru",
+      "ja": "ニャン天丸",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Peroro_Sama",
+    "images": [
+      "Peroro_Sama"
+    ],
+    "names": {
+      "en": " Peroro Sama",
+      "ja": " ペロロ様",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "momo_friends"
+    ],
+    "short_names": {
+      "en": "Peroro Sama",
+      "ja": "ペロロ様",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Perorozilla",
+    "images": [
+      "Perorozilla"
+    ],
+    "names": {
+      "en": " Perorozilla",
+      "ja": " ペロロジラ",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "the_library_of_lore"
+    ],
+    "short_names": {
+      "en": "Perorozilla",
+      "ja": "ペロロジラ",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Pina",
+    "images": [
+      "Pina"
+    ],
+    "names": {
+      "en": "Asahina Pina",
+      "ja": "朝比奈 フィーナ",
+      "zh-cn": "朝比奈 菲娜",
+      "zh-tw": "朝比奈 菲娜"
+    },
+    "searches": [
+      "hyakkiyako",
+      "festival_operations_department"
+    ],
+    "short_names": {
+      "en": "Pina",
+      "ja": "フィーナ",
+      "zh-cn": "菲娜",
+      "zh-tw": "菲娜"
+    }
+  },
+  {
+    "id": "Rin",
+    "images": [
+      "Rin"
+    ],
+    "names": {
+      "en": "Nanagami Rin",
+      "ja": "七神 リン",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "prime_student_council"
+    ],
+    "short_names": {
+      "en": "Rin",
+      "ja": "リン",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Saki",
+    "images": [
+      "Saki"
+    ],
+    "names": {
+      "en": "Sorai Saki",
+      "ja": "空井 サキ",
+      "zh-cn": "空井 咲",
+      "zh-tw": ""
+    },
+    "searches": [
+      "srt",
+      "rabbit_platoon"
+    ],
+    "short_names": {
+      "en": "Saki",
+      "ja": "サキ",
+      "zh-cn": "咲",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Saya",
+    "images": [
+      "Saya",
+      "Saya_Casual"
+    ],
+    "names": {
+      "en": "Yakushi Saya",
+      "ja": "薬子 サヤ",
+      "zh-cn": "药子 沙绫",
+      "zh-tw": "藥子 沙耶"
+    },
+    "searches": [
+      "shanhaijing",
+      "eastern_alchemy_society"
+    ],
+    "short_names": {
+      "en": "Saya",
+      "ja": "サヤ",
+      "zh-cn": "沙绫",
+      "zh-tw": "沙耶"
+    }
+  },
+  {
+    "id": "Seia",
+    "images": [
+      "Seia"
+    ],
+    "names": {
+      "en": "Yurizono Seia",
+      "ja": "百合園 セイア",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "trinity",
+      "tea_party"
+    ],
+    "short_names": {
+      "en": "Seia",
+      "ja": "セイア",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Sena",
+    "images": [
+      "Sena"
+    ],
+    "names": {
+      "en": "Himuro Sena",
+      "ja": "氷室 セナ",
+      "zh-cn": "氷室 濑名",
+      "zh-tw": ""
+    },
+    "searches": [
+      "gehenna",
+      "emergency_medicine_club"
+    ],
+    "short_names": {
+      "en": "Sena",
+      "ja": "セナ",
+      "zh-cn": "濑名",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Serika",
+    "images": [
+      "Serika",
+      "Serika_Robber",
+      "Serika_Shibaseki",
+      "Serika_Newyear"
+    ],
+    "names": {
+      "en": "Kuromi Serika",
+      "ja": "黒見 セリカ",
+      "zh-cn": "黑见 芹香",
+      "zh-tw": "黑見 茜香"
+    },
+    "searches": [
+      "abydos",
+      "countermeasures_council",
+      "masked_swimsuit_group",
+      "sibaseki_ramen"
+    ],
+    "short_names": {
+      "en": "Serika",
+      "ja": "セリカ",
+      "zh-cn": "芹香",
+      "zh-tw": "茜香"
+    }
+  },
+  {
+    "id": "Serina",
+    "images": [
+      "Serina"
+    ],
+    "names": {
+      "en": "Sumi Serina",
+      "ja": "鷲見 セリナ",
+      "zh-cn": "鹫见 芹娜",
+      "zh-tw": "鷲見 芹奈"
+    },
+    "searches": [
+      "trinity",
+      "remedial_knights"
+    ],
+    "short_names": {
+      "en": "Serina",
+      "ja": "セリナ",
+      "zh-cn": "芹娜",
+      "zh-tw": "芹奈"
+    }
+  },
+  {
+    "id": "Shibaseki_Master",
+    "images": [
+      "Shibaseki_Master"
+    ],
+    "names": {
+      "en": " Shibaseki Master",
+      "ja": " 柴大将",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "sibaseki_ramen"
+    ],
+    "short_names": {
+      "en": "Shibaseki Master",
+      "ja": "柴大将",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Shigure",
+    "images": [
+      "Shigure",
+      "Shigure_Hotspring"
+    ],
+    "names": {
+      "en": "Mayoi Shigure",
+      "ja": "間宵 シグレ",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "red_winter",
+      "special_class_no.227"
+    ],
+    "short_names": {
+      "en": "Shigure",
+      "ja": "シグレ",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Shimiko",
+    "images": [
+      "Shimiko"
+    ],
+    "names": {
+      "en": "Endou Shimiko",
+      "ja": "円堂 シミコ",
+      "zh-cn": "圆堂 志美子",
+      "zh-tw": "円堂 志美子"
+    },
+    "searches": [
+      "trinity",
+      "library_committee"
+    ],
+    "short_names": {
+      "en": "Shimiko",
+      "ja": "シミコ",
+      "zh-cn": "志美子",
+      "zh-tw": "志美子"
+    }
+  },
+  {
+    "id": "Shiro",
+    "images": [
+      "Shiro"
+    ],
+    "names": {
+      "en": " Shiro",
+      "ja": " シロ",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "mimesis"
+    ],
+    "short_names": {
+      "en": "Shiro",
+      "ja": "シロ",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Shiroko",
+    "images": [
+      "Shiroko",
+      "Shiroko_Robber",
+      "Shiroko_Ridingsuit"
+    ],
+    "names": {
+      "en": "Sunaookami Shiroko",
+      "ja": "砂狼 シロコ",
+      "zh-cn": "砂狼 白子",
+      "zh-tw": "砂狼 白子"
+    },
+    "searches": [
+      "abydos",
+      "countermeasures_council",
+      "masked_swimsuit_group"
+    ],
+    "short_names": {
+      "en": "Shiroko",
+      "ja": "シロコ",
+      "zh-cn": "白子",
+      "zh-tw": "白子"
+    }
+  },
+  {
+    "id": "Shizuko",
+    "images": [
+      "Shizuko"
+    ],
+    "names": {
+      "en": "Kawawa Shizuko",
+      "ja": "河和 シズコ",
+      "zh-cn": "河和 静子",
+      "zh-tw": "河和 靜子"
+    },
+    "searches": [
+      "hyakkiyako",
+      "festival_operations_department"
+    ],
+    "short_names": {
+      "en": "Shizuko",
+      "ja": "シズコ",
+      "zh-cn": "静子",
+      "zh-tw": "靜子"
+    }
+  },
+  {
+    "id": "Shun",
+    "images": [
+      "Shun",
+      "Shun_Little_Girl"
+    ],
+    "names": {
+      "en": "Sunohara Shun",
+      "ja": "春原 シュン",
+      "zh-cn": "春原 瞬",
+      "zh-tw": "春原 旬"
+    },
+    "searches": [
+      "shanhaijing",
+      "plum_blossom_garden"
+    ],
+    "short_names": {
+      "en": "Shun",
+      "ja": "シュン",
+      "zh-cn": "瞬",
+      "zh-tw": "旬"
+    }
+  },
+  {
+    "id": "Sisterhood",
+    "images": [
+      "Sisterhood_Executive"
+    ],
+    "names": {
+      "en": " Sisterhood",
+      "ja": " シスターフッド",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "trinity",
+      "sisterhood"
+    ],
+    "short_names": {
+      "en": "Sisterhood",
+      "ja": "シスターフッド",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Sora",
+    "images": [
+      "Sora"
+    ],
+    "names": {
+      "en": " Sora",
+      "ja": " ソラ",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "angel_24"
+    ],
+    "short_names": {
+      "en": "Sora",
+      "ja": "ソラ",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Sudama_ichiza",
+    "images": [
+      "StreetGhoste_RL_Yukata",
+      "Yukata_StreetGhostes"
+    ],
+    "names": {
+      "en": " Sudama Ichiza",
+      "ja": " 魑魅一座",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "sudama_ichiza"
+    ],
+    "short_names": {
+      "en": "Sudama Ichiza",
+      "ja": "魑魅一座",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Sumire",
+    "images": [
+      "Sumire"
+    ],
+    "names": {
+      "en": "Otohana Sumire",
+      "ja": "乙花 スミレ",
+      "zh-cn": "乙花 菫",
+      "zh-tw": "乙花 堇"
+    },
+    "searches": [
+      "millennium",
+      "athletics_training_club"
+    ],
+    "short_names": {
+      "en": "Sumire",
+      "ja": "スミレ",
+      "zh-cn": "菫",
+      "zh-tw": "堇"
+    }
+  },
+  {
+    "id": "Suzumi",
+    "images": [
+      "Suzumi"
+    ],
+    "names": {
+      "en": "Morizuki Suzumi",
+      "ja": "守月 スズミ",
+      "zh-cn": "守月 铃美",
+      "zh-tw": "守月 鈴美"
+    },
+    "searches": [
+      "trinity",
+      "vigilante_crew"
+    ],
+    "short_names": {
+      "en": "Suzumi",
+      "ja": "スズミ",
+      "zh-cn": "铃美",
+      "zh-tw": "鈴美"
+    }
+  },
+  {
+    "id": "Tea_party",
+    "images": [
+      "Teaparty_Escort",
+      "Teaparty_Administrator"
+    ],
+    "names": {
+      "en": " Tea Party",
+      "ja": " ティーパーティー",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "trinity",
+      "tea_party"
+    ],
+    "short_names": {
+      "en": "Tea Party",
+      "ja": "ティーパーティー",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Tomoe",
+    "images": [
+      "Tomoe"
+    ],
+    "names": {
+      "en": "Sashiro Tomoe",
+      "ja": "佐城 トモエ",
+      "zh-cn": "佐城 巴",
+      "zh-tw": ""
+    },
+    "searches": [
+      "red_winter",
+      "red_winter_secretariat"
+    ],
+    "short_names": {
+      "en": "Tomoe",
+      "ja": "トモエ",
+      "zh-cn": "巴",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Tsubaki",
+    "images": [
+      "Tsubaki"
+    ],
+    "names": {
+      "en": "Kasuga Tsubaki",
+      "ja": "春日 ツバキ",
+      "zh-cn": "春日 椿",
+      "zh-tw": "春日 椿"
+    },
+    "searches": [
+      "hyakkiyako",
+      "inner_discipline_club"
+    ],
+    "short_names": {
+      "en": "Tsubaki",
+      "ja": "ツバキ",
+      "zh-cn": "椿",
+      "zh-tw": "椿"
+    }
+  },
+  {
+    "id": "Tsurugi",
+    "images": [
+      "Tsurugi",
+      "Tsurugi_Swimsuit"
+    ],
+    "names": {
+      "en": "Kenzaki Tsurugi",
+      "ja": "剣先 ツルギ",
+      "zh-cn": "剑先 鹤城",
+      "zh-tw": "剣先 弦生"
+    },
+    "searches": [
+      "trinity",
+      "justice_task_force"
+    ],
+    "short_names": {
+      "en": "Tsurugi",
+      "ja": "ツルギ",
+      "zh-cn": "鹤城",
+      "zh-tw": "弦生"
+    }
+  },
+  {
+    "id": "Ui",
+    "images": [
+      "Ui"
+    ],
+    "names": {
+      "en": "Kozeki Ui",
+      "ja": "古関 ウイ",
+      "zh-cn": "古关 忧",
+      "zh-tw": ""
+    },
+    "searches": [
+      "trinity",
+      "library_committee"
+    ],
+    "short_names": {
+      "en": "Ui",
+      "ja": "ウイ",
+      "zh-cn": "忧",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Utaha",
+    "images": [
+      "Utaha"
+    ],
+    "names": {
+      "en": "Shiraishi Utaha",
+      "ja": "白石 ウタハ",
+      "zh-cn": "白石 歌原",
+      "zh-tw": "白石 詠葉"
+    },
+    "searches": [
+      "millennium",
+      "engineering_club"
+    ],
+    "short_names": {
+      "en": "Utaha",
+      "ja": "ウタハ",
+      "zh-cn": "歌原",
+      "zh-tw": "詠葉"
+    }
+  },
+  {
+    "id": "Wakamo",
+    "images": [
+      "Wakamo"
+    ],
+    "names": {
+      "en": "Kosaka Wakamo",
+      "ja": "狐坂 ワカモ",
+      "zh-cn": "狐坂 若藻",
+      "zh-tw": ""
+    },
+    "searches": [
+      "hyakkiyako",
+      ""
+    ],
+    "short_names": {
+      "en": "Wakamo",
+      "ja": "ワカモ",
+      "zh-cn": "若藻",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Yoshimi",
+    "images": [
+      "Yoshimi"
+    ],
+    "names": {
+      "en": "Ibaragi Yoshimi",
+      "ja": "伊原木 ヨシミ",
+      "zh-cn": "伊原木 好美",
+      "zh-tw": "伊原木 喜美"
+    },
+    "searches": [
+      "trinity",
+      "after_school_sweets_club"
+    ],
+    "short_names": {
+      "en": "Yoshimi",
+      "ja": "ヨシミ",
+      "zh-cn": "好美",
+      "zh-tw": "喜美"
+    }
+  },
+  {
+    "id": "Yuuka",
+    "images": [
+      "Yuuka"
+    ],
+    "names": {
+      "en": "Hayase Yuuka",
+      "ja": "早瀬 ユウカ",
+      "zh-cn": "早濑 优香",
+      "zh-tw": "早瀬 優香"
+    },
+    "searches": [
+      "millennium",
+      "seminar"
+    ],
+    "short_names": {
+      "en": "Yuuka",
+      "ja": "ユウカ",
+      "zh-cn": "优香",
+      "zh-tw": "優香"
+    }
+  },
+  {
+    "id": "Yuzu",
+    "images": [
+      "Yuzu"
+    ],
+    "names": {
+      "en": "Hanaoka Yuzu",
+      "ja": "花岡 ユズ",
+      "zh-cn": "花冈 柚子",
+      "zh-tw": "花岡 柚子"
+    },
+    "searches": [
+      "millennium",
+      "game_development_department"
+    ],
+    "short_names": {
+      "en": "Yuzu",
+      "ja": "ユズ",
+      "zh-cn": "柚子",
+      "zh-tw": "柚子"
+    }
+  }
+]
