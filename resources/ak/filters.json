@@ -1,0 +1,41 @@
+[
+  {
+    "active": [
+      true,
+      false,
+      false
+    ],
+    "filter_names": [
+      {
+        "en": "Operator",
+        "ja": "",
+        "zh-cn": "干员",
+        "zh-tw": ""
+      },
+      {
+        "en": "Token",
+        "ja": "",
+        "zh-cn": "Token",
+        "zh-tw": ""
+      },
+      {
+        "en": "Enemy",
+        "ja": "",
+        "zh-cn": "敌方",
+        "zh-tw": ""
+      }
+    ],
+    "filter_searches": [
+      ":#type-char",
+      ":#type-token",
+      ":#type-enemy"
+    ],
+    "group_key": "type",
+    "group_name": {
+      "en": "Type",
+      "ja": "",
+      "zh-cn": "类型",
+      "zh-tw": ""
+    }
+  }
+]
