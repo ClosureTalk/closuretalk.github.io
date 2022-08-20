@@ -293,6 +293,28 @@
     }
   },
   {
+    "id": "Binah",
+    "images": [
+      "Binah"
+    ],
+    "names": {
+      "en": " Binah",
+      "ja": " ビナー",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "decagrammaton"
+    ],
+    "short_names": {
+      "en": "Binah",
+      "ja": "ビナー",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "Black_Suit",
     "images": [
       "Black_Suit"
@@ -335,6 +357,28 @@
       "ja": "チェリノ",
       "zh-cn": "切里诺",
       "zh-tw": "潔莉諾"
+    }
+  },
+  {
+    "id": "Chesed",
+    "images": [
+      "Chesed"
+    ],
+    "names": {
+      "en": " Chesed",
+      "ja": " ケセド",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "decagrammaton"
+    ],
+    "short_names": {
+      "en": "Chesed",
+      "ja": "ケセド",
+      "zh-cn": "",
+      "zh-tw": ""
     }
   },
   {
@@ -741,6 +785,28 @@
     }
   },
   {
+    "id": "Hieronymus",
+    "images": [
+      "Hieronymus"
+    ],
+    "names": {
+      "en": " Hieronymus",
+      "ja": " ヒエロニムス",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "communio_sanctorum"
+    ],
+    "short_names": {
+      "en": "Hieronymus",
+      "ja": "ヒエロニムス",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "Hifumi",
     "images": [
       "Hifumi",
@@ -829,6 +895,28 @@
     "short_names": {
       "en": "Hiyori",
       "ja": "ヒヨリ",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Hod",
+    "images": [
+      "Hod"
+    ],
+    "names": {
+      "en": " Hod",
+      "ja": " ホド",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "decagrammaton"
+    ],
+    "short_names": {
+      "en": "Hod",
+      "ja": "ホド",
       "zh-cn": "",
       "zh-tw": ""
     }
@@ -1009,6 +1097,28 @@
     "short_names": {
       "en": "Justice Task Force Member",
       "ja": "正義実現委員会部員",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "KAITEN_FX_Mk_0",
+    "images": [
+      "KaitenFxMk0"
+    ],
+    "names": {
+      "en": " KAITEN FX Mk.0",
+      "ja": " KAITEN FX Mk.0",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "kaitenger"
+    ],
+    "short_names": {
+      "en": "KAITEN FX Mk.0",
+      "ja": "KAITEN FX Mk.0",
       "zh-cn": "",
       "zh-tw": ""
     }
@@ -1240,6 +1350,28 @@
       "ja": "コトリ",
       "zh-cn": "琴里",
       "zh-tw": "亞都梨"
+    }
+  },
+  {
+    "id": "Kuro",
+    "images": [
+      "Kuro"
+    ],
+    "names": {
+      "en": " Kuro",
+      "ja": " クロ",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "mimesis"
+    ],
+    "short_names": {
+      "en": "Kuro",
+      "ja": "クロ",
+      "zh-cn": "",
+      "zh-tw": ""
     }
   },
   {
@@ -1799,6 +1931,28 @@
     }
   },
   {
+    "id": "Perorozilla",
+    "images": [
+      "Perorozilla"
+    ],
+    "names": {
+      "en": " Perorozilla",
+      "ja": " ペロロジラ",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "the_library_of_lore"
+    ],
+    "short_names": {
+      "en": "Perorozilla",
+      "ja": "ペロロジラ",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "Pina",
     "images": [
       "Pina"
@@ -2067,6 +2221,28 @@
       "ja": "シミコ",
       "zh-cn": "志美子",
       "zh-tw": "志美子"
+    }
+  },
+  {
+    "id": "Shiro",
+    "images": [
+      "Shiro"
+    ],
+    "names": {
+      "en": " Shiro",
+      "ja": " シロ",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "???",
+      "mimesis"
+    ],
+    "short_names": {
+      "en": "Shiro",
+      "ja": "シロ",
+      "zh-cn": "",
+      "zh-tw": ""
     }
   },
   {
