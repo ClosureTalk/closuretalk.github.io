@@ -1240,6 +1240,28 @@
     }
   },
   {
+    "id": "Kazusa",
+    "images": [
+      "Kazusa"
+    ],
+    "names": {
+      "en": "Kyouyama Kazusa",
+      "ja": "杏山 カズサ",
+      "zh-cn": "Kyouyama Kazusa",
+      "zh-tw": "Kyouyama Kazusa"
+    },
+    "searches": [
+      "trinity",
+      "after_school_sweets_club"
+    ],
+    "short_names": {
+      "en": "Kazusa",
+      "ja": "カズサ",
+      "zh-cn": "Kazusa",
+      "zh-tw": "Kazusa"
+    }
+  },
+  {
     "id": "Kirino",
     "images": [
       "Kirino"

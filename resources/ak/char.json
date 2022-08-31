@@ -3901,7 +3901,8 @@
     "id": "char_356_broca",
     "images": [
       "char_356_broca",
-      "char_356_broca_2"
+      "char_356_broca_2",
+      "char_356_broca_marthe#4"
     ],
     "names": {
       "en": "Broca",
@@ -5558,7 +5559,8 @@
     "id": "char_484_robrta",
     "images": [
       "char_484_robrta",
-      "char_484_robrta_2"
+      "char_484_robrta_2",
+      "char_484_robrta_summer#10"
     ],
     "names": {
       "en": "Roberta",
@@ -6439,7 +6441,8 @@
   {
     "id": "token_10018_robrta_mach",
     "images": [
-      "token_10018_robrta_mach"
+      "token_10018_robrta_mach",
+      "token_10018_robrta_mach_summer#10"
     ],
     "names": {
       "en": "Full Auto Modeler",
@@ -7710,6 +7713,28 @@
       "en": "Fluorescent Spores",
       "ja": "Fluorescent Spores",
       "zh-cn": "荧光孢子",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_090_recodr",
+    "images": [
+      "trap_090_recodr"
+    ],
+    "names": {
+      "en": "Entitative Program",
+      "ja": "Entitative Program",
+      "zh-cn": "实体程式",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Entitative Program",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Entitative Program",
+      "ja": "Entitative Program",
+      "zh-cn": "实体程式",
       "zh-tw": ""
     }
   },
