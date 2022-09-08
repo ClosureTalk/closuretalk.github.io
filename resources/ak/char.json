@@ -2816,7 +2816,8 @@
     "id": "char_264_f12yin",
     "images": [
       "char_264_f12yin",
-      "char_264_f12yin_boc#3"
+      "char_264_f12yin_boc#3",
+      "char_264_f12yin_epoque#15"
     ],
     "names": {
       "en": "Mountain",
@@ -3616,6 +3617,7 @@
     "images": [
       "char_337_utage",
       "char_337_utage_2",
+      "char_337_utage_epoque#15",
       "char_337_utage_summer#4"
     ],
     "names": {
@@ -4551,6 +4553,29 @@
     }
   },
   {
+    "id": "char_4032_provs",
+    "images": [
+      "char_4032_provs",
+      "char_4032_provs_2"
+    ],
+    "names": {
+      "en": "Proviso",
+      "ja": "Proviso",
+      "zh-cn": "但书",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Proviso",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Proviso",
+      "ja": "Proviso",
+      "zh-cn": "但书",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "char_4036_forcer",
     "images": [
       "char_4036_forcer",
@@ -4847,6 +4872,29 @@
       "ja": "アブサント",
       "zh-cn": "苦艾",
       "zh-tw": "苦艾"
+    }
+  },
+  {
+    "id": "char_4064_mlynar",
+    "images": [
+      "char_4064_mlynar",
+      "char_4064_mlynar_2"
+    ],
+    "names": {
+      "en": "Młynar",
+      "ja": "Młynar",
+      "zh-cn": "玛恩纳",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Młynar",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Młynar",
+      "ja": "Młynar",
+      "zh-cn": "玛恩纳",
+      "zh-tw": ""
     }
   },
   {
@@ -5464,7 +5512,8 @@
     "id": "char_475_akafyu",
     "images": [
       "char_475_akafyu",
-      "char_475_akafyu_2"
+      "char_475_akafyu_2",
+      "char_475_akafyu_epoque#15"
     ],
     "names": {
       "en": "Akafuyu",
