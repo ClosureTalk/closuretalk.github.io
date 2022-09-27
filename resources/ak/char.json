@@ -2122,7 +2122,8 @@
   {
     "id": "char_210_stward",
     "images": [
-      "char_210_stward"
+      "char_210_stward",
+      "char_210_stward_sale#6"
     ],
     "names": {
       "en": "Steward",
@@ -3291,7 +3292,7 @@
     ],
     "names": {
       "en": "Fiammetta",
-      "ja": "Fiammetta",
+      "ja": "フィアメッタ",
       "zh-cn": "菲亚梅塔",
       "zh-tw": ""
     },
@@ -3301,7 +3302,7 @@
     ],
     "short_names": {
       "en": "Fiammetta",
-      "ja": "Fiammetta",
+      "ja": "フィアメッタ",
       "zh-cn": "菲亚梅塔",
       "zh-tw": ""
     }
@@ -3928,7 +3929,8 @@
     "images": [
       "char_358_lisa",
       "char_358_lisa_2",
-      "char_358_lisa_wild#3"
+      "char_358_lisa_wild#3",
+      "char_358_lisa_lxh#1"
     ],
     "names": {
       "en": "Suzuran",
@@ -4442,7 +4444,7 @@
     ],
     "names": {
       "en": "Kazemaru",
-      "ja": "Kazemaru",
+      "ja": "カゼマル",
       "zh-cn": "风丸",
       "zh-tw": ""
     },
@@ -4452,7 +4454,7 @@
     ],
     "short_names": {
       "en": "Kazemaru",
-      "ja": "Kazemaru",
+      "ja": "カゼマル",
       "zh-cn": "风丸",
       "zh-tw": ""
     }
@@ -4583,7 +4585,7 @@
     ],
     "names": {
       "en": "Enforcer",
-      "ja": "Enforcer",
+      "ja": "エンフォーサー",
       "zh-cn": "见行者",
       "zh-tw": ""
     },
@@ -4593,7 +4595,7 @@
     ],
     "short_names": {
       "en": "Enforcer",
-      "ja": "Enforcer",
+      "ja": "エンフォーサー",
       "zh-cn": "见行者",
       "zh-tw": ""
     }
@@ -4625,7 +4627,8 @@
     "id": "char_4040_rockr",
     "images": [
       "char_4040_rockr",
-      "char_4040_rockr_2"
+      "char_4040_rockr_2",
+      "char_4040_rockr_lxh#1"
     ],
     "names": {
       "en": "Rockrock",
@@ -4894,6 +4897,52 @@
       "en": "Młynar",
       "ja": "Młynar",
       "zh-cn": "玛恩纳",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_4066_highmo",
+    "images": [
+      "char_4066_highmo",
+      "char_4066_highmo_2"
+    ],
+    "names": {
+      "en": "Highmore",
+      "ja": "Highmore",
+      "zh-cn": "海沫",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Highmore",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Highmore",
+      "ja": "Highmore",
+      "zh-cn": "海沫",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_4067_lolxh",
+    "images": [
+      "char_4067_lolxh",
+      "char_4067_lolxh_2"
+    ],
+    "names": {
+      "en": "Luo Xiaohei",
+      "ja": "Luo Xiaohei",
+      "zh-cn": "罗小黑",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Luo Xiaohei",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Luo Xiaohei",
+      "ja": "Luo Xiaohei",
+      "zh-cn": "罗小黑",
       "zh-tw": ""
     }
   },
@@ -5726,7 +5775,8 @@
     "id": "char_496_wildmn",
     "images": [
       "char_496_wildmn",
-      "char_496_wildmn_2"
+      "char_496_wildmn_2",
+      "char_496_wildmn_epoque#16"
     ],
     "names": {
       "en": "Wild Mane",
@@ -6056,6 +6106,50 @@
       "en": "Shalem",
       "ja": "シャレム",
       "zh-cn": "暮落",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_513_apionr",
+    "images": [
+      "char_513_apionr"
+    ],
+    "names": {
+      "en": "Tulip",
+      "ja": "Tulip",
+      "zh-cn": "郁金香",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Tulip",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Tulip",
+      "ja": "Tulip",
+      "zh-cn": "郁金香",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_514_rdfend",
+    "images": [
+      "char_514_rdfend"
+    ],
+    "names": {
+      "en": "Reserve (Defender)",
+      "ja": "Reserve (Defender)",
+      "zh-cn": "预备干员-重装",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Reserve (Defender)",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Reserve (Defender)",
+      "ja": "Reserve (Defender)",
+      "zh-cn": "预备干员-重装",
       "zh-tw": ""
     }
   },
@@ -6628,7 +6722,7 @@
     ],
     "names": {
       "en": "Kaminingyo",
-      "ja": "Kaminingyo",
+      "ja": "紙人形",
       "zh-cn": "纸偶",
       "zh-tw": ""
     },
@@ -6638,7 +6732,7 @@
     ],
     "short_names": {
       "en": "Kaminingyo",
-      "ja": "Kaminingyo",
+      "ja": "紙人形",
       "zh-cn": "纸偶",
       "zh-tw": ""
     }
@@ -7353,8 +7447,8 @@
       "trap_057_wpnsts"
     ],
     "names": {
-      "en": "\"Gelato Stop\"",
-      "ja": "\"Gelato Stop\"",
+      "en": "'Gelato Stop'",
+      "ja": "「ジェラート供給所」",
       "zh-cn": "“冰淇淋机”",
       "zh-tw": ""
     },
@@ -7363,8 +7457,8 @@
       ":#type-trap"
     ],
     "short_names": {
-      "en": "\"Gelato Stop\"",
-      "ja": "\"Gelato Stop\"",
+      "en": "'Gelato Stop'",
+      "ja": "「ジェラート供給所」",
       "zh-cn": "“冰淇淋机”",
       "zh-tw": ""
     }
@@ -7454,6 +7548,28 @@
       "en": "\"Resonator\"",
       "ja": "\"Resonator\"",
       "zh-cn": "“谐振器”",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_067_dice",
+    "images": [
+      "trap_067_dice"
+    ],
+    "names": {
+      "en": "Dice",
+      "ja": "Dice",
+      "zh-cn": "骰子",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Dice",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Dice",
+      "ja": "Dice",
+      "zh-cn": "骰子",
       "zh-tw": ""
     }
   },
@@ -7744,6 +7860,50 @@
     }
   },
   {
+    "id": "trap_083_bunker",
+    "images": [
+      "trap_083_bunker"
+    ],
+    "names": {
+      "en": "Barrier",
+      "ja": "Barrier",
+      "zh-cn": "掩体",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Barrier",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Barrier",
+      "ja": "Barrier",
+      "zh-cn": "掩体",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_084_aidkit",
+    "images": [
+      "trap_084_aidkit"
+    ],
+    "names": {
+      "en": "First-aid Kit",
+      "ja": "First-aid Kit",
+      "zh-cn": "急救包",
+      "zh-tw": ""
+    },
+    "searches": [
+      "First-aid Kit",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "First-aid Kit",
+      "ja": "First-aid Kit",
+      "zh-cn": "急救包",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "trap_085_paras",
     "images": [
       "trap_085_paras"
@@ -7762,6 +7922,50 @@
       "en": "Fluorescent Spores",
       "ja": "Fluorescent Spores",
       "zh-cn": "荧光孢子",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_088_dice2",
+    "images": [
+      "trap_088_dice2"
+    ],
+    "names": {
+      "en": "Eight-sided Dice",
+      "ja": "Eight-sided Dice",
+      "zh-cn": "8面骰子",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Eight-sided Dice",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Eight-sided Dice",
+      "ja": "Eight-sided Dice",
+      "zh-cn": "8面骰子",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_089_dice3",
+    "images": [
+      "trap_089_dice3"
+    ],
+    "names": {
+      "en": "Twelve-sided Dice",
+      "ja": "Twelve-sided Dice",
+      "zh-cn": "12面骰子",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Twelve-sided Dice",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Twelve-sided Dice",
+      "ja": "Twelve-sided Dice",
+      "zh-cn": "12面骰子",
       "zh-tw": ""
     }
   },
@@ -16445,8 +16649,8 @@
       "enemy_1212_mtrfol"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Pathfinder Legionarius",
+      "ja": "求道戦士",
       "zh-cn": "寻路者战士",
       "zh-tw": ""
     },
@@ -16454,8 +16658,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Pathfinder Legionarius",
+      "ja": "求道戦士",
       "zh-cn": "寻路者战士",
       "zh-tw": ""
     }
@@ -16466,8 +16670,8 @@
       "enemy_1212_mtrfol_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Pathfinder Legionarius Prefect",
+      "ja": "精鋭求道戦士",
       "zh-cn": "寻路者精锐战士",
       "zh-tw": ""
     },
@@ -16475,8 +16679,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Pathfinder Legionarius Prefect",
+      "ja": "精鋭求道戦士",
       "zh-cn": "寻路者精锐战士",
       "zh-tw": ""
     }
@@ -16487,8 +16691,8 @@
       "enemy_1213_mtrsnp"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Pathfinder Sagittarius",
+      "ja": "求道狙撃手",
       "zh-cn": "寻路者狙击手",
       "zh-tw": ""
     },
@@ -16496,8 +16700,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Pathfinder Sagittarius",
+      "ja": "求道狙撃手",
       "zh-cn": "寻路者狙击手",
       "zh-tw": ""
     }
@@ -16508,8 +16712,8 @@
       "enemy_1213_mtrsnp_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Pathfinder Sagittarius Prefect",
+      "ja": "精鋭求道狙撃手",
       "zh-cn": "寻路者精锐狙击手",
       "zh-tw": ""
     },
@@ -16517,8 +16721,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Pathfinder Sagittarius Prefect",
+      "ja": "精鋭求道狙撃手",
       "zh-cn": "寻路者精锐狙击手",
       "zh-tw": ""
     }
@@ -16529,8 +16733,8 @@
       "enemy_1214_mtrmgc"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Pathfinder Artifex",
+      "ja": "求道術師",
       "zh-cn": "寻路者术师",
       "zh-tw": ""
     },
@@ -16538,8 +16742,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Pathfinder Artifex",
+      "ja": "求道術師",
       "zh-cn": "寻路者术师",
       "zh-tw": ""
     }
@@ -16550,8 +16754,8 @@
       "enemy_1214_mtrmgc_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Pathfinder Artifex Prefect",
+      "ja": "精鋭求道術師",
       "zh-cn": "寻路者精锐术师",
       "zh-tw": ""
     },
@@ -16559,8 +16763,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Pathfinder Artifex Prefect",
+      "ja": "精鋭求道術師",
       "zh-cn": "寻路者精锐术师",
       "zh-tw": ""
     }
@@ -16571,8 +16775,8 @@
       "enemy_1215_ptrarc"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Pathfinder Veles",
+      "ja": "求道強襲者",
       "zh-cn": "寻路者突击手",
       "zh-tw": ""
     },
@@ -16580,8 +16784,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Pathfinder Veles",
+      "ja": "求道強襲者",
       "zh-cn": "寻路者突击手",
       "zh-tw": ""
     }
@@ -16592,8 +16796,8 @@
       "enemy_1215_ptrarc_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Pathfinder Veles Prefect",
+      "ja": "精鋭求道強襲者",
       "zh-cn": "寻路者奇兵",
       "zh-tw": ""
     },
@@ -16601,8 +16805,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Pathfinder Veles Prefect",
+      "ja": "精鋭求道強襲者",
       "zh-cn": "寻路者奇兵",
       "zh-tw": ""
     }
@@ -16613,8 +16817,8 @@
       "enemy_1216_cansld"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Pathfinder Ballistarius",
+      "ja": "求道ブレイカー",
       "zh-cn": "寻路者阵地破坏者",
       "zh-tw": ""
     },
@@ -16622,8 +16826,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Pathfinder Ballistarius",
+      "ja": "求道ブレイカー",
       "zh-cn": "寻路者阵地破坏者",
       "zh-tw": ""
     }
@@ -16634,8 +16838,8 @@
       "enemy_1216_cansld_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Pathfinder Ballistarius Prefect",
+      "ja": "精鋭求道ブレイカー",
       "zh-cn": "寻路者阵地撕裂者",
       "zh-tw": ""
     },
@@ -16643,8 +16847,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Pathfinder Ballistarius Prefect",
+      "ja": "精鋭求道ブレイカー",
       "zh-cn": "寻路者阵地撕裂者",
       "zh-tw": ""
     }
@@ -16655,8 +16859,8 @@
       "enemy_1217_rescar"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Pathfinder Dessert Vendor",
+      "ja": "求道デザートショップ",
       "zh-cn": "寻路者甜品商",
       "zh-tw": ""
     },
@@ -16664,8 +16868,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Pathfinder Dessert Vendor",
+      "ja": "求道デザートショップ",
       "zh-cn": "寻路者甜品商",
       "zh-tw": ""
     }
@@ -16676,8 +16880,8 @@
       "enemy_1217_rescar_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Renowned Pathfinder Dessert Vendor",
+      "ja": "人気求道デザートショップ",
       "zh-cn": "寻路者知名甜品商",
       "zh-tw": ""
     },
@@ -16685,8 +16889,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Renowned Pathfinder Dessert Vendor",
+      "ja": "人気求道デザートショップ",
       "zh-cn": "寻路者知名甜品商",
       "zh-tw": ""
     }
@@ -16697,8 +16901,8 @@
       "enemy_1218_bomscr"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Snack Cart",
+      "ja": "キャンディカート",
       "zh-cn": "糖果车",
       "zh-tw": ""
     },
@@ -16706,8 +16910,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Snack Cart",
+      "ja": "キャンディカート",
       "zh-cn": "糖果车",
       "zh-tw": ""
     }
@@ -16718,8 +16922,8 @@
       "enemy_1218_bomscr_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Luscious Snack Cart",
+      "ja": "人気キャンディカート",
       "zh-cn": "精致糖果车",
       "zh-tw": ""
     },
@@ -16727,8 +16931,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Luscious Snack Cart",
+      "ja": "人気キャンディカート",
       "zh-cn": "精致糖果车",
       "zh-tw": ""
     }
@@ -16739,8 +16943,8 @@
       "enemy_1219_mtrbty"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Pathfinder Nuncio",
+      "ja": "求道レガトゥス",
       "zh-cn": "寻路者信使",
       "zh-tw": ""
     },
@@ -16748,8 +16952,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Pathfinder Nuncio",
+      "ja": "求道レガトゥス",
       "zh-cn": "寻路者信使",
       "zh-tw": ""
     }
@@ -16760,8 +16964,8 @@
       "enemy_1219_mtrbty_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Oren, Legatus",
+      "ja": "レガトゥス・オレン",
       "zh-cn": "万国信使，奥伦",
       "zh-tw": ""
     },
@@ -16769,8 +16973,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Oren, Legatus",
+      "ja": "レガトゥス・オレン",
       "zh-cn": "万国信使，奥伦",
       "zh-tw": ""
     }
@@ -19154,8 +19358,8 @@
       "enemy_1527_martyr"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Andoain, the 'Martyr'",
+      "ja": "「殉教者」アンドアイン",
       "zh-cn": "“殉道者”，安多恩",
       "zh-tw": ""
     },
@@ -19163,8 +19367,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Andoain, the 'Martyr'",
+      "ja": "「殉教者」アンドアイン",
       "zh-cn": "“殉道者”，安多恩",
       "zh-tw": ""
     }
@@ -19691,6 +19895,426 @@
       "en": "",
       "ja": "",
       "zh-cn": "“剧作家”",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_2021_syfish",
+    "images": [
+      "enemy_2021_syfish"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "骨海漂流体",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "骨海漂流体",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_2022_syzeni",
+    "images": [
+      "enemy_2022_syzeni"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "固海凿石者",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "固海凿石者",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_2023_sypult",
+    "images": [
+      "enemy_2023_sypult"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "投嗣育母",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "投嗣育母",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_2024_synut",
+    "images": [
+      "enemy_2024_synut"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "注亡拟嗣",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "注亡拟嗣",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_2025_syufo",
+    "images": [
+      "enemy_2025_syufo"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "掠海漂移体",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "掠海漂移体",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_2026_syudg",
+    "images": [
+      "enemy_2026_syudg"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "圣徒卡门",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "圣徒卡门",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_2027_syudg2",
+    "images": [
+      "enemy_2027_syudg2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "圣徒伊比利亚",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "圣徒伊比利亚",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_2028_syevil",
+    "images": [
+      "enemy_2028_syevil"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "接潮主教",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "接潮主教",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_2029_symon",
+    "images": [
+      "enemy_2029_symon"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "接潮蔑死体",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "接潮蔑死体",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_2030_symon2",
+    "images": [
+      "enemy_2030_symon2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "接潮斥亡体",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "接潮斥亡体",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_2031_syboy",
+    "images": [
+      "enemy_2031_syboy"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "塑路者",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "塑路者",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_2032_syboy2",
+    "images": [
+      "enemy_2032_syboy2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "延命塑路者",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "延命塑路者",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_2033_syboys",
+    "images": [
+      "enemy_2033_syboys"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "塑路者分形",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "塑路者分形",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_2034_sythef",
+    "images": [
+      "enemy_2034_sythef"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "流泪小子",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "流泪小子",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_2035_sybox",
+    "images": [
+      "enemy_2035_sybox"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "箱形恐鱼",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "箱形恐鱼",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_2036_syshop",
+    "images": [
+      "enemy_2036_syshop"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "坎诺特",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "坎诺特",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_2037_sygirl",
+    "images": [
+      "enemy_2037_sygirl"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“偏执泡影”",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“偏执泡影”",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_2038_sydonq",
+    "images": [
+      "enemy_2038_sydonq"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "最后的骑士",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "最后的骑士",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_2039_syskad",
+    "images": [
+      "enemy_2039_syskad"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "伊莎玛拉，腐化之心",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "伊莎玛拉，腐化之心",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_2040_syrott",
+    "images": [
+      "enemy_2040_syrott"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "伊莎玛拉之泪",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "伊莎玛拉之泪",
       "zh-tw": ""
     }
   },
