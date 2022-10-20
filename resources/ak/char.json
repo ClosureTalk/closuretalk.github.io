@@ -1304,6 +1304,29 @@
     }
   },
   {
+    "id": "char_157_dagda",
+    "images": [
+      "char_157_dagda",
+      "char_157_dagda_2"
+    ],
+    "names": {
+      "en": "Dagda",
+      "ja": "Dagda",
+      "zh-cn": "达格达",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Dagda",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Dagda",
+      "ja": "Dagda",
+      "zh-cn": "达格达",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "char_158_milu",
     "images": [
       "char_158_milu",
@@ -3453,7 +3476,8 @@
     "id": "char_322_lmlee",
     "images": [
       "char_322_lmlee",
-      "char_322_lmlee_2"
+      "char_322_lmlee_2",
+      "char_322_lmlee_witch#3"
     ],
     "names": {
       "en": "Lee",
@@ -3641,7 +3665,8 @@
   {
     "id": "char_338_iris",
     "images": [
-      "char_338_iris"
+      "char_338_iris",
+      "char_338_iris_witch#3"
     ],
     "names": {
       "en": "Iris",
@@ -4440,7 +4465,8 @@
     "id": "char_4016_kazema",
     "images": [
       "char_4016_kazema",
-      "char_4016_kazema_2"
+      "char_4016_kazema_2",
+      "char_4016_kazema_witch#3"
     ],
     "names": {
       "en": "Kazemaru",
@@ -4608,7 +4634,7 @@
     ],
     "names": {
       "en": "Horn",
-      "ja": "Horn",
+      "ja": "ホルン",
       "zh-cn": "号角",
       "zh-tw": ""
     },
@@ -4618,7 +4644,7 @@
     ],
     "short_names": {
       "en": "Horn",
-      "ja": "Horn",
+      "ja": "ホルン",
       "zh-cn": "号角",
       "zh-tw": ""
     }
@@ -4632,7 +4658,7 @@
     ],
     "names": {
       "en": "Rockrock",
-      "ja": "Rockrock",
+      "ja": "ロックロック",
       "zh-cn": "洛洛",
       "zh-tw": ""
     },
@@ -4642,7 +4668,7 @@
     ],
     "short_names": {
       "en": "Rockrock",
-      "ja": "Rockrock",
+      "ja": "ロックロック",
       "zh-cn": "洛洛",
       "zh-tw": ""
     }
@@ -4655,7 +4681,7 @@
     ],
     "names": {
       "en": "Chestnut",
-      "ja": "Chestnut",
+      "ja": "チェストナッツ",
       "zh-cn": "褐果",
       "zh-tw": ""
     },
@@ -4665,7 +4691,7 @@
     ],
     "short_names": {
       "en": "Chestnut",
-      "ja": "Chestnut",
+      "ja": "チェストナッツ",
       "zh-cn": "褐果",
       "zh-tw": ""
     }
@@ -4724,7 +4750,7 @@
     ],
     "names": {
       "en": "Heidi",
-      "ja": "Heidi",
+      "ja": "ハイディ",
       "zh-cn": "海蒂",
       "zh-tw": ""
     },
@@ -4734,7 +4760,7 @@
     ],
     "short_names": {
       "en": "Heidi",
-      "ja": "Heidi",
+      "ja": "ハイディ",
       "zh-cn": "海蒂",
       "zh-tw": ""
     }
@@ -4878,6 +4904,29 @@
     }
   },
   {
+    "id": "char_4062_totter",
+    "images": [
+      "char_4062_totter",
+      "char_4062_totter_2"
+    ],
+    "names": {
+      "en": "Totter",
+      "ja": "Totter",
+      "zh-cn": "铅踝",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Totter",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Totter",
+      "ja": "Totter",
+      "zh-cn": "铅踝",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "char_4064_mlynar",
     "images": [
       "char_4064_mlynar",
@@ -4943,6 +4992,52 @@
       "en": "Luo Xiaohei",
       "ja": "Luo Xiaohei",
       "zh-cn": "罗小黑",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_4071_peper",
+    "images": [
+      "char_4071_peper",
+      "char_4071_peper_2"
+    ],
+    "names": {
+      "en": "Paprika",
+      "ja": "Paprika",
+      "zh-cn": "明椒",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Paprika",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Paprika",
+      "ja": "Paprika",
+      "zh-cn": "明椒",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_4072_ironmn",
+    "images": [
+      "char_4072_ironmn",
+      "char_4072_ironmn_2"
+    ],
+    "names": {
+      "en": "Stainless",
+      "ja": "Stainless",
+      "zh-cn": "白铁",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Stainless",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Stainless",
+      "ja": "Stainless",
+      "zh-cn": "白铁",
       "zh-tw": ""
     }
   },
@@ -6718,7 +6813,8 @@
   {
     "id": "token_10022_kazema_shadow",
     "images": [
-      "token_10022_kazema_shadow"
+      "token_10022_kazema_shadow",
+      "token_10022_kazema_shadow_witch#3"
     ],
     "names": {
       "en": "Kaminingyo",
@@ -6822,6 +6918,72 @@
       "en": "Typewriters",
       "ja": "Typewriters",
       "zh-cn": "“打字机”",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "token_10027_ironmn_pile1",
+    "images": [
+      "token_10027_ironmn_pile1"
+    ],
+    "names": {
+      "en": "Stainless™ Multifunctional platform",
+      "ja": "Stainless™ Multifunctional platform",
+      "zh-cn": "白铁™多功能平台",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Stainless™ Multifunctional platform",
+      ":#type-token"
+    ],
+    "short_names": {
+      "en": "Stainless™ Multifunctional platform",
+      "ja": "Stainless™ Multifunctional platform",
+      "zh-cn": "白铁™多功能平台",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "token_10027_ironmn_pile2",
+    "images": [
+      "token_10027_ironmn_pile2"
+    ],
+    "names": {
+      "en": "Stainless™ Multifunctional platform",
+      "ja": "Stainless™ Multifunctional platform",
+      "zh-cn": "白铁™多功能平台",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Stainless™ Multifunctional platform",
+      ":#type-token"
+    ],
+    "short_names": {
+      "en": "Stainless™ Multifunctional platform",
+      "ja": "Stainless™ Multifunctional platform",
+      "zh-cn": "白铁™多功能平台",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "token_10027_ironmn_pile3",
+    "images": [
+      "token_10027_ironmn_pile3"
+    ],
+    "names": {
+      "en": "Prototype of Feist's Metal Crab",
+      "ja": "Prototype of Feist's Metal Crab",
+      "zh-cn": "铁钳号·原型机",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Prototype of Feist's Metal Crab",
+      ":#type-token"
+    ],
+    "short_names": {
+      "en": "Prototype of Feist's Metal Crab",
+      "ja": "Prototype of Feist's Metal Crab",
+      "zh-cn": "铁钳号·原型机",
       "zh-tw": ""
     }
   },
@@ -7926,6 +8088,50 @@
     }
   },
   {
+    "id": "trap_086_larva",
+    "images": [
+      "trap_086_larva"
+    ],
+    "names": {
+      "en": "\"Twigs that crave\"",
+      "ja": "\"Twigs that crave\"",
+      "zh-cn": "“汲营枯枝” ",
+      "zh-tw": ""
+    },
+    "searches": [
+      "\"Twigs that crave\"",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "\"Twigs that crave\"",
+      "ja": "\"Twigs that crave\"",
+      "zh-cn": "“汲营枯枝” ",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_087_allady",
+    "images": [
+      "trap_087_allady"
+    ],
+    "names": {
+      "en": "Allerdale bewards",
+      "ja": "Allerdale bewards",
+      "zh-cn": "阿勒黛的卫护",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Allerdale bewards",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Allerdale bewards",
+      "ja": "Allerdale bewards",
+      "zh-cn": "阿勒黛的卫护",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "trap_088_dice2",
     "images": [
       "trap_088_dice2"
@@ -7988,6 +8194,72 @@
       "en": "Entitative Program",
       "ja": "Entitative Program",
       "zh-cn": "实体程式",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_093_tbattbc",
+    "images": [
+      "trap_093_tbattbc"
+    ],
+    "names": {
+      "en": "Gloompincer Shell Meal",
+      "ja": "Gloompincer Shell Meal",
+      "zh-cn": "钳兽壳粉",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Gloompincer Shell Meal",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Gloompincer Shell Meal",
+      "ja": "Gloompincer Shell Meal",
+      "zh-cn": "钳兽壳粉",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_094_tbpsnc",
+    "images": [
+      "trap_094_tbpsnc"
+    ],
+    "names": {
+      "en": "Efficient Baking Powder",
+      "ja": "Efficient Baking Powder",
+      "zh-cn": "高效泡打粉",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Efficient Baking Powder",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Efficient Baking Powder",
+      "ja": "Efficient Baking Powder",
+      "zh-cn": "高效泡打粉",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_095_tbsmmc",
+    "images": [
+      "trap_095_tbsmmc"
+    ],
+    "names": {
+      "en": "Fragrant Essential Oil",
+      "ja": "Fragrant Essential Oil",
+      "zh-cn": "芳香精油",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Fragrant Essential Oil",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Fragrant Essential Oil",
+      "ja": "Fragrant Essential Oil",
+      "zh-cn": "芳香精油",
       "zh-tw": ""
     }
   },
@@ -16985,8 +17257,8 @@
       "enemy_1220_dzoms"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Touch of the Sanguinarch",
+      "ja": "大君の触手",
       "zh-cn": "大君之触",
       "zh-tw": ""
     },
@@ -16994,8 +17266,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Touch of the Sanguinarch",
+      "ja": "大君の触手",
       "zh-cn": "大君之触",
       "zh-tw": ""
     }
@@ -17006,8 +17278,8 @@
       "enemy_1220_dzoms_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Touch of Benevolence",
+      "ja": "慈悲の触手",
       "zh-cn": "仁慈之触",
       "zh-tw": ""
     },
@@ -17015,8 +17287,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Touch of Benevolence",
+      "ja": "慈悲の触手",
       "zh-cn": "仁慈之触",
       "zh-tw": ""
     }
@@ -17027,8 +17299,8 @@
       "enemy_1221_dzomg"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Gift of the Sanguinarch",
+      "ja": "大君の祝福",
       "zh-cn": "大君之赐",
       "zh-tw": ""
     },
@@ -17036,8 +17308,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Gift of the Sanguinarch",
+      "ja": "大君の祝福",
       "zh-cn": "大君之赐",
       "zh-tw": ""
     }
@@ -17048,8 +17320,8 @@
       "enemy_1221_dzomg_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Gift of Magnanimity",
+      "ja": "寛大な祝福",
       "zh-cn": "慷慨之赐",
       "zh-tw": ""
     },
@@ -17057,8 +17329,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Gift of Magnanimity",
+      "ja": "寛大な祝福",
       "zh-cn": "慷慨之赐",
       "zh-tw": ""
     }
@@ -17069,8 +17341,8 @@
       "enemy_1222_dpvt"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Heirbearer Warrior",
+      "ja": "サルカズ眷属戦士",
       "zh-cn": "萨卡兹子裔战士",
       "zh-tw": ""
     },
@@ -17078,8 +17350,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Heirbearer Warrior",
+      "ja": "サルカズ眷属戦士",
       "zh-cn": "萨卡兹子裔战士",
       "zh-tw": ""
     }
@@ -17090,8 +17362,8 @@
       "enemy_1222_dpvt_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Heirbearer Warrior Captain",
+      "ja": "サルカズ眷属戦士隊長",
       "zh-cn": "萨卡兹子裔战士组长",
       "zh-tw": ""
     },
@@ -17099,8 +17371,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Heirbearer Warrior Captain",
+      "ja": "サルカズ眷属戦士隊長",
       "zh-cn": "萨卡兹子裔战士组长",
       "zh-tw": ""
     }
@@ -17111,8 +17383,8 @@
       "enemy_1223_dmech"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Heirbearer Artificer",
+      "ja": "サルカズ眷属工匠",
       "zh-cn": "萨卡兹子裔工匠",
       "zh-tw": ""
     },
@@ -17120,8 +17392,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Heirbearer Artificer",
+      "ja": "サルカズ眷属工匠",
       "zh-cn": "萨卡兹子裔工匠",
       "zh-tw": ""
     }
@@ -17132,8 +17404,8 @@
       "enemy_1223_dmech_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Heirbearer Artificer Captain",
+      "ja": "サルカズ眷属工匠隊長",
       "zh-cn": "萨卡兹子裔工匠组长",
       "zh-tw": ""
     },
@@ -17141,8 +17413,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Heirbearer Artificer Captain",
+      "ja": "サルカズ眷属工匠隊長",
       "zh-cn": "萨卡兹子裔工匠组长",
       "zh-tw": ""
     }
@@ -17153,8 +17425,8 @@
       "enemy_1224_dsuply"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Heirbearer ASV",
+      "ja": "サルカズ眷属補給車",
       "zh-cn": "萨卡兹子裔补给车",
       "zh-tw": ""
     },
@@ -17162,8 +17434,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Heirbearer ASV",
+      "ja": "サルカズ眷属補給車",
       "zh-cn": "萨卡兹子裔补给车",
       "zh-tw": ""
     }
@@ -17174,8 +17446,8 @@
       "enemy_1224_dsuply_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Heirbearer Retrofit ASV",
+      "ja": "サルカズ眷属改造補給車",
       "zh-cn": "萨卡兹子裔改装补给车",
       "zh-tw": ""
     },
@@ -17183,8 +17455,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Heirbearer Retrofit ASV",
+      "ja": "サルカズ眷属改造補給車",
       "zh-cn": "萨卡兹子裔改装补给车",
       "zh-tw": ""
     }
@@ -17195,8 +17467,8 @@
       "enemy_1225_dkmage"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Heirbearer Chain Caster",
+      "ja": "サルカズ眷属連鎖術師",
       "zh-cn": "萨卡兹子裔链术师",
       "zh-tw": ""
     },
@@ -17204,8 +17476,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Heirbearer Chain Caster",
+      "ja": "サルカズ眷属連鎖術師",
       "zh-cn": "萨卡兹子裔链术师",
       "zh-tw": ""
     }
@@ -17216,8 +17488,8 @@
       "enemy_1225_dkmage_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Heirbearer Chain Caster Captain",
+      "ja": "サルカズ眷属連鎖術師隊長",
       "zh-cn": "萨卡兹子裔链术师组长",
       "zh-tw": ""
     },
@@ -17225,8 +17497,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Heirbearer Chain Caster Captain",
+      "ja": "サルカズ眷属連鎖術師隊長",
       "zh-cn": "萨卡兹子裔链术师组长",
       "zh-tw": ""
     }
@@ -17237,8 +17509,8 @@
       "enemy_1226_dklord"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Heirbearer Hatedrinker",
+      "ja": "サルカズ眷属集恨者",
       "zh-cn": "萨卡兹子裔集恨者",
       "zh-tw": ""
     },
@@ -17246,8 +17518,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Heirbearer Hatedrinker",
+      "ja": "サルカズ眷属集恨者",
       "zh-cn": "萨卡兹子裔集恨者",
       "zh-tw": ""
     }
@@ -17258,8 +17530,8 @@
       "enemy_1226_dklord_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Heirbearer Wrathgorger",
+      "ja": "サルカズ眷属集怒者",
       "zh-cn": "萨卡兹子裔集怒者",
       "zh-tw": ""
     },
@@ -17267,8 +17539,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Heirbearer Wrathgorger",
+      "ja": "サルカズ眷属集怒者",
       "zh-cn": "萨卡兹子裔集怒者",
       "zh-tw": ""
     }
@@ -17279,8 +17551,8 @@
       "enemy_1227_dair"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Requisitioned Engineering Drone",
+      "ja": "サルカズ徴用作業ドローン",
       "zh-cn": "萨卡兹征用工程无人机",
       "zh-tw": ""
     },
@@ -17288,8 +17560,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Requisitioned Engineering Drone",
+      "ja": "サルカズ徴用作業ドローン",
       "zh-cn": "萨卡兹征用工程无人机",
       "zh-tw": ""
     }
@@ -17300,8 +17572,8 @@
       "enemy_1227_dair_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Requisitioned Cutting-Edge Drone",
+      "ja": "サルカズ徴用新型ドローン",
       "zh-cn": "萨卡兹征用尖端无人机",
       "zh-tw": ""
     },
@@ -17309,8 +17581,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Requisitioned Cutting-Edge Drone",
+      "ja": "サルカズ徴用新型ドローン",
       "zh-cn": "萨卡兹征用尖端无人机",
       "zh-tw": ""
     }
@@ -17321,8 +17593,8 @@
       "enemy_1228_dslime"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Bloodthirsty Heir",
+      "ja": "渇血の眷属",
       "zh-cn": "渴血的子裔",
       "zh-tw": ""
     },
@@ -17330,8 +17602,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Bloodthirsty Heir",
+      "ja": "渇血の眷属",
       "zh-cn": "渴血的子裔",
       "zh-tw": ""
     }
@@ -17342,8 +17614,8 @@
       "enemy_1228_dslime_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Engorged Heir",
+      "ja": "満腹の眷属",
       "zh-cn": "饱腹的子裔",
       "zh-tw": ""
     },
@@ -17351,8 +17623,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Engorged Heir",
+      "ja": "満腹の眷属",
       "zh-cn": "饱腹的子裔",
       "zh-tw": ""
     }
@@ -17363,8 +17635,8 @@
       "enemy_1229_darmy"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Royal Court Soldier",
+      "ja": "サルカズ王庭軍戦士",
       "zh-cn": "萨卡兹王庭军战士",
       "zh-tw": ""
     },
@@ -17372,8 +17644,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Royal Court Soldier",
+      "ja": "サルカズ王庭軍戦士",
       "zh-cn": "萨卡兹王庭军战士",
       "zh-tw": ""
     }
@@ -17384,8 +17656,8 @@
       "enemy_1229_darmy_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Royal Court Elite Soldier",
+      "ja": "サルカズ王庭軍戦士隊長",
       "zh-cn": "萨卡兹王庭军精锐战士",
       "zh-tw": ""
     },
@@ -17393,8 +17665,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Sarkaz Royal Court Elite Soldier",
+      "ja": "サルカズ王庭軍戦士隊長",
       "zh-cn": "萨卡兹王庭军精锐战士",
       "zh-tw": ""
     }
@@ -17510,8 +17782,8 @@
       "enemy_1231_dsrunr_4"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Regressed Predator",
+      "ja": "退行したプレデター",
       "zh-cn": "退行的猎食者",
       "zh-tw": ""
     },
@@ -17519,8 +17791,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Regressed Predator",
+      "ja": "退行したプレデター",
       "zh-cn": "退行的猎食者",
       "zh-tw": ""
     }
@@ -18786,6 +19058,426 @@
     }
   },
   {
+    "id": "enemy_1266_nhapos",
+    "images": [
+      "enemy_1266_nhapos"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "食腐使徒",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "食腐使徒",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1267_nhpbr",
+    "images": [
+      "enemy_1267_nhpbr"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹枯朽战士",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹枯朽战士",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1267_nhpbr_2",
+    "images": [
+      "enemy_1267_nhpbr_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹枯朽战士组长",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹枯朽战士组长",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1268_nhnrs",
+    "images": [
+      "enemy_1268_nhnrs"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹枯朽术师",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹枯朽术师",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1268_nhnrs_2",
+    "images": [
+      "enemy_1268_nhnrs_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹枯朽术师组长",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹枯朽术师组长",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1269_nhfly",
+    "images": [
+      "enemy_1269_nhfly"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "枯朽之种",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "枯朽之种",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1269_nhfly_2",
+    "images": [
+      "enemy_1269_nhfly_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "腐败之种",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "腐败之种",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1270_nhstlk",
+    "images": [
+      "enemy_1270_nhstlk"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "逐腐兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "逐腐兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1270_nhstlk_2",
+    "images": [
+      "enemy_1270_nhstlk_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "疯狂的逐腐兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "疯狂的逐腐兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1271_nhkodo",
+    "images": [
+      "enemy_1271_nhkodo"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹枯朽吞噬者",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹枯朽吞噬者",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1271_nhkodo_2",
+    "images": [
+      "enemy_1271_nhkodo_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹枯朽吸纳者",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹枯朽吸纳者",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1272_nhtank",
+    "images": [
+      "enemy_1272_nhtank"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹枯朽战车",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹枯朽战车",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1272_nhtank_2",
+    "images": [
+      "enemy_1272_nhtank_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "尖端萨卡兹枯朽战车",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "尖端萨卡兹枯朽战车",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1273_stmgun",
+    "images": [
+      "enemy_1273_stmgun"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "伦蒂尼姆城防自行炮",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "伦蒂尼姆城防自行炮",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1273_stmgun_2",
+    "images": [
+      "enemy_1273_stmgun_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "高准度伦蒂尼姆城防自行炮",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "高准度伦蒂尼姆城防自行炮",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1274_stmram",
+    "images": [
+      "enemy_1274_stmram"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "蒸汽战车",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "蒸汽战车",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1274_stmram_2",
+    "images": [
+      "enemy_1274_stmram_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "极温蒸汽战车",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "极温蒸汽战车",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1275_dwlock",
+    "images": [
+      "enemy_1275_dwlock"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹王庭军术师",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹王庭军术师",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1275_dwlock_2",
+    "images": [
+      "enemy_1275_dwlock_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹王庭军精锐术师",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹王庭军精锐术师",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1276_telex",
+    "images": [
+      "enemy_1276_telex"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "特雷西斯",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "特雷西斯",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "enemy_1500_skulsr",
     "images": [
       "enemy_1500_skulsr"
@@ -19379,8 +20071,8 @@
       "enemy_1528_manfri"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Manfred",
+      "ja": "Manfred",
       "zh-cn": "曼弗雷德",
       "zh-tw": ""
     },
@@ -19388,8 +20080,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Manfred",
+      "ja": "Manfred",
       "zh-cn": "曼弗雷德",
       "zh-tw": ""
     }
@@ -19475,6 +20167,27 @@
       "en": "",
       "ja": "",
       "zh-cn": "“物欲拮抗者”",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1533_stmkgt",
+    "images": [
+      "enemy_1533_stmkgt"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“最后的蒸汽骑士”",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“最后的蒸汽骑士”",
       "zh-tw": ""
     }
   },
@@ -20651,6 +21364,27 @@
       "en": "",
       "ja": "",
       "zh-cn": "荧壳源石虫",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_6009_nlkgtbs",
+    "images": [
+      "enemy_6009_nlkgtbs"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“暴食之果”",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“暴食之果”",
       "zh-tw": ""
     }
   }
