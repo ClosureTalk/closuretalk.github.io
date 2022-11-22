@@ -213,7 +213,8 @@
     "id": "char_1014_nearl2",
     "images": [
       "char_1014_nearl2",
-      "char_1014_nearl2_2"
+      "char_1014_nearl2_2",
+      "char_1014_nearl2_epoque#17"
     ],
     "names": {
       "en": "Nearl the Radiant Knight",
@@ -237,7 +238,8 @@
     "images": [
       "char_101_sora",
       "char_101_sora_2",
-      "char_101_sora_summer#1"
+      "char_101_sora_summer#1",
+      "char_101_sora_epoque#17"
     ],
     "names": {
       "en": "Sora",
@@ -287,7 +289,7 @@
     ],
     "names": {
       "en": "Specter the Unchained",
-      "ja": "Specter the Unchained",
+      "ja": "帰溟スペクター",
       "zh-cn": "归溟幽灵鲨",
       "zh-tw": ""
     },
@@ -297,7 +299,7 @@
     ],
     "short_names": {
       "en": "Specter the Unchained",
-      "ja": "Specter the Unchained",
+      "ja": "帰溟スペクター",
       "zh-cn": "归溟幽灵鲨",
       "zh-tw": ""
     }
@@ -368,6 +370,29 @@
       "en": "Greyy the Lightningbearer",
       "ja": "Greyy the Lightningbearer",
       "zh-cn": "承曦格雷伊",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_1028_texas2",
+    "images": [
+      "char_1028_texas2",
+      "char_1028_texas2_2"
+    ],
+    "names": {
+      "en": "Texas the Omertosa",
+      "ja": "Texas the Omertosa",
+      "zh-cn": "缄默德克萨斯",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Texas the Omertosa",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Texas the Omertosa",
+      "ja": "Texas the Omertosa",
+      "zh-cn": "缄默德克萨斯",
       "zh-tw": ""
     }
   },
@@ -4047,7 +4072,8 @@
   {
     "id": "char_366_acdrop",
     "images": [
-      "char_366_acdrop"
+      "char_366_acdrop",
+      "char_366_acdrop_whirlwind#4"
     ],
     "names": {
       "en": "Aciddrop",
@@ -4327,7 +4353,8 @@
     "id": "char_391_rosmon",
     "images": [
       "char_391_rosmon",
-      "char_391_rosmon_2"
+      "char_391_rosmon_2",
+      "char_391_rosmon_epoque#17"
     ],
     "names": {
       "en": "Rosmontis",
@@ -4399,7 +4426,7 @@
     ],
     "names": {
       "en": "Irene",
-      "ja": "Irene",
+      "ja": "アイリーニ",
       "zh-cn": "艾丽妮",
       "zh-tw": ""
     },
@@ -4409,7 +4436,7 @@
     ],
     "short_names": {
       "en": "Irene",
-      "ja": "Irene",
+      "ja": "アイリーニ",
       "zh-cn": "艾丽妮",
       "zh-tw": ""
     }
@@ -4458,6 +4485,29 @@
       "en": "Kjera",
       "ja": "イェラ",
       "zh-cn": "耶拉",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_4014_lunacu",
+    "images": [
+      "char_4014_lunacu",
+      "char_4014_lunacu_2"
+    ],
+    "names": {
+      "en": "Lunacub",
+      "ja": "Lunacub",
+      "zh-cn": "子月",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Lunacub",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Lunacub",
+      "ja": "Lunacub",
+      "zh-cn": "子月",
       "zh-tw": ""
     }
   },
@@ -4681,7 +4731,7 @@
     ],
     "names": {
       "en": "Chestnut",
-      "ja": "チェストナッツ",
+      "ja": "チェストナット",
       "zh-cn": "褐果",
       "zh-tw": ""
     },
@@ -4691,7 +4741,7 @@
     ],
     "short_names": {
       "en": "Chestnut",
-      "ja": "チェストナッツ",
+      "ja": "チェストナット",
       "zh-cn": "褐果",
       "zh-tw": ""
     }
@@ -4704,7 +4754,7 @@
     ],
     "names": {
       "en": "Lumen",
-      "ja": "Lumen",
+      "ja": "ルーメン",
       "zh-cn": "流明",
       "zh-tw": ""
     },
@@ -4714,7 +4764,7 @@
     ],
     "short_names": {
       "en": "Lumen",
-      "ja": "Lumen",
+      "ja": "ルーメン",
       "zh-cn": "流明",
       "zh-tw": ""
     }
@@ -4927,6 +4977,29 @@
     }
   },
   {
+    "id": "char_4063_quartz",
+    "images": [
+      "char_4063_quartz",
+      "char_4063_quartz_2"
+    ],
+    "names": {
+      "en": "Quartz",
+      "ja": "Quartz",
+      "zh-cn": "石英",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Quartz",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Quartz",
+      "ja": "Quartz",
+      "zh-cn": "石英",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "char_4064_mlynar",
     "images": [
       "char_4064_mlynar",
@@ -4946,6 +5019,29 @@
       "en": "Młynar",
       "ja": "Młynar",
       "zh-cn": "玛恩纳",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_4065_judge",
+    "images": [
+      "char_4065_judge",
+      "char_4065_judge_2"
+    ],
+    "names": {
+      "en": "Penance",
+      "ja": "Penance",
+      "zh-cn": "斥罪",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Penance",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Penance",
+      "ja": "Penance",
+      "zh-cn": "斥罪",
       "zh-tw": ""
     }
   },
@@ -5232,6 +5328,29 @@
     }
   },
   {
+    "id": "char_427_vigil",
+    "images": [
+      "char_427_vigil",
+      "char_427_vigil_2"
+    ],
+    "names": {
+      "en": "Vigil",
+      "ja": "Vigil",
+      "zh-cn": "伺夜",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Vigil",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Vigil",
+      "ja": "Vigil",
+      "zh-cn": "伺夜",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "char_430_fartth",
     "images": [
       "char_430_fartth",
@@ -5285,7 +5404,7 @@
     ],
     "names": {
       "en": "Windflit",
-      "ja": "Windflit",
+      "ja": "ウインドフリット",
       "zh-cn": "掠风",
       "zh-tw": ""
     },
@@ -5295,7 +5414,7 @@
     ],
     "short_names": {
       "en": "Windflit",
-      "ja": "Windflit",
+      "ja": "ウインドフリット",
       "zh-cn": "掠风",
       "zh-tw": ""
     }
@@ -5328,7 +5447,8 @@
     "id": "char_437_mizuki",
     "images": [
       "char_437_mizuki",
-      "char_437_mizuki_2"
+      "char_437_mizuki_2",
+      "char_437_mizuki_sale#7"
     ],
     "names": {
       "en": "Mizuki",
@@ -5374,7 +5494,8 @@
     "id": "char_449_glider",
     "images": [
       "char_449_glider",
-      "char_449_glider_2"
+      "char_449_glider_2",
+      "char_449_glider_epoque#17"
     ],
     "names": {
       "en": "Honeyberry",
@@ -5558,6 +5679,29 @@
     }
   },
   {
+    "id": "char_466_qanik",
+    "images": [
+      "char_466_qanik",
+      "char_466_qanik_2"
+    ],
+    "names": {
+      "en": "Qanipalaat",
+      "ja": "Qanipalaat",
+      "zh-cn": "雪绒",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Qanipalaat",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Qanipalaat",
+      "ja": "Qanipalaat",
+      "zh-cn": "雪绒",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "char_469_indigo",
     "images": [
       "char_469_indigo",
@@ -5585,7 +5729,8 @@
     "id": "char_472_pasngr",
     "images": [
       "char_472_pasngr",
-      "char_472_pasngr_2"
+      "char_472_pasngr_2",
+      "char_472_pasngr_epoque#17"
     ],
     "names": {
       "en": "Passenger",
@@ -5847,7 +5992,8 @@
     "id": "char_492_quercu",
     "images": [
       "char_492_quercu",
-      "char_492_quercu_2"
+      "char_492_quercu_2",
+      "char_492_quercu_epoque#17"
     ],
     "names": {
       "en": "Quercus",
@@ -6840,7 +6986,7 @@
     ],
     "names": {
       "en": "Reliable Battery",
-      "ja": "Reliable Battery",
+      "ja": "高信頼性バッテリー",
       "zh-cn": "可靠电池",
       "zh-tw": ""
     },
@@ -6850,7 +6996,7 @@
     ],
     "short_names": {
       "en": "Reliable Battery",
-      "ja": "Reliable Battery",
+      "ja": "高信頼性バッテリー",
       "zh-cn": "可靠电池",
       "zh-tw": ""
     }
@@ -6984,6 +7130,28 @@
       "en": "Prototype of Feist's Metal Crab",
       "ja": "Prototype of Feist's Metal Crab",
       "zh-cn": "铁钳号·原型机",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "token_10028_vigil_wolf",
+    "images": [
+      "token_10028_vigil_wolf"
+    ],
+    "names": {
+      "en": "Vigil",
+      "ja": "Vigil",
+      "zh-cn": "狼群",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Vigil",
+      ":#type-token"
+    ],
+    "short_names": {
+      "en": "Vigil",
+      "ja": "Vigil",
+      "zh-cn": "狼群",
       "zh-tw": ""
     }
   },
@@ -7631,8 +7799,8 @@
       "trap_060_bouncy"
     ],
     "names": {
-      "en": "Hand of Saint",
-      "ja": "Hand of Saint",
+      "en": "Hand of the Saint",
+      "ja": "聖徒の手",
       "zh-cn": "圣徒之手",
       "zh-tw": ""
     },
@@ -7641,8 +7809,8 @@
       ":#type-trap"
     ],
     "short_names": {
-      "en": "Hand of Saint",
-      "ja": "Hand of Saint",
+      "en": "Hand of the Saint",
+      "ja": "聖徒の手",
       "zh-cn": "圣徒之手",
       "zh-tw": ""
     }
@@ -17677,8 +17845,8 @@
       "enemy_1230_dsbudr"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Nethersea Founder",
+      "ja": "深溟のファウンダー",
       "zh-cn": "深溟奠基者",
       "zh-tw": ""
     },
@@ -17686,8 +17854,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Nethersea Founder",
+      "ja": "深溟のファウンダー",
       "zh-cn": "深溟奠基者",
       "zh-tw": ""
     }
@@ -17698,8 +17866,8 @@
       "enemy_1230_dsbudr_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Nourished Founder",
+      "ja": "富栄養化したファウンダー",
       "zh-cn": "富营养的奠基者",
       "zh-tw": ""
     },
@@ -17707,8 +17875,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Nourished Founder",
+      "ja": "富栄養化したファウンダー",
       "zh-cn": "富营养的奠基者",
       "zh-tw": ""
     }
@@ -17719,8 +17887,8 @@
       "enemy_1230_dsbudr_4"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Regressed Founder",
+      "ja": "退行したファウンダー",
       "zh-cn": "退行的奠基者",
       "zh-tw": ""
     },
@@ -17728,8 +17896,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Regressed Founder",
+      "ja": "退行したファウンダー",
       "zh-cn": "退行的奠基者",
       "zh-tw": ""
     }
@@ -17740,8 +17908,8 @@
       "enemy_1231_dsrunr"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Nethersea Predator",
+      "ja": "深溟のプレデター",
       "zh-cn": "深溟猎食者",
       "zh-tw": ""
     },
@@ -17749,8 +17917,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Nethersea Predator",
+      "ja": "深溟のプレデター",
       "zh-cn": "深溟猎食者",
       "zh-tw": ""
     }
@@ -17761,8 +17929,8 @@
       "enemy_1231_dsrunr_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Nourished Predator",
+      "ja": "富栄養化したプレデター",
       "zh-cn": "富营养的猎食者",
       "zh-tw": ""
     },
@@ -17770,8 +17938,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Nourished Predator",
+      "ja": "富栄養化したプレデター",
       "zh-cn": "富营养的猎食者",
       "zh-tw": ""
     }
@@ -17803,8 +17971,8 @@
       "enemy_1232_dssalr"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Nethersea Brandguider",
+      "ja": "深溟のスプレッダー",
       "zh-cn": "深溟引痕者",
       "zh-tw": ""
     },
@@ -17812,8 +17980,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Nethersea Brandguider",
+      "ja": "深溟のスプレッダー",
       "zh-cn": "深溟引痕者",
       "zh-tw": ""
     }
@@ -17824,8 +17992,8 @@
       "enemy_1232_dssalr_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Nourished Brandguider",
+      "ja": "富栄養化したスプレッダー",
       "zh-cn": "富营养的引痕者",
       "zh-tw": ""
     },
@@ -17833,8 +18001,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Nourished Brandguider",
+      "ja": "富栄養化したスプレッダー",
       "zh-cn": "富营养的引痕者",
       "zh-tw": ""
     }
@@ -17845,8 +18013,8 @@
       "enemy_1232_dssalr_4"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Regressed Brandguider",
+      "ja": "退行したスプレッダー",
       "zh-cn": "退行的引痕者",
       "zh-tw": ""
     },
@@ -17854,8 +18022,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Regressed Brandguider",
+      "ja": "退行したスプレッダー",
       "zh-cn": "退行的引痕者",
       "zh-tw": ""
     }
@@ -17866,8 +18034,8 @@
       "enemy_1233_dsshtr"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Nethersea Spewer",
+      "ja": "深溟のスピュワー",
       "zh-cn": "深溟喷溅者",
       "zh-tw": ""
     },
@@ -17875,8 +18043,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Nethersea Spewer",
+      "ja": "深溟のスピュワー",
       "zh-cn": "深溟喷溅者",
       "zh-tw": ""
     }
@@ -17887,8 +18055,8 @@
       "enemy_1233_dsshtr_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Nourished Spewer",
+      "ja": "富栄養化したスピュワー",
       "zh-cn": "富营养的喷溅者",
       "zh-tw": ""
     },
@@ -17896,8 +18064,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Nourished Spewer",
+      "ja": "富栄養化したスピュワー",
       "zh-cn": "富营养的喷溅者",
       "zh-tw": ""
     }
@@ -17908,8 +18076,8 @@
       "enemy_1233_dsshtr_4"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Regressed Spewer",
+      "ja": "退行したスピュワー",
       "zh-cn": "退行的喷溅者",
       "zh-tw": ""
     },
@@ -17917,8 +18085,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Regressed Spewer",
+      "ja": "退行したスピュワー",
       "zh-cn": "退行的喷溅者",
       "zh-tw": ""
     }
@@ -17929,8 +18097,8 @@
       "enemy_1234_dsubrl"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Nethersea Swarmcaller",
+      "ja": "深溟のミキサー",
       "zh-cn": "深溟巢涌者",
       "zh-tw": ""
     },
@@ -17938,8 +18106,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Nethersea Swarmcaller",
+      "ja": "深溟のミキサー",
       "zh-cn": "深溟巢涌者",
       "zh-tw": ""
     }
@@ -17950,8 +18118,8 @@
       "enemy_1234_dsubrl_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Nourished Swarmcaller",
+      "ja": "富栄養化したミキサー",
       "zh-cn": "富营养的巢涌者",
       "zh-tw": ""
     },
@@ -17959,8 +18127,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Nourished Swarmcaller",
+      "ja": "富栄養化したミキサー",
       "zh-cn": "富营养的巢涌者",
       "zh-tw": ""
     }
@@ -17971,8 +18139,8 @@
       "enemy_1234_dsubrl_4"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Regressed Swarmcaller",
+      "ja": "退行したミキサー",
       "zh-cn": "退行的巢涌者",
       "zh-tw": ""
     },
@@ -17980,8 +18148,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Regressed Swarmcaller",
+      "ja": "退行したミキサー",
       "zh-cn": "退行的巢涌者",
       "zh-tw": ""
     }
@@ -17992,8 +18160,8 @@
       "enemy_1235_dsbskr"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Nethersea Reefbreaker",
+      "ja": "深溟のリーフブレイカー",
       "zh-cn": "深溟裂礁者",
       "zh-tw": ""
     },
@@ -18001,8 +18169,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Nethersea Reefbreaker",
+      "ja": "深溟のリーフブレイカー",
       "zh-cn": "深溟裂礁者",
       "zh-tw": ""
     }
@@ -18013,8 +18181,8 @@
       "enemy_1235_dsbskr_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Nourished Reefbreaker",
+      "ja": "富栄養化したリーフブレイカー",
       "zh-cn": "富营养的裂礁者",
       "zh-tw": ""
     },
@@ -18022,8 +18190,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Nourished Reefbreaker",
+      "ja": "富栄養化したリーフブレイカー",
       "zh-cn": "富营养的裂礁者",
       "zh-tw": ""
     }
@@ -18034,8 +18202,8 @@
       "enemy_1235_dsbskr_4"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Regressed Reefbreaker",
+      "ja": "退行したリーフブレイカー",
       "zh-cn": "退行的裂礁者",
       "zh-tw": ""
     },
@@ -18043,8 +18211,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Regressed Reefbreaker",
+      "ja": "退行したリーフブレイカー",
       "zh-cn": "退行的裂礁者",
       "zh-tw": ""
     }
@@ -19478,6 +19646,342 @@
     }
   },
   {
+    "id": "enemy_1277_sgman",
+    "images": [
+      "enemy_1277_sgman"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族士兵",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族士兵",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1277_sgman_2",
+    "images": [
+      "enemy_1277_sgman_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族精英士兵",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族精英士兵",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1278_sgbow",
+    "images": [
+      "enemy_1278_sgbow"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族弩手",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族弩手",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1278_sgbow_2",
+    "images": [
+      "enemy_1278_sgbow_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族精英弩手",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族精英弩手",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1279_sgbdg",
+    "images": [
+      "enemy_1279_sgbdg"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族恫吓者",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族恫吓者",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1279_sgbdg_2",
+    "images": [
+      "enemy_1279_sgbdg_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族强暴恫吓者",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族强暴恫吓者",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1280_sgmag",
+    "images": [
+      "enemy_1280_sgmag"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族术师",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族术师",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1280_sgmag_2",
+    "images": [
+      "enemy_1280_sgmag_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族精英术师",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族精英术师",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1281_sgcar",
+    "images": [
+      "enemy_1281_sgcar"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族专用轿车",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族专用轿车",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1281_sgcar_2",
+    "images": [
+      "enemy_1281_sgcar_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族豪华轿车",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族豪华轿车",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1282_sgelder",
+    "images": [
+      "enemy_1282_sgelder"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族角头",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族角头",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1282_sgelder_2",
+    "images": [
+      "enemy_1282_sgelder_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族铁腕角头",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族铁腕角头",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1283_sgkill",
+    "images": [
+      "enemy_1283_sgkill"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族灭迹人",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族灭迹人",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1283_sgkill_2",
+    "images": [
+      "enemy_1283_sgkill_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族暗影灭迹人",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "家族暗影灭迹人",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1284_sgprst",
+    "images": [
+      "enemy_1284_sgprst"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "阿格尼尔神父",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "阿格尼尔神父",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1285_sgwlf",
+    "images": [
+      "enemy_1285_sgwlf"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“与我无关”",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“与我无关”",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "enemy_1500_skulsr",
     "images": [
       "enemy_1500_skulsr"
@@ -20092,8 +20596,8 @@
       "enemy_1529_dsdevr"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "The Endspeaker, Will of We Many",
+      "ja": "「ディヴィニティエンド」、大群の意思",
       "zh-cn": "屠谕者，大群意志",
       "zh-tw": ""
     },
@@ -20101,8 +20605,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "The Endspeaker, Will of We Many",
+      "ja": "「ディヴィニティエンド」、大群の意思",
       "zh-cn": "屠谕者，大群意志",
       "zh-tw": ""
     }
@@ -20188,6 +20692,27 @@
       "en": "",
       "ja": "",
       "zh-cn": "“最后的蒸汽骑士”",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1535_wlfmster",
+    "images": [
+      "enemy_1535_wlfmster"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "扎罗，“狼之主” ",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "扎罗，“狼之主” ",
       "zh-tw": ""
     }
   },
@@ -21091,6 +21616,27 @@
       "en": "Competition Transport Vessel",
       "ja": "大会輸送艇",
       "zh-cn": "大奖赛运输艇",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_3004_speople",
+    "images": [
+      "enemy_3004_speople"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "叙拉古平民",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "叙拉古平民",
       "zh-tw": ""
     }
   },
