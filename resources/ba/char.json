@@ -204,6 +204,7 @@
   {
     "id": "Atsuko",
     "images": [
+      "Atsuko_Masked",
       "Atsuko"
     ],
     "names": {
@@ -227,7 +228,8 @@
     "id": "Ayane",
     "images": [
       "Ayane",
-      "Ayane_Robber"
+      "Ayane_Robber",
+      "Ayane_Robber_Swimsuit"
     ],
     "names": {
       "en": "Okusora Ayane",
@@ -455,7 +457,8 @@
   {
     "id": "Chise",
     "images": [
-      "Chise"
+      "Chise",
+      "Chise_Swimsuit"
     ],
     "names": {
       "en": "Waraku Chise",
@@ -926,7 +929,8 @@
     "images": [
       "Hoshino",
       "Hoshino_Robber",
-      "Hoshino_Swimsuit"
+      "Hoshino_Swimsuit",
+      "Hoshino_Robber_Swimsuit"
     ],
     "names": {
       "en": "Takanashi Hoshino",
@@ -1017,7 +1021,8 @@
   {
     "id": "Izuna",
     "images": [
-      "Izuna"
+      "Izuna",
+      "Izuna_Swimsuit"
     ],
     "names": {
       "en": "Kuda Izuna",
@@ -1147,6 +1152,28 @@
     }
   },
   {
+    "id": "Kaho",
+    "images": [
+      "Kaho"
+    ],
+    "names": {
+      "en": "Kuwakami Kaho",
+      "ja": "桑上 カホ",
+      "zh-cn": "桑上 嘉穗",
+      "zh-tw": "桑上 嘉穗"
+    },
+    "searches": [
+      "hyakkiyako",
+      "yin_yang_club"
+    ],
+    "short_names": {
+      "en": "Kaho",
+      "ja": "カホ",
+      "zh-cn": "嘉穗",
+      "zh-tw": "嘉穗"
+    }
+  },
+  {
     "id": "Kaiser_PMC_Director",
     "images": [
       "Kaiser_PMC_Director"
@@ -1192,6 +1219,28 @@
       "ja": "カイテンジャー",
       "zh-cn": "凯坦泽",
       "zh-tw": "凱坦澤"
+    }
+  },
+  {
+    "id": "Kanna",
+    "images": [
+      "Kanna"
+    ],
+    "names": {
+      "en": "Ogata Kanna",
+      "ja": "尾刃 カンナ",
+      "zh-cn": "尾刃 神奈",
+      "zh-tw": "尾刃 神奈"
+    },
+    "searches": [
+      "valkyrie",
+      "public_safety_bureau"
+    ],
+    "short_names": {
+      "en": "Kanna",
+      "ja": "カンナ",
+      "zh-cn": "神奈",
+      "zh-tw": "神奈"
     }
   },
   {
@@ -1332,6 +1381,28 @@
     }
   },
   {
+    "id": "Kokona",
+    "images": [
+      "Kokona"
+    ],
+    "names": {
+      "en": "Sunohara Kokona",
+      "ja": "春原 ココナ",
+      "zh-cn": "春原 Kokona",
+      "zh-tw": "春原 Kokona"
+    },
+    "searches": [
+      "shanhaijing",
+      "plum_blossom_garden"
+    ],
+    "short_names": {
+      "en": "Kokona",
+      "ja": "ココナ",
+      "zh-cn": "Kokona",
+      "zh-tw": "Kokona"
+    }
+  },
+  {
     "id": "Kotama",
     "images": [
       "Kotama"
@@ -1356,7 +1427,8 @@
   {
     "id": "Kotori",
     "images": [
-      "Kotori"
+      "Kotori",
+      "Kotori_Cheer"
     ],
     "names": {
       "en": "Toyomi Kotori",
@@ -1599,7 +1671,8 @@
   {
     "id": "Mimori",
     "images": [
-      "Mimori"
+      "Mimori",
+      "Mimori_Swimsuit"
     ],
     "names": {
       "en": "Mizuha Mimori",
@@ -1863,6 +1936,50 @@
     }
   },
   {
+    "id": "Niya",
+    "images": [
+      "Niya"
+    ],
+    "names": {
+      "en": "Amachi Niya",
+      "ja": "天地 ニヤ",
+      "zh-cn": "天地 妮娅",
+      "zh-tw": "天地 妮婭"
+    },
+    "searches": [
+      "hyakkiyako",
+      "yin_yang_club"
+    ],
+    "short_names": {
+      "en": "Niya",
+      "ja": "ニヤ",
+      "zh-cn": "妮娅",
+      "zh-tw": "妮婭"
+    }
+  },
+  {
+    "id": "Noa",
+    "images": [
+      "Noa"
+    ],
+    "names": {
+      "en": "Ushio Noa",
+      "ja": "生塩 ノア",
+      "zh-cn": "Ushio Noa",
+      "zh-tw": "Ushio Noa"
+    },
+    "searches": [
+      "millennium",
+      "seminar"
+    ],
+    "short_names": {
+      "en": "Noa",
+      "ja": "ノア",
+      "zh-cn": "Noa",
+      "zh-tw": "Noa"
+    }
+  },
+  {
     "id": "Nodoka",
     "images": [
       "Nodoka",
@@ -1889,7 +2006,9 @@
     "id": "Nonomi",
     "images": [
       "Nonomi",
-      "Nonomi_Robber"
+      "Nonomi_Robber",
+      "Nonomi_Swimsuit",
+      "Nonomi_Robber_Swimsuit"
     ],
     "names": {
       "en": "Izayoi Nonomi",
@@ -1995,6 +2114,50 @@
       "ja": "フィーナ",
       "zh-cn": "菲娜",
       "zh-tw": "菲娜"
+    }
+  },
+  {
+    "id": "Rabu",
+    "images": [
+      "Rabu"
+    ],
+    "names": {
+      "en": "Komakaze Rabu",
+      "ja": "河駒風 ラブ",
+      "zh-cn": "Komakaze Rabu",
+      "zh-tw": "Komakaze Rabu"
+    },
+    "searches": [
+      "???",
+      "helmet_dan"
+    ],
+    "short_names": {
+      "en": "Rabu",
+      "ja": "ラブ",
+      "zh-cn": "Rabu",
+      "zh-tw": "Rabu"
+    }
+  },
+  {
+    "id": "Reisa",
+    "images": [
+      "Reisa"
+    ],
+    "names": {
+      "en": "Uzawa Reisa",
+      "ja": "宇沢 レイサ",
+      "zh-cn": "Uzawa Reisa",
+      "zh-tw": "Uzawa Reisa"
+    },
+    "searches": [
+      "trinity",
+      "vigilante_crew"
+    ],
+    "short_names": {
+      "en": "Reisa",
+      "ja": "レイサ",
+      "zh-cn": "Reisa",
+      "zh-tw": "Reisa"
     }
   },
   {
@@ -2136,7 +2299,9 @@
       "Serika",
       "Serika_Robber",
       "Serika_Shibaseki",
-      "Serika_Newyear"
+      "Serika_Newyear",
+      "Serika_Swimsuit",
+      "Serika_Robber_Swimsuit"
     ],
     "names": {
       "en": "Kuromi Serika",
@@ -2273,7 +2438,9 @@
     "images": [
       "Shiroko",
       "Shiroko_Robber",
-      "Shiroko_Ridingsuit"
+      "Shiroko_Ridingsuit",
+      "Shiroko_Swimsuit",
+      "Shiroko_Robber_Swimsuit"
     ],
     "names": {
       "en": "Sunaookami Shiroko",
@@ -2296,7 +2463,8 @@
   {
     "id": "Shizuko",
     "images": [
-      "Shizuko"
+      "Shizuko",
+      "Shizuko_Swimsuit"
     ],
     "names": {
       "en": "Kawawa Shizuko",
@@ -2517,6 +2685,28 @@
     }
   },
   {
+    "id": "Tsukuyo",
+    "images": [
+      "Tsukuyo"
+    ],
+    "names": {
+      "en": "Oono Tsukuyo",
+      "ja": "大野 ツクヨ",
+      "zh-cn": "大野 筑夜",
+      "zh-tw": "大野 築夜"
+    },
+    "searches": [
+      "hyakkiyako",
+      "ninjutsu_research_department"
+    ],
+    "short_names": {
+      "en": "Tsukuyo",
+      "ja": "ツクヨ",
+      "zh-cn": "筑夜",
+      "zh-tw": "築夜"
+    }
+  },
+  {
     "id": "Tsurugi",
     "images": [
       "Tsurugi",
@@ -2564,7 +2754,8 @@
   {
     "id": "Utaha",
     "images": [
-      "Utaha"
+      "Utaha",
+      "Utaha_Cheer"
     ],
     "names": {
       "en": "Shiraishi Utaha",
@@ -2586,7 +2777,8 @@
   {
     "id": "Wakamo",
     "images": [
-      "Wakamo"
+      "Wakamo",
+      "Wakamo_Swimsuit"
     ],
     "names": {
       "en": "Kosaka Wakamo",
