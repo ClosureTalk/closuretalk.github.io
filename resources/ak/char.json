@@ -259,6 +259,29 @@
     }
   },
   {
+    "id": "char_1020_reed2",
+    "images": [
+      "char_1020_reed2",
+      "char_1020_reed2_2"
+    ],
+    "names": {
+      "en": "Reed The Flame Shadow",
+      "ja": "Reed The Flame Shadow",
+      "zh-cn": "焰影苇草",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Reed The Flame Shadow",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Reed The Flame Shadow",
+      "ja": "Reed The Flame Shadow",
+      "zh-cn": "焰影苇草",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "char_1021_kroos2",
     "images": [
       "char_1021_kroos2",
@@ -354,7 +377,8 @@
     "id": "char_1027_greyy2",
     "images": [
       "char_1027_greyy2",
-      "char_1027_greyy2_2"
+      "char_1027_greyy2_2",
+      "char_1027_greyy2_snow#5"
     ],
     "names": {
       "en": "Greyy the Lightningbearer",
@@ -3309,6 +3333,29 @@
     }
   },
   {
+    "id": "char_297_hamoni",
+    "images": [
+      "char_297_hamoni",
+      "char_297_hamoni_2"
+    ],
+    "names": {
+      "en": "Harmonie",
+      "ja": "Harmonie",
+      "zh-cn": "和弦",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Harmonie",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Harmonie",
+      "ja": "Harmonie",
+      "zh-cn": "和弦",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "char_298_susuro",
     "images": [
       "char_298_susuro",
@@ -4190,7 +4237,8 @@
     "id": "char_377_gdglow",
     "images": [
       "char_377_gdglow",
-      "char_377_gdglow_2"
+      "char_377_gdglow_2",
+      "char_377_gdglow_snow#5"
     ],
     "names": {
       "en": "Goldenglow",
@@ -4537,6 +4585,29 @@
     }
   },
   {
+    "id": "char_4017_puzzle",
+    "images": [
+      "char_4017_puzzle",
+      "char_4017_puzzle_2"
+    ],
+    "names": {
+      "en": "Puzzle",
+      "ja": "Puzzle",
+      "zh-cn": "谜图",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Puzzle",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Puzzle",
+      "ja": "Puzzle",
+      "zh-cn": "谜图",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "char_4019_ncdeer",
     "images": [
       "char_4019_ncdeer",
@@ -4774,11 +4845,12 @@
     "id": "char_4043_erato",
     "images": [
       "char_4043_erato",
-      "char_4043_erato_2"
+      "char_4043_erato_2",
+      "char_4043_erato_snow#5"
     ],
     "names": {
-      "en": "Erato",
-      "ja": "Erato",
+      "en": "Erato ",
+      "ja": "エラト ",
       "zh-cn": "埃拉托",
       "zh-tw": ""
     },
@@ -4787,8 +4859,8 @@
       ":#type-char"
     ],
     "short_names": {
-      "en": "Erato",
-      "ja": "Erato",
+      "en": "Erato ",
+      "ja": "エラト ",
       "zh-cn": "埃拉托",
       "zh-tw": ""
     }
@@ -8429,6 +8501,336 @@
       "en": "Fragrant Essential Oil",
       "ja": "Fragrant Essential Oil",
       "zh-cn": "芳香精油",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_104_dplant",
+    "images": [
+      "trap_104_dplant"
+    ],
+    "names": {
+      "en": "Modified Phytohormone",
+      "ja": "Modified Phytohormone",
+      "zh-cn": "改性植物激素",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Modified Phytohormone",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Modified Phytohormone",
+      "ja": "Modified Phytohormone",
+      "zh-cn": "改性植物激素",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_700_cdabyss",
+    "images": [
+      "trap_700_cdabyss"
+    ],
+    "names": {
+      "en": "Ægirian Oscilloscope",
+      "ja": "Ægirian Oscilloscope",
+      "zh-cn": "阿戈尔示波器",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Ægirian Oscilloscope",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Ægirian Oscilloscope",
+      "ja": "Ægirian Oscilloscope",
+      "zh-cn": "阿戈尔示波器",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_701_cdabyssa",
+    "images": [
+      "trap_701_cdabyssa"
+    ],
+    "names": {
+      "en": "Ægirian Oscilloscope",
+      "ja": "Ægirian Oscilloscope",
+      "zh-cn": "阿戈尔示波器",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Ægirian Oscilloscope",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Ægirian Oscilloscope",
+      "ja": "Ægirian Oscilloscope",
+      "zh-cn": "阿戈尔示波器",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_702_cdabyssb",
+    "images": [
+      "trap_702_cdabyssb"
+    ],
+    "names": {
+      "en": "Ægirian Oscilloscope",
+      "ja": "Ægirian Oscilloscope",
+      "zh-cn": "阿戈尔示波器",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Ægirian Oscilloscope",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Ægirian Oscilloscope",
+      "ja": "Ægirian Oscilloscope",
+      "zh-cn": "阿戈尔示波器",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_703_cdcredit",
+    "images": [
+      "trap_703_cdcredit"
+    ],
+    "names": {
+      "en": "Multi-purpose Supply Device",
+      "ja": "Multi-purpose Supply Device",
+      "zh-cn": "自适应补给元件",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Multi-purpose Supply Device",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Multi-purpose Supply Device",
+      "ja": "Multi-purpose Supply Device",
+      "zh-cn": "自适应补给元件",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_704_cdcredita",
+    "images": [
+      "trap_704_cdcredita"
+    ],
+    "names": {
+      "en": "Multi-purpose Supply Device",
+      "ja": "Multi-purpose Supply Device",
+      "zh-cn": "自适应补给元件",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Multi-purpose Supply Device",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Multi-purpose Supply Device",
+      "ja": "Multi-purpose Supply Device",
+      "zh-cn": "自适应补给元件",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_705_cdcreditb",
+    "images": [
+      "trap_705_cdcreditb"
+    ],
+    "names": {
+      "en": "Multi-purpose Supply Device",
+      "ja": "Multi-purpose Supply Device",
+      "zh-cn": "自适应补给元件",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Multi-purpose Supply Device",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Multi-purpose Supply Device",
+      "ja": "Multi-purpose Supply Device",
+      "zh-cn": "自适应补给元件",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_706_cdshield",
+    "images": [
+      "trap_706_cdshield"
+    ],
+    "names": {
+      "en": "Coating Device Conducting Valve",
+      "ja": "Coating Device Conducting Valve",
+      "zh-cn": "镀膜装置导能阀",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Coating Device Conducting Valve",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Coating Device Conducting Valve",
+      "ja": "Coating Device Conducting Valve",
+      "zh-cn": "镀膜装置导能阀",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_707_cdshielda",
+    "images": [
+      "trap_707_cdshielda"
+    ],
+    "names": {
+      "en": "Redeployment Conducting Component",
+      "ja": "Redeployment Conducting Component",
+      "zh-cn": "重整导能组件",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Redeployment Conducting Component",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Redeployment Conducting Component",
+      "ja": "Redeployment Conducting Component",
+      "zh-cn": "重整导能组件",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_708_cdshieldb",
+    "images": [
+      "trap_708_cdshieldb"
+    ],
+    "names": {
+      "en": "Coating Device Conducting Valve",
+      "ja": "Coating Device Conducting Valve",
+      "zh-cn": "镀膜装置导能阀",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Coating Device Conducting Valve",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Coating Device Conducting Valve",
+      "ja": "Coating Device Conducting Valve",
+      "zh-cn": "镀膜装置导能阀",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_709_cdbeacon",
+    "images": [
+      "trap_709_cdbeacon"
+    ],
+    "names": {
+      "en": "Eunectes' Beacon",
+      "ja": "Eunectes' Beacon",
+      "zh-cn": "丛林用示踪信标",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Eunectes' Beacon",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Eunectes' Beacon",
+      "ja": "Eunectes' Beacon",
+      "zh-cn": "丛林用示踪信标",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_710_cdbeacona",
+    "images": [
+      "trap_710_cdbeacona"
+    ],
+    "names": {
+      "en": "Intercepting Wavelength",
+      "ja": "Intercepting Wavelength",
+      "zh-cn": "阻断波长",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Intercepting Wavelength",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Intercepting Wavelength",
+      "ja": "Intercepting Wavelength",
+      "zh-cn": "阻断波长",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_711_cdbeaconb",
+    "images": [
+      "trap_711_cdbeaconb"
+    ],
+    "names": {
+      "en": "Interfering Wavelength",
+      "ja": "Interfering Wavelength",
+      "zh-cn": "干扰波长",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Interfering Wavelength",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Interfering Wavelength",
+      "ja": "Interfering Wavelength",
+      "zh-cn": "干扰波长",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_712_cdhvrk",
+    "images": [
+      "trap_712_cdhvrk"
+    ],
+    "names": {
+      "en": "Overweight Insulating Cement",
+      "ja": "Overweight Insulating Cement",
+      "zh-cn": "超重绝缘水泥",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Overweight Insulating Cement",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Overweight Insulating Cement",
+      "ja": "Overweight Insulating Cement",
+      "zh-cn": "超重绝缘水泥",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_713_cdflsb",
+    "images": [
+      "trap_713_cdflsb"
+    ],
+    "names": {
+      "en": "Defective Stun Grenade",
+      "ja": "Defective Stun Grenade",
+      "zh-cn": "劣质闪光弹",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Defective Stun Grenade",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Defective Stun Grenade",
+      "ja": "Defective Stun Grenade",
+      "zh-cn": "劣质闪光弹",
       "zh-tw": ""
     }
   },
@@ -19983,6 +20385,363 @@
     }
   },
   {
+    "id": "enemy_1286_dumcy",
+    "images": [
+      "enemy_1286_dumcy"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "特别行动队士兵",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "特别行动队士兵",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1286_dumcy_2",
+    "images": [
+      "enemy_1286_dumcy_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "特别行动队队长",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "特别行动队队长",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1287_ducrb",
+    "images": [
+      "enemy_1287_ducrb"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "沼泽钳兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "沼泽钳兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1287_ducrb_2",
+    "images": [
+      "enemy_1287_ducrb_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "狂暴沼泽钳兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "狂暴沼泽钳兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1288_duskls",
+    "images": [
+      "enemy_1288_duskls"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "深池逐火战士",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "深池逐火战士",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1288_duskls_2",
+    "images": [
+      "enemy_1288_duskls_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "深池逐火精锐战士",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "深池逐火精锐战士",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1289_dubmb",
+    "images": [
+      "enemy_1289_dubmb"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "深池弩炮手",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "深池弩炮手",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1289_dubmb_2",
+    "images": [
+      "enemy_1289_dubmb_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "深池弩炮队长",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "深池弩炮队长",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1290_duflm",
+    "images": [
+      "enemy_1290_duflm"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "深池引火者",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "深池引火者",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1290_duflm_2",
+    "images": [
+      "enemy_1290_duflm_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "深池引火者队长",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "深池引火者队长",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1291_dusrch",
+    "images": [
+      "enemy_1291_dusrch"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "沼泽探照车",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "沼泽探照车",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1291_dusrch_2",
+    "images": [
+      "enemy_1291_dusrch_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "重型沼泽探照车",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "重型沼泽探照车",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1292_duskld",
+    "images": [
+      "enemy_1292_duskld"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "深池逐火护卫",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "深池逐火护卫",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1292_duskld_2",
+    "images": [
+      "enemy_1292_duskld_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "深池逐火精锐护卫",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "深池逐火精锐护卫",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1293_duswrd",
+    "images": [
+      "enemy_1293_duswrd"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "深池护卫队成员",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "深池护卫队成员",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1293_duswrd_2",
+    "images": [
+      "enemy_1293_duswrd_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "深池护卫队精锐成员",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "深池护卫队精锐成员",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1293_duswrd_3",
+    "images": [
+      "enemy_1293_duswrd_3"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“校官”",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“校官”",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "enemy_1500_skulsr",
     "images": [
       "enemy_1500_skulsr"
@@ -20714,6 +21473,27 @@
       "en": "",
       "ja": "",
       "zh-cn": "扎罗，“狼之主” ",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1536_ncrmcr",
+    "images": [
+      "enemy_1536_ncrmcr"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“领袖” ",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“领袖” ",
       "zh-tw": ""
     }
   },
@@ -21932,6 +22712,69 @@
       "en": "",
       "ja": "",
       "zh-cn": "“暴食之果”",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_6010_boxing",
+    "images": [
+      "enemy_6010_boxing"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“年轻人”桑德尔",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“年轻人”桑德尔",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_6011_planty",
+    "images": [
+      "enemy_6011_planty"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“自然的妥协”",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“自然的妥协”",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_6012_plants",
+    "images": [
+      "enemy_6012_plants"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "小型共生体",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "小型共生体",
       "zh-tw": ""
     }
   }
