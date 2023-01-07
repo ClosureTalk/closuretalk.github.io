@@ -285,7 +285,8 @@
     "id": "char_1021_kroos2",
     "images": [
       "char_1021_kroos2",
-      "char_1021_kroos2_2"
+      "char_1021_kroos2_2",
+      "char_1021_kroos2_nian#8"
     ],
     "names": {
       "en": "Kroos the Keen Glint",
@@ -335,7 +336,7 @@
     ],
     "names": {
       "en": "Hibiscus the Purifier",
-      "ja": "Hibiscus the Purifier",
+      "ja": "濯塵ハイビスカス",
       "zh-cn": "濯尘芙蓉",
       "zh-tw": ""
     },
@@ -345,7 +346,7 @@
     ],
     "short_names": {
       "en": "Hibiscus the Purifier",
-      "ja": "Hibiscus the Purifier",
+      "ja": "濯塵ハイビスカス",
       "zh-cn": "濯尘芙蓉",
       "zh-tw": ""
     }
@@ -4447,7 +4448,8 @@
     "id": "char_4004_pudd",
     "images": [
       "char_4004_pudd",
-      "char_4004_pudd_2"
+      "char_4004_pudd_2",
+      "char_4004_pudd_snow#5"
     ],
     "names": {
       "en": "Pudding",
@@ -4849,8 +4851,8 @@
       "char_4043_erato_snow#5"
     ],
     "names": {
-      "en": "Erato ",
-      "ja": "エラト ",
+      "en": "Erato",
+      "ja": "エラト",
       "zh-cn": "埃拉托",
       "zh-tw": ""
     },
@@ -4859,8 +4861,8 @@
       ":#type-char"
     ],
     "short_names": {
-      "en": "Erato ",
-      "ja": "エラト ",
+      "en": "Erato",
+      "ja": "エラト",
       "zh-cn": "埃拉托",
       "zh-tw": ""
     }
@@ -4896,7 +4898,7 @@
     ],
     "names": {
       "en": "Ebenholz",
-      "ja": "Ebenholz",
+      "ja": "エーベンホルツ",
       "zh-cn": "黑键",
       "zh-tw": ""
     },
@@ -4906,7 +4908,7 @@
     ],
     "short_names": {
       "en": "Ebenholz",
-      "ja": "Ebenholz",
+      "ja": "エーベンホルツ",
       "zh-cn": "黑键",
       "zh-tw": ""
     }
@@ -4919,7 +4921,7 @@
     ],
     "names": {
       "en": "Czerny",
-      "ja": "Czerny",
+      "ja": "ツェルニー",
       "zh-cn": "车尔尼",
       "zh-tw": ""
     },
@@ -4929,7 +4931,7 @@
     ],
     "short_names": {
       "en": "Czerny",
-      "ja": "Czerny",
+      "ja": "ツェルニー",
       "zh-cn": "车尔尼",
       "zh-tw": ""
     }
@@ -7080,8 +7082,8 @@
       "token_10024_ebnhlz_rcube"
     ],
     "names": {
-      "en": "Old Day Remnants",
-      "ja": "Old Day Remnants",
+      "en": "Remnants of Days Past",
+      "ja": "過去の残像",
       "zh-cn": "旧日残影",
       "zh-tw": ""
     },
@@ -7090,8 +7092,8 @@
       ":#type-token"
     ],
     "short_names": {
-      "en": "Old Day Remnants",
-      "ja": "Old Day Remnants",
+      "en": "Remnants of Days Past",
+      "ja": "過去の残像",
       "zh-cn": "旧日残影",
       "zh-tw": ""
     }
@@ -7894,8 +7896,8 @@
       "trap_062_magicstart"
     ],
     "names": {
-      "en": "\"Tuba\"",
-      "ja": "\"Tuba\"",
+      "en": "'Tuba'",
+      "ja": "「チューバ」",
       "zh-cn": "“低音号”",
       "zh-tw": ""
     },
@@ -7904,8 +7906,8 @@
       ":#type-trap"
     ],
     "short_names": {
-      "en": "\"Tuba\"",
-      "ja": "\"Tuba\"",
+      "en": "'Tuba'",
+      "ja": "「チューバ」",
       "zh-cn": "“低音号”",
       "zh-tw": ""
     }
@@ -7916,8 +7918,8 @@
       "trap_063_magicturn"
     ],
     "names": {
-      "en": "L-7 \"Whisperer\"",
-      "ja": "L-7 \"Whisperer\"",
+      "en": "L-7 'Whisperer'",
+      "ja": "L-7「ウィスパラー」",
       "zh-cn": "L-7 “回音壁”",
       "zh-tw": ""
     },
@@ -7926,8 +7928,8 @@
       ":#type-trap"
     ],
     "short_names": {
-      "en": "L-7 \"Whisperer\"",
-      "ja": "L-7 \"Whisperer\"",
+      "en": "L-7 'Whisperer'",
+      "ja": "L-7「ウィスパラー」",
       "zh-cn": "L-7 “回音壁”",
       "zh-tw": ""
     }
@@ -7938,8 +7940,8 @@
       "trap_064_magiccircle"
     ],
     "names": {
-      "en": "\"Resonator\"",
-      "ja": "\"Resonator\"",
+      "en": "'Resonator'",
+      "ja": "「レゾネーター」",
       "zh-cn": "“谐振器”",
       "zh-tw": ""
     },
@@ -7948,8 +7950,8 @@
       ":#type-trap"
     ],
     "short_names": {
-      "en": "\"Resonator\"",
-      "ja": "\"Resonator\"",
+      "en": "'Resonator'",
+      "ja": "「レゾネーター」",
       "zh-cn": "“谐振器”",
       "zh-tw": ""
     }
@@ -7983,7 +7985,7 @@
     ],
     "names": {
       "en": "Equipment Activation Valve",
-      "ja": "Equipment Activation Valve",
+      "ja": "装備起動用バルブ",
       "zh-cn": "战备激活阀",
       "zh-tw": ""
     },
@@ -7993,7 +7995,7 @@
     ],
     "short_names": {
       "en": "Equipment Activation Valve",
-      "ja": "Equipment Activation Valve",
+      "ja": "装備起動用バルブ",
       "zh-cn": "战备激活阀",
       "zh-tw": ""
     }
@@ -8005,7 +8007,7 @@
     ],
     "names": {
       "en": "Preparation Area Transmitter",
-      "ja": "Preparation Area Transmitter",
+      "ja": "準備エリア送信機",
       "zh-cn": "预备区发讯器",
       "zh-tw": ""
     },
@@ -8015,7 +8017,7 @@
     ],
     "short_names": {
       "en": "Preparation Area Transmitter",
-      "ja": "Preparation Area Transmitter",
+      "ja": "準備エリア送信機",
       "zh-cn": "预备区发讯器",
       "zh-tw": ""
     }
@@ -8027,7 +8029,7 @@
     ],
     "names": {
       "en": "Emergency Recall Box",
-      "ja": "Emergency Recall Box",
+      "ja": "緊急召還情報ボックス",
       "zh-cn": "紧急召回情报箱",
       "zh-tw": ""
     },
@@ -8037,7 +8039,7 @@
     ],
     "short_names": {
       "en": "Emergency Recall Box",
-      "ja": "Emergency Recall Box",
+      "ja": "緊急召還情報ボックス",
       "zh-cn": "紧急召回情报箱",
       "zh-tw": ""
     }
@@ -8049,7 +8051,7 @@
     ],
     "names": {
       "en": "Recuperation Area Transmitter",
-      "ja": "Recuperation Area Transmitter",
+      "ja": "休憩エリア送信機",
       "zh-cn": "休整区发讯器",
       "zh-tw": ""
     },
@@ -8059,7 +8061,7 @@
     ],
     "short_names": {
       "en": "Recuperation Area Transmitter",
-      "ja": "Recuperation Area Transmitter",
+      "ja": "休憩エリア送信機",
       "zh-cn": "休整区发讯器",
       "zh-tw": ""
     }
@@ -8071,7 +8073,7 @@
     ],
     "names": {
       "en": "Contaminated Mineral",
-      "ja": "Contaminated Mineral",
+      "ja": "汚染晶石",
       "zh-cn": "污染晶石",
       "zh-tw": ""
     },
@@ -8081,7 +8083,7 @@
     ],
     "short_names": {
       "en": "Contaminated Mineral",
-      "ja": "Contaminated Mineral",
+      "ja": "汚染晶石",
       "zh-cn": "污染晶石",
       "zh-tw": ""
     }
@@ -8093,7 +8095,7 @@
     ],
     "names": {
       "en": "Heat Cluster",
-      "ja": "Heat Cluster",
+      "ja": "集熱晶洞",
       "zh-cn": "聚热晶簇",
       "zh-tw": ""
     },
@@ -8103,7 +8105,7 @@
     ],
     "short_names": {
       "en": "Heat Cluster",
-      "ja": "Heat Cluster",
+      "ja": "集熱晶洞",
       "zh-cn": "聚热晶簇",
       "zh-tw": ""
     }
@@ -8247,7 +8249,7 @@
     ],
     "names": {
       "en": "Reassignment Transmitter",
-      "ja": "Reassignment Transmitter",
+      "ja": "再配置送信機",
       "zh-cn": "改派发讯器",
       "zh-tw": ""
     },
@@ -8257,7 +8259,7 @@
     ],
     "short_names": {
       "en": "Reassignment Transmitter",
-      "ja": "Reassignment Transmitter",
+      "ja": "再配置送信機",
       "zh-cn": "改派发讯器",
       "zh-tw": ""
     }
@@ -18626,8 +18628,8 @@
       "enemy_1238_ltmob"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "'Street Layabout'",
+      "ja": "「街の遊び人」",
       "zh-cn": "“街头闲汉”",
       "zh-tw": ""
     },
@@ -18635,8 +18637,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "'Street Layabout'",
+      "ja": "「街の遊び人」",
       "zh-cn": "“街头闲汉”",
       "zh-tw": ""
     }
@@ -18647,8 +18649,8 @@
       "enemy_1238_ltmob_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "'Street Drunk'",
+      "ja": "「街の酔っ払い」",
       "zh-cn": "“街头醉汉”",
       "zh-tw": ""
     },
@@ -18656,8 +18658,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "'Street Drunk'",
+      "ja": "「街の酔っ払い」",
       "zh-cn": "“街头醉汉”",
       "zh-tw": ""
     }
@@ -18668,8 +18670,8 @@
       "enemy_1239_ltbow"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "'Street Performer'",
+      "ja": "「街の芸人」",
       "zh-cn": "“街头卖艺者”",
       "zh-tw": ""
     },
@@ -18677,8 +18679,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "'Street Performer'",
+      "ja": "「街の芸人」",
       "zh-cn": "“街头卖艺者”",
       "zh-tw": ""
     }
@@ -18689,8 +18691,8 @@
       "enemy_1239_ltbow_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "'Street Musician'",
+      "ja": "「街の音楽家」",
       "zh-cn": "“街头音乐家”",
       "zh-tw": ""
     },
@@ -18698,8 +18700,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "'Street Musician'",
+      "ja": "「街の音楽家」",
       "zh-cn": "“街头音乐家”",
       "zh-tw": ""
     }
@@ -18710,8 +18712,8 @@
       "enemy_1240_ltgint"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Mass-Produced Colossus",
+      "ja": "量産型巨像",
       "zh-cn": "量产巨像",
       "zh-tw": ""
     },
@@ -18719,8 +18721,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Mass-Produced Colossus",
+      "ja": "量産型巨像",
       "zh-cn": "量产巨像",
       "zh-tw": ""
     }
@@ -18731,8 +18733,8 @@
       "enemy_1240_ltgint_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Enhanced Mass-Produced Colossus",
+      "ja": "量産型巨像・改",
       "zh-cn": "改进型量产巨像",
       "zh-tw": ""
     },
@@ -18740,8 +18742,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Enhanced Mass-Produced Colossus",
+      "ja": "量産型巨像・改",
       "zh-cn": "改进型量产巨像",
       "zh-tw": ""
     }
@@ -18752,8 +18754,8 @@
       "enemy_1241_ltmage"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Spire Caster",
+      "ja": "高塔の術師",
       "zh-cn": "高塔术师",
       "zh-tw": ""
     },
@@ -18761,8 +18763,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Spire Caster",
+      "ja": "高塔の術師",
       "zh-cn": "高塔术师",
       "zh-tw": ""
     }
@@ -18773,8 +18775,8 @@
       "enemy_1241_ltmage_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Battleworn Spire Caster",
+      "ja": "ベテラン高塔の術師",
       "zh-cn": "历战高塔术师",
       "zh-tw": ""
     },
@@ -18782,8 +18784,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Battleworn Spire Caster",
+      "ja": "ベテラン高塔の術師",
       "zh-cn": "历战高塔术师",
       "zh-tw": ""
     }
@@ -18794,8 +18796,8 @@
       "enemy_1242_ltsmag"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Remnant Violinist",
+      "ja": "残党のバイオリン奏者",
       "zh-cn": "残党小提琴家",
       "zh-tw": ""
     },
@@ -18803,8 +18805,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Remnant Violinist",
+      "ja": "残党のバイオリン奏者",
       "zh-cn": "残党小提琴家",
       "zh-tw": ""
     }
@@ -18815,8 +18817,8 @@
       "enemy_1242_ltsmag_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Remnant Principal Violinist",
+      "ja": "残党のバイオリン首席奏者",
       "zh-cn": "残党首席小提琴家",
       "zh-tw": ""
     },
@@ -18824,8 +18826,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Remnant Principal Violinist",
+      "ja": "残党のバイオリン首席奏者",
       "zh-cn": "残党首席小提琴家",
       "zh-tw": ""
     }
@@ -18836,8 +18838,8 @@
       "enemy_1243_ltswar"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Remnant Saxophonist",
+      "ja": "残党のサックス奏者",
       "zh-cn": "残党萨克斯手",
       "zh-tw": ""
     },
@@ -18845,8 +18847,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Remnant Saxophonist",
+      "ja": "残党のサックス奏者",
       "zh-cn": "残党萨克斯手",
       "zh-tw": ""
     }
@@ -18857,8 +18859,8 @@
       "enemy_1243_ltswar_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Remnant Official Saxophonist",
+      "ja": "残党のサックス首席奏者",
       "zh-cn": "残党正式萨克斯手",
       "zh-tw": ""
     },
@@ -18866,8 +18868,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Remnant Official Saxophonist",
+      "ja": "残党のサックス首席奏者",
       "zh-cn": "残党正式萨克斯手",
       "zh-tw": ""
     }
@@ -18878,8 +18880,8 @@
       "enemy_1244_ltssch"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Remnant Field Caster",
+      "ja": "残党の陣地術師",
       "zh-cn": "残党阵地术师",
       "zh-tw": ""
     },
@@ -18887,8 +18889,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Remnant Field Caster",
+      "ja": "残党の陣地術師",
       "zh-cn": "残党阵地术师",
       "zh-tw": ""
     }
@@ -18899,8 +18901,8 @@
       "enemy_1244_ltssch_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Remnant Elite Field Caster",
+      "ja": "残党のベテラン陣地術師",
       "zh-cn": "残党资深阵地术师",
       "zh-tw": ""
     },
@@ -18908,8 +18910,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Remnant Elite Field Caster",
+      "ja": "残党のベテラン陣地術師",
       "zh-cn": "残党资深阵地术师",
       "zh-tw": ""
     }
@@ -18920,8 +18922,8 @@
       "enemy_1246_aslime"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Blackwater Originium Slug",
+      "ja": "ドブオリジムシ",
       "zh-cn": "黑水源石虫",
       "zh-tw": ""
     },
@@ -18929,8 +18931,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Blackwater Originium Slug",
+      "ja": "ドブオリジムシ",
       "zh-cn": "黑水源石虫",
       "zh-tw": ""
     }
@@ -18941,8 +18943,8 @@
       "enemy_1246_aslime_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Blackwater Originium Slug α",
+      "ja": "ドブオリジムシα",
       "zh-cn": "黑水源石虫·α",
       "zh-tw": ""
     },
@@ -18950,8 +18952,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Blackwater Originium Slug α",
+      "ja": "ドブオリジムシα",
       "zh-cn": "黑水源石虫·α",
       "zh-tw": ""
     }
@@ -18962,8 +18964,8 @@
       "enemy_1247_ltgtld"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Dame Gertrude",
+      "ja": "ゲルトルーデ",
       "zh-cn": "格特鲁德女士",
       "zh-tw": ""
     },
@@ -18971,8 +18973,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Dame Gertrude",
+      "ja": "ゲルトルーデ",
       "zh-cn": "格特鲁德女士",
       "zh-tw": ""
     }
@@ -21377,8 +21379,8 @@
       "enemy_1530_white"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Kreide, 'Worldly Remains'",
+      "ja": "クライデ、「塵界の遺骸」",
       "zh-cn": "白垩，“尘世遗骸”",
       "zh-tw": ""
     },
@@ -21386,8 +21388,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Kreide, 'Worldly Remains'",
+      "ja": "クライデ、「塵界の遺骸」",
       "zh-cn": "白垩，“尘世遗骸”",
       "zh-tw": ""
     }
@@ -21902,8 +21904,8 @@
       "enemy_2020_cswrtr"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "'Playwright'",
+      "ja": "「劇作家」",
       "zh-cn": "“剧作家”",
       "zh-tw": ""
     },
@@ -21911,8 +21913,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "'Playwright'",
+      "ja": "「劇作家」",
       "zh-cn": "“剧作家”",
       "zh-tw": ""
     }
@@ -22532,8 +22534,8 @@
       "enemy_6001_trsgst"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Fleet-footed Thief",
+      "ja": "コソ泥フライ",
       "zh-cn": "飞腿毛贼",
       "zh-tw": ""
     },
@@ -22541,8 +22543,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Fleet-footed Thief",
+      "ja": "コソ泥フライ",
       "zh-cn": "飞腿毛贼",
       "zh-tw": ""
     }
@@ -22553,8 +22555,8 @@
       "enemy_6002_trswlf"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Teary Detective",
+      "ja": "涙眼の探偵",
       "zh-cn": "流眼泪侦探",
       "zh-tw": ""
     },
@@ -22562,8 +22564,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Teary Detective",
+      "ja": "涙眼の探偵",
       "zh-cn": "流眼泪侦探",
       "zh-tw": ""
     }
@@ -22574,8 +22576,8 @@
       "enemy_6003_trsslm"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "'Shiny Pooloo'",
+      "ja": "「キラプル」",
       "zh-cn": "“闪亮噗噜”",
       "zh-tw": ""
     },
@@ -22583,8 +22585,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "'Shiny Pooloo'",
+      "ja": "「キラプル」",
       "zh-cn": "“闪亮噗噜”",
       "zh-tw": ""
     }
@@ -22595,8 +22597,8 @@
       "enemy_6004_pleslm"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "'Milan'",
+      "ja": "「ミラノ」",
       "zh-cn": "“米兰”",
       "zh-tw": ""
     },
@@ -22604,8 +22606,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "'Milan'",
+      "ja": "「ミラノ」",
       "zh-cn": "“米兰”",
       "zh-tw": ""
     }
@@ -22616,8 +22618,8 @@
       "enemy_6005_llstone"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Spherical Colossus",
+      "ja": "円岩の巨像",
       "zh-cn": "圆岩巨像",
       "zh-tw": ""
     },
@@ -22625,8 +22627,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Spherical Colossus",
+      "ja": "円岩の巨像",
       "zh-cn": "圆岩巨像",
       "zh-tw": ""
     }
@@ -22637,8 +22639,8 @@
       "enemy_6006_fystone"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Crude Sphere",
+      "ja": "粗い円岩",
       "zh-cn": "粗圆岩",
       "zh-tw": ""
     },
@@ -22646,8 +22648,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Crude Sphere",
+      "ja": "粗い円岩",
       "zh-cn": "粗圆岩",
       "zh-tw": ""
     }
