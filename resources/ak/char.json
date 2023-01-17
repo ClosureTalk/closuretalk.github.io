@@ -359,7 +359,7 @@
     ],
     "names": {
       "en": "Gavial the Invincible",
-      "ja": "Gavial the Invincible",
+      "ja": "百錬ガヴィル",
       "zh-cn": "百炼嘉维尔",
       "zh-tw": ""
     },
@@ -369,7 +369,7 @@
     ],
     "short_names": {
       "en": "Gavial the Invincible",
-      "ja": "Gavial the Invincible",
+      "ja": "百錬ガヴィル",
       "zh-cn": "百炼嘉维尔",
       "zh-tw": ""
     }
@@ -2054,7 +2054,8 @@
     "id": "char_2023_ling",
     "images": [
       "char_2023_ling",
-      "char_2023_ling_2"
+      "char_2023_ling_2",
+      "char_2023_ling_nian#9"
     ],
     "names": {
       "en": "Ling",
@@ -2070,6 +2071,29 @@
       "en": "Ling",
       "ja": "リィン",
       "zh-cn": "令",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_2024_chyue",
+    "images": [
+      "char_2024_chyue",
+      "char_2024_chyue_2"
+    ],
+    "names": {
+      "en": "Chongyue",
+      "ja": "Chongyue",
+      "zh-cn": "重岳",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Chongyue",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Chongyue",
+      "ja": "Chongyue",
+      "zh-cn": "重岳",
       "zh-tw": ""
     }
   },
@@ -4967,7 +4991,7 @@
     ],
     "names": {
       "en": "Minimalist",
-      "ja": "Minimalist",
+      "ja": "ミニマリスト",
       "zh-cn": "至简",
       "zh-tw": ""
     },
@@ -4977,7 +5001,7 @@
     ],
     "short_names": {
       "en": "Minimalist",
-      "ja": "Minimalist",
+      "ja": "ミニマリスト",
       "zh-cn": "至简",
       "zh-tw": ""
     }
@@ -4989,8 +5013,8 @@
       "char_4055_bgsnow_2"
     ],
     "names": {
-      "en": "Позёмка",
-      "ja": "Позёмка",
+      "en": "Pozëmka",
+      "ja": "パゼオンカ",
       "zh-cn": "鸿雪",
       "zh-tw": ""
     },
@@ -4999,8 +5023,8 @@
       ":#type-char"
     ],
     "short_names": {
-      "en": "Позёмка",
-      "ja": "Позёмка",
+      "en": "Pozëmka",
+      "ja": "パゼオンカ",
       "zh-cn": "鸿雪",
       "zh-tw": ""
     }
@@ -5209,6 +5233,52 @@
       "en": "Stainless",
       "ja": "Stainless",
       "zh-cn": "白铁",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_4078_bdhkgt",
+    "images": [
+      "char_4078_bdhkgt",
+      "char_4078_bdhkgt_2"
+    ],
+    "names": {
+      "en": "Jieyun",
+      "ja": "Jieyun",
+      "zh-cn": "截云",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Jieyun",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Jieyun",
+      "ja": "Jieyun",
+      "zh-cn": "截云",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_4080_lin",
+    "images": [
+      "char_4080_lin",
+      "char_4080_lin_2"
+    ],
+    "names": {
+      "en": "Lin",
+      "ja": "Lin",
+      "zh-cn": "林",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Lin",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Lin",
+      "ja": "Lin",
+      "zh-cn": "林",
       "zh-tw": ""
     }
   },
@@ -5829,7 +5899,8 @@
     "images": [
       "char_473_mberry",
       "char_473_mberry_2",
-      "char_473_mberry_epoque#14"
+      "char_473_mberry_epoque#14",
+      "char_473_mberry_nian#9"
     ],
     "names": {
       "en": "Mulberry",
@@ -5901,6 +5972,7 @@
     "images": [
       "char_476_blkngt",
       "char_476_blkngt_2",
+      "char_476_blkngt_nian#8",
       "char_476_blkngt_summer#8"
     ],
     "names": {
@@ -6088,6 +6160,29 @@
     }
   },
   {
+    "id": "char_493_firwhl",
+    "images": [
+      "char_493_firwhl",
+      "char_493_firwhl_2"
+    ],
+    "names": {
+      "en": "Firewhistle",
+      "ja": "Firewhistle",
+      "zh-cn": "火哨",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Firewhistle",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Firewhistle",
+      "ja": "Firewhistle",
+      "zh-cn": "火哨",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "char_496_wildmn",
     "images": [
       "char_496_wildmn",
@@ -6115,11 +6210,12 @@
     "id": "char_497_ctable",
     "images": [
       "char_497_ctable",
-      "char_497_ctable_2"
+      "char_497_ctable_2",
+      "char_497_ctable_nian#9"
     ],
     "names": {
       "en": "Cantabile",
-      "ja": "Cantabile",
+      "ja": "カンタービレ",
       "zh-cn": "晓歌",
       "zh-tw": ""
     },
@@ -6129,7 +6225,7 @@
     ],
     "short_names": {
       "en": "Cantabile",
-      "ja": "Cantabile",
+      "ja": "カンタービレ",
       "zh-cn": "晓歌",
       "zh-tw": ""
     }
@@ -6945,7 +7041,8 @@
   {
     "id": "token_10020_ling_soul1",
     "images": [
-      "token_10020_ling_soul1"
+      "token_10020_ling_soul1",
+      "token_10020_ling_soul1_nian#9"
     ],
     "names": {
       "en": "'Tranquility'",
@@ -6967,7 +7064,8 @@
   {
     "id": "token_10020_ling_soul2",
     "images": [
-      "token_10020_ling_soul2"
+      "token_10020_ling_soul2",
+      "token_10020_ling_soul2_nian#9"
     ],
     "names": {
       "en": "'Peripateticism'",
@@ -6989,7 +7087,8 @@
   {
     "id": "token_10020_ling_soul3",
     "images": [
-      "token_10020_ling_soul3"
+      "token_10020_ling_soul3",
+      "token_10020_ling_soul3_nian#9"
     ],
     "names": {
       "en": "'Thunderer'",
@@ -7126,8 +7225,8 @@
       "token_10026_bgsnow_subbow"
     ],
     "names": {
-      "en": "Typewriters",
-      "ja": "Typewriters",
+      "en": "'Typewriter'",
+      "ja": "「タイプライター」",
       "zh-cn": "“打字机”",
       "zh-tw": ""
     },
@@ -7136,8 +7235,8 @@
       ":#type-token"
     ],
     "short_names": {
-      "en": "Typewriters",
-      "ja": "Typewriters",
+      "en": "'Typewriter'",
+      "ja": "「タイプライター」",
       "zh-cn": "“打字机”",
       "zh-tw": ""
     }
@@ -7875,7 +7974,7 @@
     ],
     "names": {
       "en": "Hand of the Saint",
-      "ja": "聖徒の手",
+      "ja": "聖徒の御手",
       "zh-cn": "圣徒之手",
       "zh-tw": ""
     },
@@ -7885,7 +7984,7 @@
     ],
     "short_names": {
       "en": "Hand of the Saint",
-      "ja": "聖徒の手",
+      "ja": "聖徒の御手",
       "zh-cn": "圣徒之手",
       "zh-tw": ""
     }
@@ -8204,8 +8303,8 @@
       "trap_080_garage"
     ],
     "names": {
-      "en": "Starting Point",
-      "ja": "Starting Point",
+      "en": "Self-Driving Cart Launchpoint",
+      "ja": "セルカースターター",
       "zh-cn": "自走车出发点",
       "zh-tw": ""
     },
@@ -8214,8 +8313,8 @@
       ":#type-trap"
     ],
     "short_names": {
-      "en": "Starting Point",
-      "ja": "Starting Point",
+      "en": "Self-Driving Cart Launchpoint",
+      "ja": "セルカースターター",
       "zh-cn": "自走车出发点",
       "zh-tw": ""
     }
@@ -8226,8 +8325,8 @@
       "trap_081_turngear"
     ],
     "names": {
-      "en": "One-way Traffic",
-      "ja": "One-way Traffic",
+      "en": "Self-Driving Cart One-Way Road",
+      "ja": "ターンテーブル",
       "zh-cn": "自走车单行道",
       "zh-tw": ""
     },
@@ -8236,8 +8335,8 @@
       ":#type-trap"
     ],
     "short_names": {
-      "en": "One-way Traffic",
-      "ja": "One-way Traffic",
+      "en": "Self-Driving Cart One-Way Road",
+      "ja": "ターンテーブル",
       "zh-cn": "自走车单行道",
       "zh-tw": ""
     }
@@ -8315,7 +8414,7 @@
     ],
     "names": {
       "en": "Fluorescent Spores",
-      "ja": "Fluorescent Spores",
+      "ja": "蛍光胞子",
       "zh-cn": "荧光孢子",
       "zh-tw": ""
     },
@@ -8325,7 +8424,7 @@
     ],
     "short_names": {
       "en": "Fluorescent Spores",
-      "ja": "Fluorescent Spores",
+      "ja": "蛍光胞子",
       "zh-cn": "荧光孢子",
       "zh-tw": ""
     }
@@ -8425,7 +8524,7 @@
     ],
     "names": {
       "en": "Entitative Program",
-      "ja": "Entitative Program",
+      "ja": "実体プログラム",
       "zh-cn": "实体程式",
       "zh-tw": ""
     },
@@ -8435,7 +8534,7 @@
     ],
     "short_names": {
       "en": "Entitative Program",
-      "ja": "Entitative Program",
+      "ja": "実体プログラム",
       "zh-cn": "实体程式",
       "zh-tw": ""
     }
@@ -19342,8 +19441,8 @@
       "enemy_1258_durman"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Alcohol Lover",
+      "ja": "酒類愛好家",
       "zh-cn": "酒类爱好者",
       "zh-tw": ""
     },
@@ -19351,8 +19450,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Alcohol Lover",
+      "ja": "酒類愛好家",
       "zh-cn": "酒类爱好者",
       "zh-tw": ""
     }
@@ -19363,8 +19462,8 @@
       "enemy_1258_durman_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Alcohol Association Member",
+      "ja": "酒類愛好協会員",
       "zh-cn": "酒类协会会员",
       "zh-tw": ""
     },
@@ -19372,8 +19471,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Alcohol Association Member",
+      "ja": "酒類愛好協会員",
       "zh-cn": "酒类协会会员",
       "zh-tw": ""
     }
@@ -19384,8 +19483,8 @@
       "enemy_1259_durwar"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Lakeside Volunteer",
+      "ja": "湖畔のボランティア",
       "zh-cn": "湖畔志愿者",
       "zh-tw": ""
     },
@@ -19393,8 +19492,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Lakeside Volunteer",
+      "ja": "湖畔のボランティア",
       "zh-cn": "湖畔志愿者",
       "zh-tw": ""
     }
@@ -19405,8 +19504,8 @@
       "enemy_1259_durwar_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Lakeside Lifeguard",
+      "ja": "湖畔のライフセーバー",
       "zh-cn": "湖畔救生员",
       "zh-tw": ""
     },
@@ -19414,8 +19513,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Lakeside Lifeguard",
+      "ja": "湖畔のライフセーバー",
       "zh-cn": "湖畔救生员",
       "zh-tw": ""
     }
@@ -19426,8 +19525,8 @@
       "enemy_1260_durmag"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Sandcastle Builder",
+      "ja": "サンドキャッスル建築家",
       "zh-cn": "沙堡建筑者",
       "zh-tw": ""
     },
@@ -19435,8 +19534,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Sandcastle Builder",
+      "ja": "サンドキャッスル建築家",
       "zh-cn": "沙堡建筑者",
       "zh-tw": ""
     }
@@ -19447,8 +19546,8 @@
       "enemy_1260_durmag_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Sandcastle Architect",
+      "ja": "サンドキャッスルデザイナー",
       "zh-cn": "沙堡设计师",
       "zh-tw": ""
     },
@@ -19456,8 +19555,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Sandcastle Architect",
+      "ja": "サンドキャッスルデザイナー",
       "zh-cn": "沙堡设计师",
       "zh-tw": ""
     }
@@ -19468,8 +19567,8 @@
       "enemy_1261_dursho"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Volleyball Serving Cart",
+      "ja": "バレーボールサーブ車",
       "zh-cn": "排球发球车",
       "zh-tw": ""
     },
@@ -19477,8 +19576,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Volleyball Serving Cart",
+      "ja": "バレーボールサーブ車",
       "zh-cn": "排球发球车",
       "zh-tw": ""
     }
@@ -19489,8 +19588,8 @@
       "enemy_1261_dursho_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Volleyball Spiking Cart",
+      "ja": "バレーボールスパイク車",
       "zh-cn": "排球重扣车",
       "zh-tw": ""
     },
@@ -19498,8 +19597,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Volleyball Spiking Cart",
+      "ja": "バレーボールスパイク車",
       "zh-cn": "排球重扣车",
       "zh-tw": ""
     }
@@ -19510,8 +19609,8 @@
       "enemy_1262_durplc"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Full Metal Surfing Instructor",
+      "ja": "鋼のインストラクター",
       "zh-cn": "钢铁冲浪教练",
       "zh-tw": ""
     },
@@ -19519,8 +19618,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Full Metal Surfing Instructor",
+      "ja": "鋼のインストラクター",
       "zh-cn": "钢铁冲浪教练",
       "zh-tw": ""
     }
@@ -19531,8 +19630,8 @@
       "enemy_1262_durplc_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Alloy Surfing Instructor",
+      "ja": "合金のインストラクター",
       "zh-cn": "合金冲浪教练",
       "zh-tw": ""
     },
@@ -19540,8 +19639,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Alloy Surfing Instructor",
+      "ja": "合金のインストラクター",
       "zh-cn": "合金冲浪教练",
       "zh-tw": ""
     }
@@ -19552,8 +19651,8 @@
       "enemy_1263_durbus"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Fully-Enclosed Beach Buggy",
+      "ja": "防塵サンドバギー",
       "zh-cn": "全封闭沙滩车",
       "zh-tw": ""
     },
@@ -19561,8 +19660,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Fully-Enclosed Beach Buggy",
+      "ja": "防塵サンドバギー",
       "zh-cn": "全封闭沙滩车",
       "zh-tw": ""
     }
@@ -19573,8 +19672,8 @@
       "enemy_1263_durbus_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Competitive-Grade Beach Buggy",
+      "ja": "レーシングサンドバギー",
       "zh-cn": "竞赛级沙滩车",
       "zh-tw": ""
     },
@@ -19582,8 +19681,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Competitive-Grade Beach Buggy",
+      "ja": "レーシングサンドバギー",
       "zh-cn": "竞赛级沙滩车",
       "zh-tw": ""
     }
@@ -19594,8 +19693,8 @@
       "enemy_1264_durgrd"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Mead-Grade Waker-Upper",
+      "ja": "ミード級ソバーロボ",
       "zh-cn": "蜜酿级醒酒助手",
       "zh-tw": ""
     },
@@ -19603,8 +19702,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Mead-Grade Waker-Upper",
+      "ja": "ミード級ソバーロボ",
       "zh-cn": "蜜酿级醒酒助手",
       "zh-tw": ""
     }
@@ -19615,8 +19714,8 @@
       "enemy_1264_durgrd_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Whiskey-Grade Waker-Upper",
+      "ja": "スピリッツ級ソバーロボ",
       "zh-cn": "烈酒级醒酒助手",
       "zh-tw": ""
     },
@@ -19624,8 +19723,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Whiskey-Grade Waker-Upper",
+      "ja": "スピリッツ級ソバーロボ",
       "zh-cn": "烈酒级醒酒助手",
       "zh-tw": ""
     }
@@ -20744,6 +20843,342 @@
     }
   },
   {
+    "id": "enemy_1295_ymph",
+    "images": [
+      "enemy_1295_ymph"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "谛兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "谛兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1295_ymph_2",
+    "images": [
+      "enemy_1295_ymph_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "躁怒谛兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "躁怒谛兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1296_ymknif",
+    "images": [
+      "enemy_1296_ymknif"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "山海众散兵",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "山海众散兵",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1296_ymknif_2",
+    "images": [
+      "enemy_1296_ymknif_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "山海众游勇",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "山海众游勇",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1297_ymflag",
+    "images": [
+      "enemy_1297_ymflag"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "山海众传令手",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "山海众传令手",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1297_ymflag_2",
+    "images": [
+      "enemy_1297_ymflag_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "山海众掌令使",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "山海众掌令使",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1298_ymmonk",
+    "images": [
+      "enemy_1298_ymmonk"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "山海众冒矢者",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "山海众冒矢者",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1298_ymmonk_2",
+    "images": [
+      "enemy_1298_ymmonk_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "山海众连阵者",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "山海众连阵者",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1299_ymkilr",
+    "images": [
+      "enemy_1299_ymkilr"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "山海众头目",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "山海众头目",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1299_ymkilr_2",
+    "images": [
+      "enemy_1299_ymkilr_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "山海众秘使",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "山海众秘使",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1300_ymmir",
+    "images": [
+      "enemy_1300_ymmir"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "山海众窥魅人",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "山海众窥魅人",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1300_ymmir_2",
+    "images": [
+      "enemy_1300_ymmir_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "山海众司魅人",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "山海众司魅人",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1301_ymcnon",
+    "images": [
+      "enemy_1301_ymcnon"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“破坚”",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“破坚”",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1301_ymcnon_2",
+    "images": [
+      "enemy_1301_ymcnon_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“碎壁”",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“碎壁”",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1302_ymtro",
+    "images": [
+      "enemy_1302_ymtro"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“履平沙”",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“履平沙”",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1302_ymtro_2",
+    "images": [
+      "enemy_1302_ymtro_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“越长尘”",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“越长尘”",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "enemy_1500_skulsr",
     "images": [
       "enemy_1500_skulsr"
@@ -21421,8 +21856,8 @@
       "enemy_1532_minima"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "'Materialist Antagonizer'",
+      "ja": "「物欲の拮抗者」",
       "zh-cn": "“物欲拮抗者”",
       "zh-tw": ""
     },
@@ -21430,8 +21865,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "'Materialist Antagonizer'",
+      "ja": "「物欲の拮抗者」",
       "zh-cn": "“物欲拮抗者”",
       "zh-tw": ""
     }
@@ -21496,6 +21931,27 @@
       "en": "",
       "ja": "",
       "zh-cn": "“领袖” ",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1538_ymmons",
+    "images": [
+      "enemy_1538_ymmons"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“睚”",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“睚”",
       "zh-tw": ""
     }
   },
@@ -22660,8 +23116,8 @@
       "enemy_6007_mtslm"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "'Drifting Cabin'",
+      "ja": "「ローミングハウス」",
       "zh-cn": "“漫游小屋”",
       "zh-tw": ""
     },
@@ -22669,8 +23125,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "'Drifting Cabin'",
+      "ja": "「ローミングハウス」",
       "zh-cn": "“漫游小屋”",
       "zh-tw": ""
     }
@@ -22681,8 +23137,8 @@
       "enemy_6008_mtslms"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Fluorescent Originium Slug",
+      "ja": "蛍殻オリジムシ",
       "zh-cn": "荧壳源石虫",
       "zh-tw": ""
     },
@@ -22690,8 +23146,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Fluorescent Originium Slug",
+      "ja": "蛍殻オリジムシ",
       "zh-cn": "荧壳源石虫",
       "zh-tw": ""
     }
