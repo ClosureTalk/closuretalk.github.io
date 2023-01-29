@@ -6069,6 +6069,7 @@
     "images": [
       "char_485_pallas",
       "char_485_pallas_2",
+      "char_485_pallas_epoque#19",
       "char_485_pallas_epoque#12"
     ],
     "names": {
@@ -8624,6 +8625,490 @@
       "en": "Modified Phytohormone",
       "ja": "Modified Phytohormone",
       "zh-cn": "改性植物激素",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_400_xbfarm",
+    "images": [
+      "trap_400_xbfarm"
+    ],
+    "names": {
+      "en": "Portable Planting Trough",
+      "ja": "Portable Planting Trough",
+      "zh-cn": "便携式种植槽",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Portable Planting Trough",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Portable Planting Trough",
+      "ja": "Portable Planting Trough",
+      "zh-cn": "便携式种植槽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_401_xbfato",
+    "images": [
+      "trap_401_xbfato"
+    ],
+    "names": {
+      "en": "Basic Harvester Hub",
+      "ja": "Basic Harvester Hub",
+      "zh-cn": "采集实习站",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Basic Harvester Hub",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Basic Harvester Hub",
+      "ja": "Basic Harvester Hub",
+      "zh-cn": "采集实习站",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_403_wfactory",
+    "images": [
+      "trap_403_wfactory"
+    ],
+    "names": {
+      "en": "Crabbie Pumpie",
+      "ja": "Crabbie Pumpie",
+      "zh-cn": "蟹蟹抽水泵",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Crabbie Pumpie",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Crabbie Pumpie",
+      "ja": "Crabbie Pumpie",
+      "zh-cn": "蟹蟹抽水泵",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_404_xbfortress",
+    "images": [
+      "trap_404_xbfortress"
+    ],
+    "names": {
+      "en": "Firm Platform",
+      "ja": "Firm Platform",
+      "zh-cn": "坚固筑台",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Firm Platform",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Firm Platform",
+      "ja": "Firm Platform",
+      "zh-cn": "坚固筑台",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_405_xbroadblock",
+    "images": [
+      "trap_405_xbroadblock"
+    ],
+    "names": {
+      "en": "Urban Style Barrier",
+      "ja": "Urban Style Barrier",
+      "zh-cn": "都市风壁障",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Urban Style Barrier",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Urban Style Barrier",
+      "ja": "Urban Style Barrier",
+      "zh-cn": "都市风壁障",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_406_xboverwatch",
+    "images": [
+      "trap_406_xboverwatch"
+    ],
+    "names": {
+      "en": "Monitoring Tower",
+      "ja": "Monitoring Tower",
+      "zh-cn": "监控塔",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Monitoring Tower",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Monitoring Tower",
+      "ja": "Monitoring Tower",
+      "zh-cn": "监控塔",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_415_trademan",
+    "images": [
+      "trap_415_trademan"
+    ],
+    "names": {
+      "en": "The Liaison",
+      "ja": "The Liaison",
+      "zh-cn": "联络员",
+      "zh-tw": ""
+    },
+    "searches": [
+      "The Liaison",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "The Liaison",
+      "ja": "The Liaison",
+      "zh-cn": "联络员",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_417_shielder",
+    "images": [
+      "trap_417_shielder"
+    ],
+    "names": {
+      "en": "Remote Shield Controller",
+      "ja": "Remote Shield Controller",
+      "zh-cn": "护盾遥控器",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Remote Shield Controller",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Remote Shield Controller",
+      "ja": "Remote Shield Controller",
+      "zh-cn": "护盾遥控器",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_418_smokebomb",
+    "images": [
+      "trap_418_smokebomb"
+    ],
+    "names": {
+      "en": "Hypnotic Censer",
+      "ja": "Hypnotic Censer",
+      "zh-cn": "安眠迷香",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Hypnotic Censer",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Hypnotic Censer",
+      "ja": "Hypnotic Censer",
+      "zh-cn": "安眠迷香",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_419_enhancer",
+    "images": [
+      "trap_419_enhancer"
+    ],
+    "names": {
+      "en": "Refreshing Potion",
+      "ja": "Refreshing Potion",
+      "zh-cn": "醒神秘药",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Refreshing Potion",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Refreshing Potion",
+      "ja": "Refreshing Potion",
+      "zh-cn": "醒神秘药",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_420_umbrella",
+    "images": [
+      "trap_420_umbrella"
+    ],
+    "names": {
+      "en": "Anti-Recon Camouflage Device",
+      "ja": "Anti-Recon Camouflage Device",
+      "zh-cn": "反侦察藏匿机",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Anti-Recon Camouflage Device",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Anti-Recon Camouflage Device",
+      "ja": "Anti-Recon Camouflage Device",
+      "zh-cn": "反侦察藏匿机",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_421_repairman",
+    "images": [
+      "trap_421_repairman"
+    ],
+    "names": {
+      "en": "Emergency Repair Vehicle",
+      "ja": "Emergency Repair Vehicle",
+      "zh-cn": "应急修理车",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Emergency Repair Vehicle",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Emergency Repair Vehicle",
+      "ja": "Emergency Repair Vehicle",
+      "zh-cn": "应急修理车",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_423_bondtw",
+    "images": [
+      "trap_423_bondtw"
+    ],
+    "names": {
+      "en": "Trap Net Launcher",
+      "ja": "Trap Net Launcher",
+      "zh-cn": "缚网发射台",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Trap Net Launcher",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Trap Net Launcher",
+      "ja": "Trap Net Launcher",
+      "zh-cn": "缚网发射台",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_424_pushtw",
+    "images": [
+      "trap_424_pushtw"
+    ],
+    "names": {
+      "en": "Gas Jet Thrower",
+      "ja": "Gas Jet Thrower",
+      "zh-cn": "喷拒器",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Gas Jet Thrower",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Gas Jet Thrower",
+      "ja": "Gas Jet Thrower",
+      "zh-cn": "喷拒器",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_425_xbwall",
+    "images": [
+      "trap_425_xbwall"
+    ],
+    "names": {
+      "en": "Fortification",
+      "ja": "Fortification",
+      "zh-cn": "防御工事",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Fortification",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Fortification",
+      "ja": "Fortification",
+      "zh-cn": "防御工事",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_426_xbmrcl",
+    "images": [
+      "trap_426_xbmrcl"
+    ],
+    "names": {
+      "en": "Modular Computing Station",
+      "ja": "Modular Computing Station",
+      "zh-cn": "模块演算设施",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Modular Computing Station",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Modular Computing Station",
+      "ja": "Modular Computing Station",
+      "zh-cn": "模块演算设施",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_427_xbprsh",
+    "images": [
+      "trap_427_xbprsh"
+    ],
+    "names": {
+      "en": "Resource Planning Station",
+      "ja": "Resource Planning Station",
+      "zh-cn": "资源规划站",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Resource Planning Station",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Resource Planning Station",
+      "ja": "Resource Planning Station",
+      "zh-cn": "资源规划站",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_428_xblrsh",
+    "images": [
+      "trap_428_xblrsh"
+    ],
+    "names": {
+      "en": "Combat Readiness Station",
+      "ja": "Combat Readiness Station",
+      "zh-cn": "备勤激活站",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Combat Readiness Station",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Combat Readiness Station",
+      "ja": "Combat Readiness Station",
+      "zh-cn": "备勤激活站",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_429_xbescp",
+    "images": [
+      "trap_429_xbescp"
+    ],
+    "names": {
+      "en": "Transregional Communication Station",
+      "ja": "Transregional Communication Station",
+      "zh-cn": "跨地块通讯站",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Transregional Communication Station",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Transregional Communication Station",
+      "ja": "Transregional Communication Station",
+      "zh-cn": "跨地块通讯站",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_431_xbgldn",
+    "images": [
+      "trap_431_xbgldn"
+    ],
+    "names": {
+      "en": "Mint",
+      "ja": "Mint",
+      "zh-cn": "冶铸台",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Mint",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Mint",
+      "ja": "Mint",
+      "zh-cn": "冶铸台",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_438_xbfato2",
+    "images": [
+      "trap_438_xbfato2"
+    ],
+    "names": {
+      "en": "Premium Harvester Hub",
+      "ja": "Premium Harvester Hub",
+      "zh-cn": "采集专员站",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Premium Harvester Hub",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Premium Harvester Hub",
+      "ja": "Premium Harvester Hub",
+      "zh-cn": "采集专员站",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_439_xbfato3",
+    "images": [
+      "trap_439_xbfato3"
+    ],
+    "names": {
+      "en": "Executive Harvester Hub",
+      "ja": "Executive Harvester Hub",
+      "zh-cn": "采集主任站",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Executive Harvester Hub",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Executive Harvester Hub",
+      "ja": "Executive Harvester Hub",
+      "zh-cn": "采集主任站",
       "zh-tw": ""
     }
   },
@@ -23233,6 +23718,447 @@
       "en": "",
       "ja": "",
       "zh-cn": "小型共生体",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_7001_blwzad",
+    "images": [
+      "enemy_7001_blwzad"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "部族巫术师",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "部族巫术师",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_7001_blwzad_2",
+    "images": [
+      "enemy_7001_blwzad_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "王酋巫术师",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "王酋巫术师",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_7002_veingd",
+    "images": [
+      "enemy_7002_veingd"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "矿脉守卫",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "矿脉守卫",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_7002_veingd_2",
+    "images": [
+      "enemy_7002_veingd_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "狂化矿脉守卫",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "狂化矿脉守卫",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_7003_catapt",
+    "images": [
+      "enemy_7003_catapt"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“都可以砸”",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“都可以砸”",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_7003_catapt_2",
+    "images": [
+      "enemy_7003_catapt_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“都应该砸”",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“都应该砸”",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_7004_xbdeer",
+    "images": [
+      "enemy_7004_xbdeer"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "小角跳兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "小角跳兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_7004_xbdeer_2",
+    "images": [
+      "enemy_7004_xbdeer_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "大角跳兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "大角跳兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_7005_xbbull",
+    "images": [
+      "enemy_7005_xbbull"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "苔生兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "苔生兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_7005_xbbull_2",
+    "images": [
+      "enemy_7005_xbbull_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "茂密苔生兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "茂密苔生兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_7006_xbcrab",
+    "images": [
+      "enemy_7006_xbcrab"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "岩壳蟹",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "岩壳蟹",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_7006_xbcrab_2",
+    "images": [
+      "enemy_7006_xbcrab_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "结晶岩壳蟹",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "结晶岩壳蟹",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_7007_xbbird",
+    "images": [
+      "enemy_7007_xbbird"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "落沙晶蹄兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "落沙晶蹄兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_7008_wrkwrk",
+    "images": [
+      "enemy_7008_wrkwrk"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "采集实习生",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "采集实习生",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_7009_mtmoun",
+    "images": [
+      "enemy_7009_mtmoun"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“不朽之人”",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“不朽之人”",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_7010_bldrgn",
+    "images": [
+      "enemy_7010_bldrgn"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "巨翼兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "巨翼兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_7011_paki",
+    "images": [
+      "enemy_7011_paki"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨尔贡契约刺客",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨尔贡契约刺客",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_7012_wilder",
+    "images": [
+      "enemy_7012_wilder"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "无阻冲锋官",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "无阻冲锋官",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_7013_slwazd",
+    "images": [
+      "enemy_7013_slwazd"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“召毁者”",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“召毁者”",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_7014_dva",
+    "images": [
+      "enemy_7014_dva"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“搭档”",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“搭档”",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_7015_xbcrab2",
+    "images": [
+      "enemy_7015_xbcrab2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“钳钳生风”",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“钳钳生风”",
       "zh-tw": ""
     }
   }
