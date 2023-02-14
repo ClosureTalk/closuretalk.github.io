@@ -572,7 +572,8 @@
     "id": "char_110_deepcl",
     "images": [
       "char_110_deepcl",
-      "char_110_deepcl_2"
+      "char_110_deepcl_2",
+      "char_110_deepcl_winter#3"
     ],
     "names": {
       "en": "Deepcolor",
@@ -1695,7 +1696,8 @@
     "id": "char_185_frncat",
     "images": [
       "char_185_frncat",
-      "char_185_frncat_2"
+      "char_185_frncat_2",
+      "char_185_frncat_wild#7"
     ],
     "names": {
       "en": "Mousse",
@@ -2337,7 +2339,8 @@
     "images": [
       "char_215_mantic",
       "char_215_mantic_2",
-      "char_215_mantic_epoque#4"
+      "char_215_mantic_epoque#4",
+      "char_215_mantic_epoque#19"
     ],
     "names": {
       "en": "Manticore",
@@ -4732,7 +4735,8 @@
     "id": "char_4032_provs",
     "images": [
       "char_4032_provs",
-      "char_4032_provs_2"
+      "char_4032_provs_2",
+      "char_4032_provs_wild#7"
     ],
     "names": {
       "en": "Proviso",
@@ -5010,7 +5014,8 @@
     "id": "char_4055_bgsnow",
     "images": [
       "char_4055_bgsnow",
-      "char_4055_bgsnow_2"
+      "char_4055_bgsnow_2",
+      "char_4055_bgsnow_wild#7"
     ],
     "names": {
       "en": "Pozëmka",
@@ -5279,6 +5284,52 @@
       "en": "Lin",
       "ja": "Lin",
       "zh-cn": "林",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_4082_qiubai",
+    "images": [
+      "char_4082_qiubai",
+      "char_4082_qiubai_2"
+    ],
+    "names": {
+      "en": "Qiubai",
+      "ja": "Qiubai",
+      "zh-cn": "仇白",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Qiubai",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Qiubai",
+      "ja": "Qiubai",
+      "zh-cn": "仇白",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_4083_chimes",
+    "images": [
+      "char_4083_chimes",
+      "char_4083_chimes_2"
+    ],
+    "names": {
+      "en": "Wind Chimes",
+      "ja": "Wind Chimes",
+      "zh-cn": "铎铃",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Wind Chimes",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Wind Chimes",
+      "ja": "Wind Chimes",
+      "zh-cn": "铎铃",
       "zh-tw": ""
     }
   },
@@ -6593,7 +6644,8 @@
   {
     "id": "token_10001_deepcl_tentac",
     "images": [
-      "token_10001_deepcl_tentac"
+      "token_10001_deepcl_tentac",
+      "token_10001_deepcl_tentac_winter#3"
     ],
     "names": {
       "en": "Tentacle",
@@ -7223,7 +7275,8 @@
   {
     "id": "token_10026_bgsnow_subbow",
     "images": [
-      "token_10026_bgsnow_subbow"
+      "token_10026_bgsnow_subbow",
+      "token_10026_bgsnow_subbow_wild#7"
     ],
     "names": {
       "en": "'Typewriter'",
