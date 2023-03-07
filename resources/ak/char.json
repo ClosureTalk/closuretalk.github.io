@@ -422,6 +422,29 @@
     }
   },
   {
+    "id": "char_1029_yato2",
+    "images": [
+      "char_1029_yato2",
+      "char_1029_yato2_2"
+    ],
+    "names": {
+      "en": "Kirin X Yato",
+      "ja": "Kirin X Yato",
+      "zh-cn": "麒麟X夜刀",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Kirin X Yato",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Kirin X Yato",
+      "ja": "Kirin X Yato",
+      "zh-cn": "麒麟X夜刀",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "char_102_texas",
     "images": [
       "char_102_texas",
@@ -447,12 +470,36 @@
     }
   },
   {
+    "id": "char_1030_noirc2",
+    "images": [
+      "char_1030_noirc2",
+      "char_1030_noirc2_2"
+    ],
+    "names": {
+      "en": "Rathalos S Noir Corne",
+      "ja": "Rathalos S Noir Corne",
+      "zh-cn": "火龙S黑角",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Rathalos S Noir Corne",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Rathalos S Noir Corne",
+      "ja": "Rathalos S Noir Corne",
+      "zh-cn": "火龙S黑角",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "char_103_angel",
     "images": [
       "char_103_angel",
       "char_103_angel_2",
       "char_103_angel_wild#1",
-      "char_103_angel_kfc#1"
+      "char_103_angel_kfc#1",
+      "char_103_angel_sale#8"
     ],
     "names": {
       "en": "Exusiai",
@@ -3718,7 +3765,8 @@
     "id": "char_336_folivo",
     "images": [
       "char_336_folivo",
-      "char_336_folivo_2"
+      "char_336_folivo_2",
+      "char_336_folivo_epoque#22"
     ],
     "names": {
       "en": "Scene",
@@ -4054,6 +4102,7 @@
     "images": [
       "char_358_lisa",
       "char_358_lisa_2",
+      "char_358_lisa_epoque#22",
       "char_358_lisa_wild#3",
       "char_358_lisa_lxh#1"
     ],
@@ -4406,7 +4455,8 @@
     "id": "char_388_mint",
     "images": [
       "char_388_mint",
-      "char_388_mint_2"
+      "char_388_mint_2",
+      "char_388_mint_epoque#22"
     ],
     "names": {
       "en": "Mint",
@@ -4759,7 +4809,8 @@
     "id": "char_4036_forcer",
     "images": [
       "char_4036_forcer",
-      "char_4036_forcer_2"
+      "char_4036_forcer_2",
+      "char_4036_forcer_epoque#20"
     ],
     "names": {
       "en": "Enforcer",
@@ -5238,6 +5289,29 @@
       "en": "Stainless",
       "ja": "Stainless",
       "zh-cn": "白铁",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_4077_palico",
+    "images": [
+      "char_4077_palico",
+      "char_4077_palico_mh#1"
+    ],
+    "names": {
+      "en": "Terra Research Commission",
+      "ja": "Terra Research Commission",
+      "zh-cn": "泰拉大陆调查团",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Terra Research Commission",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Terra Research Commission",
+      "ja": "Terra Research Commission",
+      "zh-cn": "泰拉大陆调查团",
       "zh-tw": ""
     }
   },
@@ -6894,7 +6968,8 @@
   {
     "id": "token_10010_folivo_car",
     "images": [
-      "token_10010_folivo_car"
+      "token_10010_folivo_car",
+      "token_10010_folivo_car_epoque#22"
     ],
     "names": {
       "en": "Mobile Buggy Cam",
@@ -8656,6 +8731,94 @@
       "en": "Fragrant Essential Oil",
       "ja": "Fragrant Essential Oil",
       "zh-cn": "芳香精油",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_099_mhflsb",
+    "images": [
+      "trap_099_mhflsb"
+    ],
+    "names": {
+      "en": "Flash Grenade",
+      "ja": "Flash Grenade",
+      "zh-cn": "眩光手雷",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Flash Grenade",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Flash Grenade",
+      "ja": "Flash Grenade",
+      "zh-cn": "眩光手雷",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_100_mhlbmb",
+    "images": [
+      "trap_100_mhlbmb"
+    ],
+    "names": {
+      "en": "Originium Barrel Bomb",
+      "ja": "Originium Barrel Bomb",
+      "zh-cn": "高能源石爆桶",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Originium Barrel Bomb",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Originium Barrel Bomb",
+      "ja": "Originium Barrel Bomb",
+      "zh-cn": "高能源石爆桶",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_101_mhshok",
+    "images": [
+      "trap_101_mhshok"
+    ],
+    "names": {
+      "en": "High-voltage Shock Trap",
+      "ja": "High-voltage Shock Trap",
+      "zh-cn": "高压脉冲诡雷",
+      "zh-tw": ""
+    },
+    "searches": [
+      "High-voltage Shock Trap",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "High-voltage Shock Trap",
+      "ja": "High-voltage Shock Trap",
+      "zh-cn": "高压脉冲诡雷",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_102_mhwrbg",
+    "images": [
+      "trap_102_mhwrbg"
+    ],
+    "names": {
+      "en": "Wiredrone",
+      "ja": "Wiredrone",
+      "zh-cn": "滞空牵引无人机",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Wiredrone",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Wiredrone",
+      "ja": "Wiredrone",
+      "zh-cn": "滞空牵引无人机",
       "zh-tw": ""
     }
   },
@@ -21717,6 +21880,384 @@
     }
   },
   {
+    "id": "enemy_1303_mhshep",
+    "images": [
+      "enemy_1303_mhshep"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "角兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "角兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1303_mhshep_2",
+    "images": [
+      "enemy_1303_mhshep_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "亢角兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "亢角兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1304_mhwolf",
+    "images": [
+      "enemy_1304_mhwolf"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "鬣犄兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "鬣犄兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1304_mhwolf_2",
+    "images": [
+      "enemy_1304_mhwolf_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "利齿鬣犄兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "利齿鬣犄兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1305_mhslim",
+    "images": [
+      "enemy_1305_mhslim"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "灼热源石虫",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "灼热源石虫",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1305_mhslim_2",
+    "images": [
+      "enemy_1305_mhslim_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "炽焰源石虫",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "炽焰源石虫",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1306_mhtrtl",
+    "images": [
+      "enemy_1306_mhtrtl"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "硬甲爪兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "硬甲爪兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1306_mhtrtl_2",
+    "images": [
+      "enemy_1306_mhtrtl_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "刚甲爪兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "刚甲爪兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1307_mhrhcr",
+    "images": [
+      "enemy_1307_mhrhcr"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "岩冠兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "岩冠兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1307_mhrhcr_2",
+    "images": [
+      "enemy_1307_mhrhcr_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "坚岩冠兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "坚岩冠兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1308_mheagl",
+    "images": [
+      "enemy_1308_mheagl"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "锋羽兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "锋羽兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1308_mheagl_2",
+    "images": [
+      "enemy_1308_mheagl_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "迅猛锋羽兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "迅猛锋羽兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1309_mhboar",
+    "images": [
+      "enemy_1309_mhboar"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "凶豕兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "凶豕兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1309_mhboar_2",
+    "images": [
+      "enemy_1309_mhboar_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "狂暴凶豕兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "狂暴凶豕兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1310_mhprpn",
+    "images": [
+      "enemy_1310_mhprpn"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "棘兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "棘兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1310_mhprpn_2",
+    "images": [
+      "enemy_1310_mhprpn_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "箭棘兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "箭棘兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1311_mhkryk",
+    "images": [
+      "enemy_1311_mhkryk"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "狡兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "狡兽",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1311_mhkryk_2",
+    "images": [
+      "enemy_1311_mhkryk_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "恶狡兽",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "恶狡兽",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "enemy_1500_skulsr",
     "images": [
       "enemy_1500_skulsr"
@@ -22469,6 +23010,27 @@
       "en": "",
       "ja": "",
       "zh-cn": "“领袖” ",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1537_mhrors",
+    "images": [
+      "enemy_1537_mhrors"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "火龙",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "火龙",
       "zh-tw": ""
     }
   },
