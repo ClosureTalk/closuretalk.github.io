@@ -383,7 +383,7 @@
     ],
     "names": {
       "en": "Greyy the Lightningbearer",
-      "ja": "Greyy the Lightningbearer",
+      "ja": "承曦グレイ",
       "zh-cn": "承曦格雷伊",
       "zh-tw": ""
     },
@@ -393,7 +393,7 @@
     ],
     "short_names": {
       "en": "Greyy the Lightningbearer",
-      "ja": "Greyy the Lightningbearer",
+      "ja": "承曦グレイ",
       "zh-cn": "承曦格雷伊",
       "zh-tw": ""
     }
@@ -1074,7 +1074,7 @@
     ],
     "names": {
       "en": "Astgenne",
-      "ja": "Astgenne",
+      "ja": "アステジーニ",
       "zh-cn": "星源",
       "zh-tw": ""
     },
@@ -1084,7 +1084,7 @@
     ],
     "short_names": {
       "en": "Astgenne",
-      "ja": "Astgenne",
+      "ja": "アステジーニ",
       "zh-cn": "星源",
       "zh-tw": ""
     }
@@ -3038,6 +3038,7 @@
       "char_274_astesi",
       "char_274_astesi_2",
       "char_274_astesi_shining#1",
+      "char_274_astesi_epoque#23",
       "char_274_astesi_epoque#5"
     ],
     "names": {
@@ -5023,7 +5024,7 @@
     ],
     "names": {
       "en": "Dorothy",
-      "ja": "Dorothy",
+      "ja": "ドロシー",
       "zh-cn": "多萝西",
       "zh-tw": ""
     },
@@ -5033,7 +5034,7 @@
     ],
     "short_names": {
       "en": "Dorothy",
-      "ja": "Dorothy",
+      "ja": "ドロシー",
       "zh-cn": "多萝西",
       "zh-tw": ""
     }
@@ -6675,8 +6676,8 @@
       "char_514_rdfend"
     ],
     "names": {
-      "en": "Reserve (Defender)",
-      "ja": "Reserve (Defender)",
+      "en": "Reserve Operator - Defender",
+      "ja": "予備隊員-重装",
       "zh-cn": "预备干员-重装",
       "zh-tw": ""
     },
@@ -6685,8 +6686,8 @@
       ":#type-char"
     ],
     "short_names": {
-      "en": "Reserve (Defender)",
-      "ja": "Reserve (Defender)",
+      "en": "Reserve Operator - Defender",
+      "ja": "予備隊員-重装",
       "zh-cn": "预备干员-重装",
       "zh-tw": ""
     }
@@ -7332,7 +7333,7 @@
     ],
     "names": {
       "en": "Resonator",
-      "ja": "Resonator",
+      "ja": "共振装置",
       "zh-cn": "共振装置",
       "zh-tw": ""
     },
@@ -7342,7 +7343,7 @@
     ],
     "short_names": {
       "en": "Resonator",
-      "ja": "Resonator",
+      "ja": "共振装置",
       "zh-cn": "共振装置",
       "zh-tw": ""
     }
@@ -8344,8 +8345,8 @@
       "trap_075_bgarmn"
     ],
     "names": {
-      "en": "R-31 powered heavy armor",
-      "ja": "R-31 powered heavy armor",
+      "en": "R-31 Heavy Power Armor",
+      "ja": "R-31大型パワードスーツ",
       "zh-cn": "R-31重型动力装甲",
       "zh-tw": ""
     },
@@ -8354,8 +8355,8 @@
       ":#type-trap"
     ],
     "short_names": {
-      "en": "R-31 powered heavy armor",
-      "ja": "R-31 powered heavy armor",
+      "en": "R-31 Heavy Power Armor",
+      "ja": "R-31大型パワードスーツ",
       "zh-cn": "R-31重型动力装甲",
       "zh-tw": ""
     }
@@ -8366,8 +8367,8 @@
       "trap_076_bgarms"
     ],
     "names": {
-      "en": "R-31a powered heavy armor",
-      "ja": "R-31a powered heavy armor",
+      "en": "R-31a Heavy Power Armor",
+      "ja": "R-31a大型パワードスーツ",
       "zh-cn": "R-31a重型动力装甲",
       "zh-tw": ""
     },
@@ -8376,8 +8377,8 @@
       ":#type-trap"
     ],
     "short_names": {
-      "en": "R-31a powered heavy armor",
-      "ja": "R-31a powered heavy armor",
+      "en": "R-31a Heavy Power Armor",
+      "ja": "R-31a大型パワードスーツ",
       "zh-cn": "R-31a重型动力装甲",
       "zh-tw": ""
     }
@@ -8388,8 +8389,8 @@
       "trap_077_rmtarmn"
     ],
     "names": {
-      "en": "R-11 power armor",
-      "ja": "R-11 power armor",
+      "en": "R-11 Assault Power Armor",
+      "ja": "R-11突撃型パワードスーツ",
       "zh-cn": "R-11突击动力装甲",
       "zh-tw": ""
     },
@@ -8398,8 +8399,8 @@
       ":#type-trap"
     ],
     "short_names": {
-      "en": "R-11 power armor",
-      "ja": "R-11 power armor",
+      "en": "R-11 Assault Power Armor",
+      "ja": "R-11突撃型パワードスーツ",
       "zh-cn": "R-11突击动力装甲",
       "zh-tw": ""
     }
@@ -8410,8 +8411,8 @@
       "trap_078_rmtarms"
     ],
     "names": {
-      "en": "R-11a power armor",
-      "ja": "R-11a power armor",
+      "en": "R-11a Assault Power Armor",
+      "ja": "R-11a突撃型パワードスーツ",
       "zh-cn": "R-11a突击动力装甲",
       "zh-tw": ""
     },
@@ -8420,8 +8421,8 @@
       ":#type-trap"
     ],
     "short_names": {
-      "en": "R-11a power armor",
-      "ja": "R-11a power armor",
+      "en": "R-11a Assault Power Armor",
+      "ja": "R-11a突撃型パワードスーツ",
       "zh-cn": "R-11a突击动力装甲",
       "zh-tw": ""
     }
@@ -19785,8 +19786,8 @@
       "enemy_1249_lysdb"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Rhine Defense Member",
+      "ja": "ライン生命警備課職員",
       "zh-cn": "莱茵生命防卫科成员",
       "zh-tw": ""
     },
@@ -19794,8 +19795,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Rhine Defense Member",
+      "ja": "ライン生命警備課職員",
       "zh-cn": "莱茵生命防卫科成员",
       "zh-tw": ""
     }
@@ -19806,8 +19807,8 @@
       "enemy_1249_lysdb_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Rhine Defense Senior Member",
+      "ja": "ライン生命警備課上級職員",
       "zh-cn": "莱茵生命防卫科高级成员",
       "zh-tw": ""
     },
@@ -19815,8 +19816,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Rhine Defense Senior Member",
+      "ja": "ライン生命警備課上級職員",
       "zh-cn": "莱茵生命防卫科高级成员",
       "zh-tw": ""
     }
@@ -19827,8 +19828,8 @@
       "enemy_1250_lyengs"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Rhine Engineering Member",
+      "ja": "ライン生命エンジニア",
       "zh-cn": "莱茵生命工程科成员",
       "zh-tw": ""
     },
@@ -19836,8 +19837,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Rhine Engineering Member",
+      "ja": "ライン生命エンジニア",
       "zh-cn": "莱茵生命工程科成员",
       "zh-tw": ""
     }
@@ -19848,8 +19849,8 @@
       "enemy_1250_lyengs_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Rhine Engineering Senior Member",
+      "ja": "ライン生命上級エンジニア",
       "zh-cn": "莱茵生命高级工程科成员",
       "zh-tw": ""
     },
@@ -19857,8 +19858,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Rhine Engineering Senior Member",
+      "ja": "ライン生命上級エンジニア",
       "zh-cn": "莱茵生命高级工程科成员",
       "zh-tw": ""
     }
@@ -19869,8 +19870,8 @@
       "enemy_1251_lysyta"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Dor-1 Failure",
+      "ja": "Dor-1号失敗作",
       "zh-cn": "Dor-1号失败品",
       "zh-tw": ""
     },
@@ -19878,8 +19879,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Dor-1 Failure",
+      "ja": "Dor-1号失敗作",
       "zh-cn": "Dor-1号失败品",
       "zh-tw": ""
     }
@@ -19890,8 +19891,8 @@
       "enemy_1251_lysyta_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Dor-α Failure",
+      "ja": "Dor-α号失敗作",
       "zh-cn": "Dor-α号失败品",
       "zh-tw": ""
     },
@@ -19899,8 +19900,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Dor-α Failure",
+      "ja": "Dor-α号失敗作",
       "zh-cn": "Dor-α号失败品",
       "zh-tw": ""
     }
@@ -19911,8 +19912,8 @@
       "enemy_1252_lysytb"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Dor-2 Replica",
+      "ja": "Dor-2号複製体",
       "zh-cn": "Dor-2号复制体",
       "zh-tw": ""
     },
@@ -19920,8 +19921,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Dor-2 Replica",
+      "ja": "Dor-2号複製体",
       "zh-cn": "Dor-2号复制体",
       "zh-tw": ""
     }
@@ -19932,8 +19933,8 @@
       "enemy_1252_lysytb_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Dor-β Replica",
+      "ja": "Dor-β号複製体",
       "zh-cn": "Dor-β号复制体",
       "zh-tw": ""
     },
@@ -19941,8 +19942,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Dor-β Replica",
+      "ja": "Dor-β号複製体",
       "zh-cn": "Dor-β号复制体",
       "zh-tw": ""
     }
@@ -19953,8 +19954,8 @@
       "enemy_1253_lysytc"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Dor-3 Bionic",
+      "ja": "Dor-3号改造体",
       "zh-cn": "Dor-3号改造体",
       "zh-tw": ""
     },
@@ -19962,8 +19963,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Dor-3 Bionic",
+      "ja": "Dor-3号改造体",
       "zh-cn": "Dor-3号改造体",
       "zh-tw": ""
     }
@@ -19974,8 +19975,8 @@
       "enemy_1253_lysytc_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Dor-γ Bionic",
+      "ja": "Dor-γ号改造体",
       "zh-cn": "Dor-γ号改造体",
       "zh-tw": ""
     },
@@ -19983,8 +19984,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Dor-γ Bionic",
+      "ja": "Dor-γ号改造体",
       "zh-cn": "Dor-γ号改造体",
       "zh-tw": ""
     }
@@ -19995,8 +19996,8 @@
       "enemy_1254_lypa"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Experimental Power Armor",
+      "ja": "実験用パワードスーツ",
       "zh-cn": "实验用动力装甲",
       "zh-tw": ""
     },
@@ -20004,8 +20005,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Experimental Power Armor",
+      "ja": "実験用パワードスーツ",
       "zh-cn": "实验用动力装甲",
       "zh-tw": ""
     }
@@ -20016,8 +20017,8 @@
       "enemy_1254_lypa_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Test Power Armor",
+      "ja": "テスト用パワードスーツ",
       "zh-cn": "测试用动力装甲",
       "zh-tw": ""
     },
@@ -20025,8 +20026,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Test Power Armor",
+      "ja": "テスト用パワードスーツ",
       "zh-cn": "测试用动力装甲",
       "zh-tw": ""
     }
@@ -20037,8 +20038,8 @@
       "enemy_1255_lybgpa"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "R-31 Heavy Power Armor",
+      "ja": "R-31大型パワードスーツ",
       "zh-cn": "R-31重型动力装甲",
       "zh-tw": ""
     },
@@ -20046,8 +20047,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "R-31 Heavy Power Armor",
+      "ja": "R-31大型パワードスーツ",
       "zh-cn": "R-31重型动力装甲",
       "zh-tw": ""
     }
@@ -20058,8 +20059,8 @@
       "enemy_1255_lybgpa_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "R-31a Heavy Power Armor",
+      "ja": "R-31a大型パワードスーツ",
       "zh-cn": "R-31a重型动力装甲",
       "zh-tw": ""
     },
@@ -20067,8 +20068,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "R-31a Heavy Power Armor",
+      "ja": "R-31a大型パワードスーツ",
       "zh-cn": "R-31a重型动力装甲",
       "zh-tw": ""
     }
@@ -20079,8 +20080,8 @@
       "enemy_1256_lyacpa"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "R-11 Assault Power Armor",
+      "ja": "R-11突撃型パワードスーツ",
       "zh-cn": "R-11突击动力装甲",
       "zh-tw": ""
     },
@@ -20088,8 +20089,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "R-11 Assault Power Armor",
+      "ja": "R-11突撃型パワードスーツ",
       "zh-cn": "R-11突击动力装甲",
       "zh-tw": ""
     }
@@ -20100,8 +20101,8 @@
       "enemy_1256_lyacpa_2"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "R-11a Assault Power Armor",
+      "ja": "R-11a突撃型パワードスーツ",
       "zh-cn": "R-11a突击动力装甲",
       "zh-tw": ""
     },
@@ -20109,8 +20110,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "R-11a Assault Power Armor",
+      "ja": "R-11a突撃型パワードスーツ",
       "zh-cn": "R-11a突击动力装甲",
       "zh-tw": ""
     }
@@ -20121,8 +20122,8 @@
       "enemy_1257_lydrty"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "Dorothy",
+      "ja": "Dorothy",
       "zh-cn": "多萝西",
       "zh-tw": ""
     },
@@ -20130,8 +20131,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "Dorothy",
+      "ja": "Dorothy",
       "zh-cn": "多萝西",
       "zh-tw": ""
     }
@@ -22914,8 +22915,8 @@
       "enemy_1531_bbrain"
     ],
     "names": {
-      "en": "",
-      "ja": "",
+      "en": "'Awaken'",
+      "ja": "「覚醒」",
       "zh-cn": "“唤醒”",
       "zh-tw": ""
     },
@@ -22923,8 +22924,8 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
+      "en": "'Awaken'",
+      "ja": "「覚醒」",
       "zh-cn": "“唤醒”",
       "zh-tw": ""
     }
@@ -23052,6 +23053,27 @@
       "en": "",
       "ja": "",
       "zh-cn": "“睚”",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1539_reid",
+    "images": [
+      "enemy_1539_reid"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“复仇者”",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“复仇者”",
       "zh-tw": ""
     }
   },
