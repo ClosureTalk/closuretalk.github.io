@@ -1378,6 +1378,29 @@
     }
   },
   {
+    "id": "char_154_morgan",
+    "images": [
+      "char_154_morgan",
+      "char_154_morgan_2"
+    ],
+    "names": {
+      "en": "Morgan",
+      "ja": "Morgan",
+      "zh-cn": "摩根",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Morgan",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Morgan",
+      "ja": "Morgan",
+      "zh-cn": "摩根",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "char_155_tiger",
     "images": [
       "char_155_tiger",
@@ -3412,7 +3435,8 @@
     "id": "char_297_hamoni",
     "images": [
       "char_297_hamoni",
-      "char_297_hamoni_2"
+      "char_297_hamoni_2",
+      "char_297_hamoni_epoque#24"
     ],
     "names": {
       "en": "Harmonie",
@@ -4791,7 +4815,7 @@
     ],
     "names": {
       "en": "Proviso",
-      "ja": "Proviso",
+      "ja": "プロヴァイゾ",
       "zh-cn": "但书",
       "zh-tw": ""
     },
@@ -4801,7 +4825,7 @@
     ],
     "short_names": {
       "en": "Proviso",
-      "ja": "Proviso",
+      "ja": "プロヴァイゾ",
       "zh-cn": "但书",
       "zh-tw": ""
     }
@@ -4834,7 +4858,8 @@
     "id": "char_4039_horn",
     "images": [
       "char_4039_horn",
-      "char_4039_horn_2"
+      "char_4039_horn_2",
+      "char_4039_horn_epoque#24"
     ],
     "names": {
       "en": "Horn",
@@ -4951,7 +4976,8 @@
     "id": "char_4045_heidi",
     "images": [
       "char_4045_heidi",
-      "char_4045_heidi_2"
+      "char_4045_heidi_2",
+      "char_4045_heidi_epoque#24"
     ],
     "names": {
       "en": "Heidi",
@@ -5163,7 +5189,7 @@
     ],
     "names": {
       "en": "Młynar",
-      "ja": "Młynar",
+      "ja": "ムリナール",
       "zh-cn": "玛恩纳",
       "zh-tw": ""
     },
@@ -5173,7 +5199,7 @@
     ],
     "short_names": {
       "en": "Młynar",
-      "ja": "Młynar",
+      "ja": "ムリナール",
       "zh-cn": "玛恩纳",
       "zh-tw": ""
     }
@@ -5232,7 +5258,7 @@
     ],
     "names": {
       "en": "Luo Xiaohei",
-      "ja": "Luo Xiaohei",
+      "ja": "羅小黒",
       "zh-cn": "罗小黑",
       "zh-tw": ""
     },
@@ -5242,7 +5268,7 @@
     ],
     "short_names": {
       "en": "Luo Xiaohei",
-      "ja": "Luo Xiaohei",
+      "ja": "羅小黒",
       "zh-cn": "罗小黑",
       "zh-tw": ""
     }
@@ -5405,6 +5431,51 @@
       "en": "Wind Chimes",
       "ja": "Wind Chimes",
       "zh-cn": "铎铃",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_4087_ines",
+    "images": [
+      "char_4087_ines",
+      "char_4087_ines_2"
+    ],
+    "names": {
+      "en": "Ines",
+      "ja": "Ines",
+      "zh-cn": "伊内丝",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Ines",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Ines",
+      "ja": "Ines",
+      "zh-cn": "伊内丝",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_4091_ulika",
+    "images": [
+      "char_4091_ulika"
+    ],
+    "names": {
+      "en": "U-Official",
+      "ja": "U-Official",
+      "zh-cn": "U-Official",
+      "zh-tw": ""
+    },
+    "searches": [
+      "U-Official",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "U-Official",
+      "ja": "U-Official",
+      "zh-cn": "U-Official",
       "zh-tw": ""
     }
   },
@@ -5950,6 +6021,29 @@
     }
   },
   {
+    "id": "char_464_cement",
+    "images": [
+      "char_464_cement",
+      "char_464_cement_2"
+    ],
+    "names": {
+      "en": "Cement",
+      "ja": "Cement",
+      "zh-cn": "洋灰",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Cement",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Cement",
+      "ja": "Cement",
+      "zh-cn": "洋灰",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "char_466_qanik",
     "images": [
       "char_466_qanik",
@@ -6259,6 +6353,29 @@
       "en": "Corroserum",
       "ja": "コロセラム",
       "zh-cn": "蚀清",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_491_humus",
+    "images": [
+      "char_491_humus",
+      "char_491_humus_2"
+    ],
+    "names": {
+      "en": "Humus",
+      "ja": "Humus",
+      "zh-cn": "休谟斯",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Humus",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Humus",
+      "ja": "Humus",
+      "zh-cn": "休谟斯",
       "zh-tw": ""
     }
   },
@@ -8842,6 +8959,28 @@
       "en": "Modified Phytohormone",
       "ja": "Modified Phytohormone",
       "zh-cn": "改性植物激素",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_116_stdurk",
+    "images": [
+      "trap_116_stdurk"
+    ],
+    "names": {
+      "en": "\"My Past Self\"",
+      "ja": "\"My Past Self\"",
+      "zh-cn": "“过去的我”",
+      "zh-tw": ""
+    },
+    "searches": [
+      "\"My Past Self\"",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "\"My Past Self\"",
+      "ja": "\"My Past Self\"",
+      "zh-cn": "“过去的我”",
       "zh-tw": ""
     }
   },
@@ -22259,6 +22398,447 @@
     }
   },
   {
+    "id": "enemy_1313_wdfmr",
+    "images": [
+      "enemy_1313_wdfmr"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "诺伯特平民",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "诺伯特平民",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1313_wdfmr_2",
+    "images": [
+      "enemy_1313_wdfmr_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "诺伯特暗探",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "诺伯特暗探",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1314_wdnjd",
+    "images": [
+      "enemy_1314_wdnjd"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "寻路密探",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "寻路密探",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1314_wdnjd_2",
+    "images": [
+      "enemy_1314_wdnjd_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "寻路密探长",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "寻路密探长",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1315_wdyjd",
+    "images": [
+      "enemy_1315_wdyjd"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "岗哨密探",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "岗哨密探",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1315_wdyjd_2",
+    "images": [
+      "enemy_1315_wdyjd_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "岗哨密探长",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "岗哨密探长",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1316_wdpjd",
+    "images": [
+      "enemy_1316_wdpjd"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "武装密探",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "武装密探",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1316_wdpjd_2",
+    "images": [
+      "enemy_1316_wdpjd_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "武装密探长",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "武装密探长",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1317_wdexg",
+    "images": [
+      "enemy_1317_wdexg"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹悖谬谍报官",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹悖谬谍报官",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1317_wdexg_2",
+    "images": [
+      "enemy_1317_wdexg_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹悖谬谍报长",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹悖谬谍报长",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1318_wdsmgc",
+    "images": [
+      "enemy_1318_wdsmgc"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹悖谬裂变学徒",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹悖谬裂变学徒",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1318_wdsmgc_2",
+    "images": [
+      "enemy_1318_wdsmgc_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹悖谬裂变术师",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹悖谬裂变术师",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1319_wdfmpm",
+    "images": [
+      "enemy_1319_wdfmpm"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "叛乱煽动者",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "叛乱煽动者",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1319_wdfmpm_2",
+    "images": [
+      "enemy_1319_wdfmpm_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "叛乱鼓动者",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "叛乱鼓动者",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1320_wdrrl",
+    "images": [
+      "enemy_1320_wdrrl"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹悖谬暴虐兵",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹悖谬暴虐兵",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1320_wdrrl_2",
+    "images": [
+      "enemy_1320_wdrrl_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹悖谬暴虐兵长",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "萨卡兹悖谬暴虐兵长",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1321_wdarft",
+    "images": [
+      "enemy_1321_wdarft"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "枯朽萃聚使徒",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "枯朽萃聚使徒",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1321_wdarft_2",
+    "images": [
+      "enemy_1321_wdarft_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "腐败萃聚使徒",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "腐败萃聚使徒",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1322_wdgyht",
+    "images": [
+      "enemy_1322_wdgyht"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“灰礼帽”",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“灰礼帽”",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1322_wdgyht_2",
+    "images": [
+      "enemy_1322_wdgyht_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“见习灰礼帽”",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“见习灰礼帽”",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1323_wdbshd",
+    "images": [
+      "enemy_1323_wdbshd"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "解构畸变体",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "解构畸变体",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "enemy_1500_skulsr",
     "images": [
       "enemy_1500_skulsr"
@@ -23074,6 +23654,69 @@
       "en": "",
       "ja": "",
       "zh-cn": "“复仇者”",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1540_wdncr",
+    "images": [
+      "enemy_1540_wdncr"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "爱布拉娜",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "爱布拉娜",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1541_wdslms",
+    "images": [
+      "enemy_1541_wdslms"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“变形者集群”",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“变形者集群”",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1542_wdslm",
+    "images": [
+      "enemy_1542_wdslm"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“变形者集群”",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "zh-cn": "“变形者集群”",
       "zh-tw": ""
     }
   },
