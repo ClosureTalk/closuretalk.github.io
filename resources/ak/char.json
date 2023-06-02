@@ -4578,7 +4578,8 @@
   {
     "id": "char_4000_jnight",
     "images": [
-      "char_4000_jnight"
+      "char_4000_jnight",
+      "char_4000_jnight_boc#7"
     ],
     "names": {
       "en": "'Justice Knight'",
@@ -5576,6 +5577,28 @@
       "en": "U-Official",
       "ja": "U-Official",
       "zh-cn": "U-Official",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_4093_frston",
+    "images": [
+      "char_4093_frston"
+    ],
+    "names": {
+      "en": "Friston-3",
+      "ja": "Friston-3",
+      "zh-cn": "Friston-3",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Friston-3",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Friston-3",
+      "ja": "Friston-3",
+      "zh-cn": "Friston-3",
       "zh-tw": ""
     }
   },
