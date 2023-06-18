@@ -137,18 +137,6 @@
       false,
       false,
       false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
       false
     ],
     "filter_names": [
@@ -171,34 +159,10 @@
         "zh-tw": "奧利斯小隊"
       },
       {
-        "en": "Athletics Training Club",
-        "ja": "トレーニング部",
-        "zh-cn": "训练部",
-        "zh-tw": "訓練部"
-      },
-      {
-        "en": "Citizen",
-        "ja": "市民",
-        "zh-cn": "市民",
-        "zh-tw": "市民"
-      },
-      {
-        "en": "City Chimpira",
-        "ja": "街のチンピラ",
-        "zh-cn": "街头暴徒",
-        "zh-tw": "街頭暴徒"
-      },
-      {
         "en": "Cleaning & Clearing",
         "ja": "Cleaning & Clearing",
         "zh-cn": "C&C",
         "zh-tw": "C&C"
-      },
-      {
-        "en": "Communio Sanctorum",
-        "ja": "コムニオ・サンクトラム",
-        "zh-cn": "Communio Sanctorum",
-        "zh-tw": "Communio Sanctorum"
       },
       {
         "en": "Community Safety Bureau",
@@ -207,22 +171,10 @@
         "zh-tw": "生活安全局"
       },
       {
-        "en": "Construction Department",
-        "ja": "工務部",
-        "zh-cn": "劳务部",
-        "zh-tw": "勞務部"
-      },
-      {
         "en": "Countermeasures Council",
         "ja": "対策委員会",
         "zh-cn": "对策委员会",
         "zh-tw": "對策委員會"
-      },
-      {
-        "en": "Decagrammaton",
-        "ja": "デカグラマトン",
-        "zh-cn": "十字神",
-        "zh-tw": "十字神"
       },
       {
         "en": "Disciplinary Committee",
@@ -255,16 +207,16 @@
         "zh-tw": "節慶營運管理部"
       },
       {
+        "en": "FOX Platoon",
+        "ja": "FOX小隊",
+        "zh-cn": "FOX小队",
+        "zh-tw": "FOX小隊"
+      },
+      {
         "en": "Game Development Department",
         "ja": "ゲーム開発部",
         "zh-cn": "游戏开发部",
         "zh-tw": "遊戲開發部"
-      },
-      {
-        "en": "Gematria",
-        "ja": "ゲマトリア",
-        "zh-cn": "盖玛特利亚",
-        "zh-tw": "蓋瑪特利亞"
       },
       {
         "en": "Gourmet Research Society",
@@ -279,12 +231,6 @@
         "zh-tw": "頭盔團"
       },
       {
-        "en": "Hyakkiyako Commercial district",
-        "ja": "百鬼夜行商店街",
-        "zh-cn": "百鬼夜行商店街",
-        "zh-tw": "百鬼夜行商店街"
-      },
-      {
         "en": "Inner Discipline Club",
         "ja": "修行部",
         "zh-cn": "修行部",
@@ -295,18 +241,6 @@
         "ja": "正義実現委員会",
         "zh-cn": "实现正义部",
         "zh-tw": "實現正義部"
-      },
-      {
-        "en": "Kaiser PMC",
-        "ja": "カイザーPMC",
-        "zh-cn": "凯萨PMC",
-        "zh-tw": "凱薩PMC"
-      },
-      {
-        "en": "Kaitenger",
-        "ja": "カイテンジャー",
-        "zh-cn": "凯坦泽",
-        "zh-tw": "凱坦澤"
       },
       {
         "en": "Library Committee",
@@ -327,22 +261,22 @@
         "zh-tw": "蒙面泳裝團"
       },
       {
-        "en": "Mimesis",
-        "ja": "ミメシス",
-        "zh-cn": "Mimesis",
-        "zh-tw": "Mimesis"
-      },
-      {
-        "en": "Momo Friends",
-        "ja": "モモフレンズ",
-        "zh-cn": "Momo好友",
-        "zh-tw": "Momo好友"
+        "en": "Future Students?",
+        "ja": "新キャラ？",
+        "zh-cn": "新学生？",
+        "zh-tw": ""
       },
       {
         "en": "Ninjutsu Research Department",
         "ja": "忍術研究部",
         "zh-cn": "忍法研究部",
         "zh-tw": "忍法研究部"
+      },
+      {
+        "en": "NPC",
+        "ja": "NPC",
+        "zh-cn": "NPC",
+        "zh-tw": "NPC"
       },
       {
         "en": "Onsen Development Club",
@@ -373,12 +307,6 @@
         "ja": "便利屋68",
         "zh-cn": "征信社68",
         "zh-tw": "徵信社68"
-      },
-      {
-        "en": "Public Safety Bureau",
-        "ja": "公安局",
-        "zh-cn": "公安局",
-        "zh-tw": "公安局"
       },
       {
         "en": "RABBIT Platoon",
@@ -435,12 +363,6 @@
         "zh-tw": "227特別班"
       },
       {
-        "en": "Sudama Ichiza",
-        "ja": "魑魅一座",
-        "zh-cn": "大街魑魅一座",
-        "zh-tw": "大街魑魅一座"
-      },
-      {
         "en": "Super Phenomenon Task Force",
         "ja": "特異現象特務部",
         "zh-cn": "超现象特务部",
@@ -451,12 +373,6 @@
         "ja": "ティーパーティー",
         "zh-cn": "茶会",
         "zh-tw": "茶會"
-      },
-      {
-        "en": "The Library of Lore",
-        "ja": "The Library of Lore",
-        "zh-cn": "The Library of Lore",
-        "zh-tw": "The Library of Lore"
       },
       {
         "en": "Veritas",
@@ -481,41 +397,31 @@
       "after_school_sweets_club",
       "angel_24",
       "arius_squad",
-      "athletics_training_club",
-      "citizen",
-      "city_chimpira",
       "cleaning_and_clearing",
-      "communio_sanctorum",
       "community_safety_bureau",
-      "construction_department",
       "countermeasures_council",
-      "decagrammaton",
       "disciplinary_committee",
       "eastern_alchemy_society",
       "emergency_medicine_club",
       "engineering_club",
       "festival_operations_department",
+      "fox_platoon",
       "game_development_department",
-      "gematria",
       "gourmet_research_society",
       "helmet_dan",
-      "hyakkiyako_commercial_district",
       "inner_discipline_club",
       "justice_task_force",
-      "kaiser_pmc",
-      "kaitenger",
       "library_committee",
       "makeup_work_club",
       "masked_swimsuit_group",
-      "mimesis",
-      "momo_friends",
+      "new_students",
       "ninjutsu_research_department",
+      "npc",
       "onsen_development_club",
       "pandemonium_society",
       "plum_blossom_garden",
       "prime_student_council",
       "problem_solver_68",
-      "public_safety_bureau",
       "rabbit_platoon",
       "red_winter_secretariat",
       "remedial_knights",
@@ -525,10 +431,8 @@
       "sibaseki_ramen",
       "sisterhood",
       "special_class_no.227",
-      "sudama_ichiza",
       "super_phenomenon_task_force",
       "tea_party",
-      "the_library_of_lore",
       "veritas",
       "vigilante_crew",
       "yin_yang_club"
