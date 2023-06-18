@@ -22,13 +22,13 @@
       {
         "en": "Arius Branch School",
         "ja": "アリウス分校",
-        "zh-cn": "奥利斯分校",
+        "zh-cn": "阿里乌斯分校",
         "zh-tw": "奧利斯分校"
       },
       {
         "en": "Gehenna Academy",
         "ja": "ゲヘナ学園",
-        "zh-cn": "格黑娜学园",
+        "zh-cn": "格赫娜学园",
         "zh-tw": "格黑娜學園"
       },
       {
@@ -133,10 +133,6 @@
       false,
       false,
       false,
-      false,
-      false,
-      false,
-      false,
       false
     ],
     "filter_names": [
@@ -155,7 +151,7 @@
       {
         "en": "Arius Squad",
         "ja": "アリウススクワッド",
-        "zh-cn": "奥利斯小队",
+        "zh-cn": "阿里乌斯小队",
         "zh-tw": "奧利斯小隊"
       },
       {
@@ -179,20 +175,14 @@
       {
         "en": "Disciplinary Committee",
         "ja": "風紀委員会",
-        "zh-cn": "纠察部",
-        "zh-tw": "糾察部"
-      },
-      {
-        "en": "Eastern Alchemy Society",
-        "ja": "錬丹術研究会",
-        "zh-cn": "锻炼屋",
-        "zh-tw": "鍛煉屋"
+        "zh-cn": "风纪委员会",
+        "zh-tw": "風紀委員會"
       },
       {
         "en": "Emergency Medicine Club",
         "ja": "救急医学部",
-        "zh-cn": "救急医学部",
-        "zh-tw": "救急医学部"
+        "zh-cn": "急救医学部",
+        "zh-tw": "急救醫學部"
       },
       {
         "en": "Engineering Club",
@@ -203,7 +193,7 @@
       {
         "en": "Festival Operations Department",
         "ja": "お祭り運営委員会",
-        "zh-cn": "节庆营运管理部",
+        "zh-cn": "节庆运营委员会",
         "zh-tw": "節慶營運管理部"
       },
       {
@@ -225,12 +215,6 @@
         "zh-tw": "美食研究會"
       },
       {
-        "en": "Helmet Dan",
-        "ja": "ヘルメット団",
-        "zh-cn": "头盔团",
-        "zh-tw": "頭盔團"
-      },
-      {
         "en": "Inner Discipline Club",
         "ja": "修行部",
         "zh-cn": "修行部",
@@ -239,19 +223,19 @@
       {
         "en": "Justice Task Force",
         "ja": "正義実現委員会",
-        "zh-cn": "实现正义部",
+        "zh-cn": "正义实现委员会",
         "zh-tw": "實現正義部"
       },
       {
         "en": "Library Committee",
         "ja": "図書委員会",
-        "zh-cn": "图书部",
+        "zh-cn": "图书委员会",
         "zh-tw": "圖書部"
       },
       {
         "en": "Makeup Work Club",
         "ja": "補習授業部",
-        "zh-cn": "补课部",
+        "zh-cn": "补习部",
         "zh-tw": "補課部"
       },
       {
@@ -264,7 +248,7 @@
         "en": "Future Students?",
         "ja": "新キャラ？",
         "zh-cn": "新学生？",
-        "zh-tw": ""
+        "zh-tw": "新學生？"
       },
       {
         "en": "Ninjutsu Research Department",
@@ -286,9 +270,9 @@
       },
       {
         "en": "Pandemonium Society",
-        "ja": "パンデモニウム・ソサエティー",
-        "zh-cn": "万魔殿学会",
-        "zh-tw": "萬魔殿學會"
+        "ja": "万魔殿",
+        "zh-cn": "万魔殿",
+        "zh-tw": "萬魔殿"
       },
       {
         "en": "Plum Blossom Garden",
@@ -299,14 +283,14 @@
       {
         "en": "Prime Student Council",
         "ja": "連邦生徒会",
-        "zh-cn": "总学生会",
-        "zh-tw": "總學生會"
+        "zh-cn": "联邦学生会",
+        "zh-tw": "聯邦學生會"
       },
       {
         "en": "Problem Solver 68",
         "ja": "便利屋68",
-        "zh-cn": "征信社68",
-        "zh-tw": "徵信社68"
+        "zh-cn": "便利屋68",
+        "zh-tw": "便利屋68"
       },
       {
         "en": "RABBIT Platoon",
@@ -323,13 +307,13 @@
       {
         "en": "Remedial Knights",
         "ja": "救護騎士団",
-        "zh-cn": "救援骑士团",
-        "zh-tw": "救援騎士團"
+        "zh-cn": "救护骑士团",
+        "zh-tw": "救護騎士團"
       },
       {
         "en": "School Lunch Club",
         "ja": "給食部",
-        "zh-cn": "供给部",
+        "zh-cn": "供餐部",
         "zh-tw": "供給部"
       },
       {
@@ -337,18 +321,6 @@
         "ja": "セミナー",
         "zh-cn": "研讨会",
         "zh-tw": "研討會"
-      },
-      {
-        "en": "Shittim Chests",
-        "ja": "シッテムの箱",
-        "zh-cn": "希迪姆的箱子",
-        "zh-tw": "希迪姆的箱子"
-      },
-      {
-        "en": "Sibaseki Ramen",
-        "ja": "柴関ラーメン",
-        "zh-cn": "柴关拉面",
-        "zh-tw": "柴關拉麵"
       },
       {
         "en": "Sisterhood",
@@ -377,13 +349,13 @@
       {
         "en": "Veritas",
         "ja": "ヴェリタス",
-        "zh-cn": "贝里塔斯",
+        "zh-cn": "真理部",
         "zh-tw": "貝里塔斯"
       },
       {
         "en": "Vigilante Crew",
         "ja": "トリニティ自警団",
-        "zh-cn": "三一自卫队",
+        "zh-cn": "三一自卫团",
         "zh-tw": "三一自衛隊"
       },
       {
@@ -401,14 +373,12 @@
       "community_safety_bureau",
       "countermeasures_council",
       "disciplinary_committee",
-      "eastern_alchemy_society",
       "emergency_medicine_club",
       "engineering_club",
       "festival_operations_department",
       "fox_platoon",
       "game_development_department",
       "gourmet_research_society",
-      "helmet_dan",
       "inner_discipline_club",
       "justice_task_force",
       "library_committee",
@@ -427,8 +397,6 @@
       "remedial_knights",
       "school_lunch_club",
       "seminar",
-      "shitim's_box",
-      "sibaseki_ramen",
       "sisterhood",
       "special_class_no.227",
       "super_phenomenon_task_force",

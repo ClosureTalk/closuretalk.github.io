@@ -30,7 +30,7 @@
     "names": {
       "en": "Murokasa Akane",
       "ja": "室笠 アカネ",
-      "zh-cn": "室笠 茜",
+      "zh-cn": "室笠 朱音",
       "zh-tw": "室笠 朱音"
     },
     "searches": [
@@ -40,7 +40,7 @@
     "short_names": {
       "en": "Akane",
       "ja": "アカネ",
-      "zh-cn": "茜",
+      "zh-cn": "朱音",
       "zh-tw": "朱音"
     }
   },
@@ -53,7 +53,7 @@
     "names": {
       "en": "Wanibuchi Akari",
       "ja": "鰐渕 アカリ",
-      "zh-cn": "鳄渊 茜里",
+      "zh-cn": "鳄渊 亚伽里",
       "zh-tw": "鰐渕 亞伽里"
     },
     "searches": [
@@ -63,7 +63,7 @@
     "short_names": {
       "en": "Akari",
       "ja": "アカリ",
-      "zh-cn": "茜里",
+      "zh-cn": "亚伽里",
       "zh-tw": "亞伽里"
     }
   },
@@ -75,8 +75,8 @@
     "names": {
       "en": "Kiyosumi Akira",
       "ja": "清澄 アキラ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "清澄 晶",
+      "zh-tw": "清澄 晶"
     },
     "searches": [
       "new_students"
@@ -84,8 +84,8 @@
     "short_names": {
       "en": "Akira",
       "ja": "アキラ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "晶",
+      "zh-tw": "晶"
     }
   },
   {
@@ -143,8 +143,8 @@
     "names": {
       "en": "Amas",
       "ja": "AMAS",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "AMAS",
+      "zh-tw": "AMAS"
     },
     "searches": [
       "npc"
@@ -152,8 +152,8 @@
     "short_names": {
       "en": "Amas",
       "ja": "AMAS",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "AMAS",
+      "zh-tw": "AMAS"
     }
   },
   {
@@ -186,8 +186,8 @@
     "names": {
       "en": "Oki Aoi",
       "ja": "扇喜 アオイ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "扇喜 葵",
+      "zh-tw": "扇喜 葵"
     },
     "searches": [
       "prime_student_council"
@@ -195,8 +195,8 @@
     "short_names": {
       "en": "Aoi",
       "ja": "アオイ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "葵",
+      "zh-tw": "葵"
     }
   },
   {
@@ -207,8 +207,8 @@
     "names": {
       "en": "Arius Student",
       "ja": "アリウスの生徒",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "阿里乌斯学生",
+      "zh-tw": "奥利斯學生"
     },
     "searches": [
       "arius",
@@ -217,8 +217,8 @@
     "short_names": {
       "en": "Arius Student",
       "ja": "アリウスの生徒",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "阿里乌斯学生",
+      "zh-tw": "奥利斯學生"
     }
   },
   {
@@ -229,16 +229,14 @@
     "names": {
       "en": "Arona",
       "ja": "アロナ",
-      "zh-cn": "彩奈",
+      "zh-cn": "阿洛娜",
       "zh-tw": "彩奈"
     },
-    "searches": [
-      "shitim's_box"
-    ],
+    "searches": [],
     "short_names": {
       "en": "Arona",
       "ja": "アロナ",
-      "zh-cn": "彩奈",
+      "zh-cn": "阿洛娜",
       "zh-tw": "彩奈"
     }
   },
@@ -324,8 +322,8 @@
     "names": {
       "en": "Automata",
       "ja": "オートマタ兵士",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "自动机兵",
+      "zh-tw": "自動機兵"
     },
     "searches": [
       "npc"
@@ -333,8 +331,8 @@
     "short_names": {
       "en": "Automata",
       "ja": "オートマタ兵士",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "自动机兵",
+      "zh-tw": "自動機兵"
     }
   },
   {
@@ -372,8 +370,8 @@
     "names": {
       "en": "Iwabitsu Ayumu",
       "ja": "岩櫃 アユム",
-      "zh-cn": "岩柜 步",
-      "zh-tw": "岩櫃 步"
+      "zh-cn": "岩柜 步梦",
+      "zh-tw": "岩櫃 步夢"
     },
     "searches": [
       "prime_student_council"
@@ -381,8 +379,8 @@
     "short_names": {
       "en": "Ayumu",
       "ja": "アユム",
-      "zh-cn": "步",
-      "zh-tw": "步"
+      "zh-cn": "步梦",
+      "zh-tw": "步夢"
     }
   },
   {
@@ -415,19 +413,19 @@
       "NP0074"
     ],
     "names": {
-      "en": "Barubara",
+      "en": "Barbara",
       "ja": "バルバラ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "芭芭拉",
+      "zh-tw": "芭芭拉"
     },
     "searches": [
       "npc"
     ],
     "short_names": {
-      "en": "Barubara",
+      "en": "Barbara",
       "ja": "バルバラ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "芭芭拉",
+      "zh-tw": "芭芭拉"
     }
   },
   {
@@ -438,8 +436,8 @@
     "names": {
       "en": "Beatrice",
       "ja": "ベアトリーチェ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "比阿特丽斯",
+      "zh-tw": "比阿特麗斯"
     },
     "searches": [
       "npc"
@@ -447,8 +445,8 @@
     "short_names": {
       "en": "Beatrice",
       "ja": "ベアトリーチェ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "比阿特丽斯",
+      "zh-tw": "比阿特麗斯"
     }
   },
   {
@@ -459,8 +457,8 @@
     "names": {
       "en": "Binah",
       "ja": "ビナー",
-      "zh-cn": "Binah",
-      "zh-tw": "Binah"
+      "zh-cn": "比纳",
+      "zh-tw": "比納"
     },
     "searches": [
       "npc"
@@ -468,8 +466,8 @@
     "short_names": {
       "en": "Binah",
       "ja": "ビナー",
-      "zh-cn": "Binah",
-      "zh-tw": "Binah"
+      "zh-cn": "比纳",
+      "zh-tw": "比納"
     }
   },
   {
@@ -502,8 +500,8 @@
     "names": {
       "en": "Bunny Girl",
       "ja": "バニーガール",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "兔女郎",
+      "zh-tw": "兔女郎"
     },
     "searches": [
       "npc"
@@ -511,8 +509,8 @@
     "short_names": {
       "en": "Bunny Girl",
       "ja": "バニーガール",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "兔女郎",
+      "zh-tw": "兔女郎"
     }
   },
   {
@@ -546,8 +544,8 @@
     "names": {
       "en": "Chesed",
       "ja": "ケセド",
-      "zh-cn": "Chesed",
-      "zh-tw": "Chesed"
+      "zh-cn": "凯塞德",
+      "zh-tw": "凱塞德"
     },
     "searches": [
       "npc"
@@ -555,8 +553,8 @@
     "short_names": {
       "en": "Chesed",
       "ja": "ケセド",
-      "zh-cn": "Chesed",
-      "zh-tw": "Chesed"
+      "zh-cn": "凯塞德",
+      "zh-tw": "凱塞德"
     }
   },
   {
@@ -658,19 +656,19 @@
       "NP0031"
     ],
     "names": {
-      "en": "Dekaruto",
+      "en": "Descartes",
       "ja": "デカルト",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "笛卡尔",
+      "zh-tw": "笛卡爾"
     },
     "searches": [
       "npc"
     ],
     "short_names": {
-      "en": "Dekaruto",
+      "en": "Descartes",
       "ja": "デカルト",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "笛卡尔",
+      "zh-tw": "笛卡爾"
     }
   },
   {
@@ -701,19 +699,19 @@
       "NP0018"
     ],
     "names": {
-      "en": "Drum Container",
+      "en": "Steel Drum",
       "ja": "ドラム缶",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "油桶",
+      "zh-tw": "油桶"
     },
     "searches": [
       "npc"
     ],
     "short_names": {
-      "en": "Drum Container",
+      "en": "Steel Drum",
       "ja": "ドラム缶",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "油桶",
+      "zh-tw": "油桶"
     }
   },
   {
@@ -768,8 +766,8 @@
     "names": {
       "en": "Emergency Medicine Student",
       "ja": "救急医学部の部員",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "急救医学部员",
+      "zh-tw": "急救醫學部員"
     },
     "searches": [
       "emergency_medicine_club"
@@ -777,8 +775,8 @@
     "short_names": {
       "en": "Emergency Medicine Student",
       "ja": "救急医学部の部員",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "急救医学部员",
+      "zh-tw": "急救醫學部員"
     }
   },
   {
@@ -830,19 +828,19 @@
       "NP0115_1"
     ],
     "names": {
-      "en": "Furanshisu",
+      "en": "Frances",
       "ja": "フランシス",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "弗朗西丝",
+      "zh-tw": "弗朗西絲"
     },
     "searches": [
       "npc"
     ],
     "short_names": {
-      "en": "Furanshisu",
+      "en": "Frances",
       "ja": "フランシス",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "弗朗西丝",
+      "zh-tw": "弗朗西絲"
     }
   },
   {
@@ -854,7 +852,7 @@
     "names": {
       "en": "Aikiyo Fuuka",
       "ja": "愛清 フウカ",
-      "zh-cn": "爱清 风香",
+      "zh-cn": "爱清 枫香",
       "zh-tw": "愛清 風華"
     },
     "searches": [
@@ -864,7 +862,7 @@
     "short_names": {
       "en": "Fuuka",
       "ja": "フウカ",
-      "zh-cn": "风香",
+      "zh-cn": "枫香",
       "zh-tw": "風華"
     }
   },
@@ -876,8 +874,8 @@
     "names": {
       "en": "Gehenna Student",
       "ja": "ゲヘナの生徒",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "格赫娜学生",
+      "zh-tw": "格黑娜學生"
     },
     "searches": [
       "gehenna",
@@ -886,8 +884,8 @@
     "short_names": {
       "en": "Gehenna Student",
       "ja": "ゲヘナの生徒",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "格赫娜学生",
+      "zh-tw": "格黑娜學生"
     }
   },
   {
@@ -898,8 +896,8 @@
     "names": {
       "en": "Genbustore Member",
       "ja": "玄武商会のメンバー",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "玄武商会成员",
+      "zh-tw": "玄武商會成員"
     },
     "searches": [
       "npc"
@@ -907,8 +905,8 @@
     "short_names": {
       "en": "Genbustore Member",
       "ja": "玄武商会のメンバー",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "玄武商会成员",
+      "zh-tw": "玄武商會成員"
     }
   },
   {
@@ -919,8 +917,8 @@
     "names": {
       "en": "Genryuumon Student",
       "ja": "玄龍門の生徒",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "玄龙门学生",
+      "zh-tw": "玄龍門学生"
     },
     "searches": [
       "npc"
@@ -928,8 +926,8 @@
     "short_names": {
       "en": "Genryuumon Student",
       "ja": "玄龍門の生徒",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "玄龙门学生",
+      "zh-tw": "玄龍門学生"
     }
   },
   {
@@ -1120,15 +1118,15 @@
     "names": {
       "en": "Hatsune Miku",
       "ja": "初音ミク",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "初音未来",
+      "zh-tw": "初音未来"
     },
     "searches": [],
     "short_names": {
       "en": "Hatsune Miku",
       "ja": "初音ミク",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "初音未来",
+      "zh-tw": "初音未来"
     }
   },
   {
@@ -1143,9 +1141,7 @@
       "zh-cn": "头盔团",
       "zh-tw": "頭盔團"
     },
-    "searches": [
-      "helmet_dan"
-    ],
+    "searches": [],
     "short_names": {
       "en": "Helmet Dan",
       "ja": "ヘルメット団",
@@ -1231,8 +1227,8 @@
     "names": {
       "en": "Akeboshi Himari",
       "ja": "明星 ヒマリ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "明星 日鞠",
+      "zh-tw": "明星 陽葵"
     },
     "searches": [
       "millennium",
@@ -1242,8 +1238,8 @@
     "short_names": {
       "en": "Himari",
       "ja": "ヒマリ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "日鞠",
+      "zh-tw": "陽葵"
     }
   },
   {
@@ -1323,8 +1319,8 @@
     "names": {
       "en": "Hod",
       "ja": "ホド",
-      "zh-cn": "Hod",
-      "zh-tw": "Hod"
+      "zh-cn": "霍德",
+      "zh-tw": "霍德"
     },
     "searches": [
       "npc"
@@ -1332,8 +1328,8 @@
     "short_names": {
       "en": "Hod",
       "ja": "ホド",
-      "zh-cn": "Hod",
-      "zh-tw": "Hod"
+      "zh-cn": "霍德",
+      "zh-tw": "霍德"
     }
   },
   {
@@ -1370,8 +1366,8 @@
     "names": {
       "en": "Ibuki",
       "ja": "イブキ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "伊吹",
+      "zh-tw": "伊吹"
     },
     "searches": [
       "gehenna",
@@ -1380,8 +1376,8 @@
     "short_names": {
       "en": "Ibuki",
       "ja": "イブキ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "伊吹",
+      "zh-tw": "伊吹"
     }
   },
   {
@@ -1504,19 +1500,19 @@
       "NP0104"
     ],
     "names": {
-      "en": "Jeneraru",
+      "en": "General",
       "ja": "ジェネラル",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "上将",
+      "zh-tw": "上將"
     },
     "searches": [
       "npc"
     ],
     "short_names": {
-      "en": "Jeneraru",
+      "en": "General",
       "ja": "ジェネラル",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "上将",
+      "zh-tw": "上將"
     }
   },
   {
@@ -1572,7 +1568,7 @@
     "names": {
       "en": "Justice Task Force Member",
       "ja": "正義実現委員会部員",
-      "zh-cn": "实现正义部成员",
+      "zh-cn": "正义实现委员会成员",
       "zh-tw": "實現正義部成員"
     },
     "searches": [
@@ -1582,7 +1578,7 @@
     "short_names": {
       "en": "Justice Task Force Member",
       "ja": "正義実現委員会部員",
-      "zh-cn": "实现正义部成员",
+      "zh-cn": "正义实现委员会成员",
       "zh-tw": "實現正義部成員"
     }
   },
@@ -1638,8 +1634,8 @@
     "names": {
       "en": "Shintani Kai",
       "ja": "申谷 カイ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "申谷 海",
+      "zh-tw": "申谷 海"
     },
     "searches": [
       "new_students"
@@ -1647,8 +1643,8 @@
     "short_names": {
       "en": "Kai",
       "ja": "カイ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "海",
+      "zh-tw": "海"
     }
   },
   {
@@ -1727,7 +1723,7 @@
     "names": {
       "en": "Ogata Kanna",
       "ja": "尾刃 カンナ",
-      "zh-cn": "尾刃 神奈",
+      "zh-cn": "尾刃 叶渚",
       "zh-tw": "尾刃 神奈"
     },
     "searches": [
@@ -1736,7 +1732,7 @@
     "short_names": {
       "en": "Kanna",
       "ja": "カンナ",
-      "zh-cn": "神奈",
+      "zh-cn": "叶渚",
       "zh-tw": "神奈"
     }
   },
@@ -1794,8 +1790,8 @@
     "names": {
       "en": "Shiranui Kaya",
       "ja": "不知火 カヤ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "不知火 花耶",
+      "zh-tw": "不知火 香耶"
     },
     "searches": [
       "prime_student_council"
@@ -1803,8 +1799,8 @@
     "short_names": {
       "en": "Kaya",
       "ja": "カヤ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "花耶",
+      "zh-tw": "香耶"
     }
   },
   {
@@ -1839,8 +1835,8 @@
     "names": {
       "en": "Kyouyama Kazusa",
       "ja": "杏山 カズサ",
-      "zh-cn": "Kyouyama Kazusa",
-      "zh-tw": "Kyouyama Kazusa"
+      "zh-cn": "杏山 和纱",
+      "zh-tw": "杏山 千紗"
     },
     "searches": [
       "after_school_sweets_club",
@@ -1849,8 +1845,8 @@
     "short_names": {
       "en": "Kazusa",
       "ja": "カズサ",
-      "zh-cn": "Kazusa",
-      "zh-tw": "Kazusa"
+      "zh-cn": "和纱",
+      "zh-tw": "千紗"
     }
   },
   {
@@ -1902,10 +1898,10 @@
       "CH0139"
     ],
     "names": {
-      "en": "Kisaki",
-      "ja": "キサキ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "en": "Ryuuge Kisaki",
+      "ja": "竜華 キサキ",
+      "zh-cn": "龙华 妃咲",
+      "zh-tw": "龍華 妃咲"
     },
     "searches": [
       "shanhaijing"
@@ -1913,8 +1909,8 @@
     "short_names": {
       "en": "Kisaki",
       "ja": "キサキ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "妃咲",
+      "zh-tw": "妃咲"
     }
   },
   {
@@ -1947,8 +1943,8 @@
     "names": {
       "en": "Sunohara Kokona",
       "ja": "春原 ココナ",
-      "zh-cn": "春原 Kokona",
-      "zh-tw": "春原 Kokona"
+      "zh-cn": "春原 心奈",
+      "zh-tw": "春原 心菜"
     },
     "searches": [
       "plum_blossom_garden",
@@ -1957,8 +1953,8 @@
     "short_names": {
       "en": "Kokona",
       "ja": "ココナ",
-      "zh-cn": "Kokona",
-      "zh-tw": "Kokona"
+      "zh-cn": "心奈",
+      "zh-tw": "心菜"
     }
   },
   {
@@ -2015,8 +2011,8 @@
     "names": {
       "en": "Kurosaki Koyuki",
       "ja": "黒崎 コユキ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "黑崎 小雪",
+      "zh-tw": "黑崎 小雪"
     },
     "searches": [
       "millennium",
@@ -2025,8 +2021,8 @@
     "short_names": {
       "en": "Koyuki",
       "ja": "コユキ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "小雪",
+      "zh-tw": "小雪"
     }
   },
   {
@@ -2058,8 +2054,8 @@
     "names": {
       "en": "Kurumi",
       "ja": "クルミ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "胡桃",
+      "zh-tw": "胡桃"
     },
     "searches": [
       "fox_platoon",
@@ -2068,8 +2064,8 @@
     "short_names": {
       "en": "Kurumi",
       "ja": "クルミ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "胡桃",
+      "zh-tw": "胡桃"
     }
   },
   {
@@ -2166,8 +2162,8 @@
     "names": {
       "en": "Hanuma Makoto",
       "ja": "羽沼 マコト",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "羽沼 真琴",
+      "zh-tw": "羽沼 真琴"
     },
     "searches": [
       "gehenna",
@@ -2176,8 +2172,8 @@
     "short_names": {
       "en": "Makoto",
       "ja": "マコト",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "真琴",
+      "zh-tw": "真琴"
     }
   },
   {
@@ -2279,8 +2275,8 @@
     "names": {
       "en": "Himeki Meru",
       "ja": "姫木 メル",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "姬木 爱瑠",
+      "zh-tw": "姬木 愛瑠"
     },
     "searches": [
       "red_winter"
@@ -2288,8 +2284,8 @@
     "short_names": {
       "en": "Meru",
       "ja": "メル",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "爱瑠",
+      "zh-tw": "愛瑠"
     }
   },
   {
@@ -2348,7 +2344,7 @@
     "names": {
       "en": "Misono Mika",
       "ja": "聖園 ミカ",
-      "zh-cn": "圣园 弥香",
+      "zh-cn": "圣园 未花",
       "zh-tw": "聖園 彌香"
     },
     "searches": [
@@ -2358,7 +2354,7 @@
     "short_names": {
       "en": "Mika",
       "ja": "ミカ",
-      "zh-cn": "弥香",
+      "zh-cn": "未花",
       "zh-tw": "彌香"
     }
   },
@@ -2371,8 +2367,8 @@
     "names": {
       "en": "Millennium Student",
       "ja": "ミレニアムの生徒",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "千年学生",
+      "zh-tw": "千年學生"
     },
     "searches": [
       "millennium",
@@ -2381,8 +2377,8 @@
     "short_names": {
       "en": "Millennium Student",
       "ja": "ミレニアムの生徒",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "千年学生",
+      "zh-tw": "千年學生"
     }
   },
   {
@@ -2416,8 +2412,8 @@
     "names": {
       "en": "Konoe Mina",
       "ja": "近衛 ミナ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "近卫 弥奈",
+      "zh-tw": "近衛 彌奈"
     },
     "searches": [
       "shanhaijing"
@@ -2425,8 +2421,8 @@
     "short_names": {
       "en": "Mina",
       "ja": "ミナ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "弥奈",
+      "zh-tw": "彌奈"
     }
   },
   {
@@ -2437,8 +2433,8 @@
     "names": {
       "en": "Aomori Mine",
       "ja": "蒼森 ミネ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "苍森 美弥",
+      "zh-tw": "蒼森 美彌"
     },
     "searches": [
       "remedial_knights",
@@ -2447,8 +2443,8 @@
     "short_names": {
       "en": "Mine",
       "ja": "ミネ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "美弥",
+      "zh-tw": "美彌"
     }
   },
   {
@@ -2460,7 +2456,7 @@
     "names": {
       "en": "Yasumori Minori",
       "ja": "安守 ミノリ",
-      "zh-cn": "安守 实里",
+      "zh-cn": "安守 实梨",
       "zh-tw": "安守 實里"
     },
     "searches": [
@@ -2469,7 +2465,7 @@
     "short_names": {
       "en": "Minori",
       "ja": "ミノリ",
-      "zh-cn": "实里",
+      "zh-cn": "实梨",
       "zh-tw": "實里"
     }
   },
@@ -2504,7 +2500,7 @@
       "en": "Tsukiyuki Miyako",
       "ja": "月雪 ミヤコ",
       "zh-cn": "月雪 宫子",
-      "zh-tw": "月雪 宫子"
+      "zh-tw": "月雪 都子"
     },
     "searches": [
       "rabbit_platoon",
@@ -2514,7 +2510,7 @@
       "en": "Miyako",
       "ja": "ミヤコ",
       "zh-cn": "宫子",
-      "zh-tw": "宫子"
+      "zh-tw": "都子"
     }
   },
   {
@@ -2526,7 +2522,7 @@
       "en": "Kasumizawa Miyu",
       "ja": "霞沢 ミユ",
       "zh-cn": "霞沢 美游",
-      "zh-tw": "霞澤 美遊"
+      "zh-tw": "霞澤 美優"
     },
     "searches": [
       "rabbit_platoon",
@@ -2536,7 +2532,7 @@
       "en": "Miyu",
       "ja": "ミユ",
       "zh-cn": "美游",
-      "zh-tw": "美遊"
+      "zh-tw": "美優"
     }
   },
   {
@@ -2548,7 +2544,7 @@
       "en": "Kazekura Moe",
       "ja": "風倉 モエ",
       "zh-cn": "风仓 萌绘",
-      "zh-tw": "風倉 萌繪"
+      "zh-tw": "風倉 萌"
     },
     "searches": [
       "rabbit_platoon",
@@ -2558,7 +2554,7 @@
       "en": "Moe",
       "ja": "モエ",
       "zh-cn": "萌绘",
-      "zh-tw": "萌繪"
+      "zh-tw": "萌"
     }
   },
   {
@@ -2569,8 +2565,8 @@
     "names": {
       "en": "Akiizumi Momiji",
       "ja": "秋泉 モミジ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "秋泉 红叶",
+      "zh-tw": "秋泉 紅葉"
     },
     "searches": [
       "red_winter"
@@ -2578,8 +2574,8 @@
     "short_names": {
       "en": "Momiji",
       "ja": "モミジ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "红叶",
+      "zh-tw": "紅葉"
     }
   },
   {
@@ -2591,7 +2587,7 @@
     "names": {
       "en": "Saiba Momoi",
       "ja": "才羽 モモイ",
-      "zh-cn": "才羽 桃衣",
+      "zh-cn": "才羽 桃井",
       "zh-tw": "才羽 桃井"
     },
     "searches": [
@@ -2601,7 +2597,7 @@
     "short_names": {
       "en": "Momoi",
       "ja": "モモイ",
-      "zh-cn": "桃衣",
+      "zh-cn": "桃井",
       "zh-tw": "桃井"
     }
   },
@@ -2700,8 +2696,8 @@
     "names": {
       "en": "Nameless Guardian",
       "ja": "無名の守護者",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "无名守护者",
+      "zh-tw": "無名守護者"
     },
     "searches": [
       "npc"
@@ -2709,8 +2705,8 @@
     "short_names": {
       "en": "Nameless Guardian",
       "ja": "無名の守護者",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "无名守护者",
+      "zh-tw": "無名守護者"
     }
   },
   {
@@ -2766,8 +2762,8 @@
     "names": {
       "en": "Niko",
       "ja": "ニコ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "妮可",
+      "zh-tw": "妮可"
     },
     "searches": [
       "fox_platoon",
@@ -2776,8 +2772,8 @@
     "short_names": {
       "en": "Niko",
       "ja": "ニコ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "妮可",
+      "zh-tw": "妮可"
     }
   },
   {
@@ -2789,7 +2785,7 @@
       "en": "Amachi Niya",
       "ja": "天地 ニヤ",
       "zh-cn": "天地 妮娅",
-      "zh-tw": "天地 妮婭"
+      "zh-tw": "天地 仁耶"
     },
     "searches": [
       "hyakkiyako",
@@ -2799,7 +2795,7 @@
       "en": "Niya",
       "ja": "ニヤ",
       "zh-cn": "妮娅",
-      "zh-tw": "妮婭"
+      "zh-tw": "仁耶"
     }
   },
   {
@@ -2810,8 +2806,8 @@
     "names": {
       "en": "Ushio Noa",
       "ja": "生塩 ノア",
-      "zh-cn": "Ushio Noa",
-      "zh-tw": "Ushio Noa"
+      "zh-cn": "生盐 诺亚",
+      "zh-tw": "生鹽 乃愛"
     },
     "searches": [
       "millennium",
@@ -2820,8 +2816,8 @@
     "short_names": {
       "en": "Noa",
       "ja": "ノア",
-      "zh-cn": "Noa",
-      "zh-tw": "Noa"
+      "zh-cn": "诺亚",
+      "zh-tw": "乃愛"
     }
   },
   {
@@ -2883,8 +2879,8 @@
     "names": {
       "en": "Child",
       "ja": "子供",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "小孩子",
+      "zh-tw": "小孩子"
     },
     "searches": [
       "npc"
@@ -2892,8 +2888,8 @@
     "short_names": {
       "en": "Child",
       "ja": "子供",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "小孩子",
+      "zh-tw": "小孩子"
     }
   },
   {
@@ -2905,8 +2901,8 @@
     "names": {
       "en": "Kaiser",
       "ja": "カイザーの特殊部隊員",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "凯撒特殊部队",
+      "zh-tw": "凱撒特殊部隊"
     },
     "searches": [
       "npc"
@@ -2914,8 +2910,8 @@
     "short_names": {
       "en": "Kaiser",
       "ja": "カイザーの特殊部隊員",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "凯撒特殊部队",
+      "zh-tw": "凱撒特殊部隊"
     }
   },
   {
@@ -2926,8 +2922,8 @@
     "names": {
       "en": "Priest",
       "ja": "無名の司祭",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "无名牧师",
+      "zh-tw": "無名牧師"
     },
     "searches": [
       "npc"
@@ -2935,8 +2931,8 @@
     "short_names": {
       "en": "Priest",
       "ja": "無名の司祭",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "无名牧师",
+      "zh-tw": "無名牧師"
     }
   },
   {
@@ -2990,8 +2986,8 @@
     "names": {
       "en": "Onsendev Student",
       "ja": "温泉部の部員",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "温泉开发部员",
+      "zh-tw": "溫泉開發部員"
     },
     "searches": [
       "onsen_development_club"
@@ -2999,8 +2995,8 @@
     "short_names": {
       "en": "Onsendev Student",
       "ja": "温泉部の部員",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "温泉开发部员",
+      "zh-tw": "溫泉開發部員"
     }
   },
   {
@@ -3011,8 +3007,8 @@
     "names": {
       "en": "Otogi",
       "ja": "オトギ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "音葵",
+      "zh-tw": "音葵"
     },
     "searches": [
       "fox_platoon",
@@ -3021,8 +3017,8 @@
     "short_names": {
       "en": "Otogi",
       "ja": "オトギ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "音葵",
+      "zh-tw": "音葵"
     }
   },
   {
@@ -3033,8 +3029,8 @@
     "names": {
       "en": "Pandemonium Student",
       "ja": "万魔殿のメンバー",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "万魔殿成员",
+      "zh-tw": "萬魔殿成員"
     },
     "searches": [
       "gehenna",
@@ -3044,8 +3040,8 @@
     "short_names": {
       "en": "Pandemonium Student",
       "ja": "万魔殿のメンバー",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "万魔殿成员",
+      "zh-tw": "萬魔殿成員"
     }
   },
   {
@@ -3098,8 +3094,8 @@
     "names": {
       "en": "Phrenapates",
       "ja": "プレナパテス",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "Phrenapates",
+      "zh-tw": "Phrenapates"
     },
     "searches": [
       "npc"
@@ -3107,8 +3103,8 @@
     "short_names": {
       "en": "Phrenapates",
       "ja": "プレナパテス",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "Phrenapates",
+      "zh-tw": "Phrenapates"
     }
   },
   {
@@ -3141,17 +3137,15 @@
     "names": {
       "en": "Purana",
       "ja": "プラナ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "普拉娜",
+      "zh-tw": "普拉娜"
     },
-    "searches": [
-      "shitim's_box"
-    ],
+    "searches": [],
     "short_names": {
       "en": "Purana",
       "ja": "プラナ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "普拉娜",
+      "zh-tw": "普拉娜"
     }
   },
   {
@@ -3160,19 +3154,19 @@
       "NP0096"
     ],
     "names": {
-      "en": "Purejidento",
+      "en": "President",
       "ja": "プレジデント",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "主席",
+      "zh-tw": "主席"
     },
     "searches": [
       "npc"
     ],
     "short_names": {
-      "en": "Purejidento",
+      "en": "President",
       "ja": "プレジデント",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "主席",
+      "zh-tw": "主席"
     }
   },
   {
@@ -3183,17 +3177,15 @@
     "names": {
       "en": "Komakaze Rabu",
       "ja": "河駒風 ラブ",
-      "zh-cn": "Komakaze Rabu",
-      "zh-tw": "Komakaze Rabu"
+      "zh-cn": "",
+      "zh-tw": ""
     },
-    "searches": [
-      "helmet_dan"
-    ],
+    "searches": [],
     "short_names": {
       "en": "Rabu",
       "ja": "ラブ",
-      "zh-cn": "Rabu",
-      "zh-tw": "Rabu"
+      "zh-cn": "",
+      "zh-tw": ""
     }
   },
   {
@@ -3204,8 +3196,8 @@
     "names": {
       "en": "Kayama Reijo",
       "ja": "鹿山 レイジョ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "鹿山 丽情",
+      "zh-tw": "鹿山 麗情"
     },
     "searches": [
       "shanhaijing"
@@ -3213,8 +3205,8 @@
     "short_names": {
       "en": "Reijo",
       "ja": "レイジョ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "丽情",
+      "zh-tw": "麗情"
     }
   },
   {
@@ -3225,8 +3217,8 @@
     "names": {
       "en": "Uzawa Reisa",
       "ja": "宇沢 レイサ",
-      "zh-cn": "Uzawa Reisa",
-      "zh-tw": "Uzawa Reisa"
+      "zh-cn": "宇泽 玲纱",
+      "zh-tw": "宇澤 澪紗"
     },
     "searches": [
       "trinity",
@@ -3235,8 +3227,8 @@
     "short_names": {
       "en": "Reisa",
       "ja": "レイサ",
-      "zh-cn": "Reisa",
-      "zh-tw": "Reisa"
+      "zh-cn": "玲纱",
+      "zh-tw": "澪紗"
     }
   },
   {
@@ -3247,7 +3239,7 @@
     "names": {
       "en": "Nanagami Rin",
       "ja": "七神 リン",
-      "zh-cn": "七神 琳",
+      "zh-cn": "七神 凛",
       "zh-tw": "七神 琳"
     },
     "searches": [
@@ -3256,7 +3248,7 @@
     "short_names": {
       "en": "Rin",
       "ja": "リン",
-      "zh-cn": "琳",
+      "zh-cn": "凛",
       "zh-tw": "琳"
     }
   },
@@ -3269,8 +3261,8 @@
     "names": {
       "en": "Tsukatsuki Rio",
       "ja": "調月 リオ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "调月 莉音",
+      "zh-tw": "調月 莉央"
     },
     "searches": [
       "millennium",
@@ -3279,8 +3271,8 @@
     "short_names": {
       "en": "Rio",
       "ja": "リオ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "莉音",
+      "zh-tw": "莉央"
     }
   },
   {
@@ -3291,8 +3283,8 @@
     "names": {
       "en": "Royalguard Student",
       "ja": "親衛隊",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "亲卫队",
+      "zh-tw": "親衛隊"
     },
     "searches": [
       "npc",
@@ -3301,8 +3293,8 @@
     "short_names": {
       "en": "Royalguard Student",
       "ja": "親衛隊",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "亲卫队",
+      "zh-tw": "親衛隊"
     }
   },
   {
@@ -3313,8 +3305,8 @@
     "names": {
       "en": "Akeshiro Rumi",
       "ja": "朱城 ルミ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "朱城 瑠美",
+      "zh-tw": "朱城 瑠美"
     },
     "searches": [
       "shanhaijing"
@@ -3322,8 +3314,8 @@
     "short_names": {
       "en": "Rumi",
       "ja": "ルミ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "瑠美",
+      "zh-tw": "瑠美"
     }
   },
   {
@@ -3335,7 +3327,7 @@
       "en": "Sorai Saki",
       "ja": "空井 サキ",
       "zh-cn": "空井 咲",
-      "zh-tw": "空井 咲"
+      "zh-tw": "空井 咲希"
     },
     "searches": [
       "rabbit_platoon",
@@ -3345,7 +3337,7 @@
       "en": "Saki",
       "ja": "サキ",
       "zh-cn": "咲",
-      "zh-tw": "咲"
+      "zh-tw": "咲希"
     }
   },
   {
@@ -3357,8 +3349,8 @@
     "names": {
       "en": "Utazumi Sakurako",
       "ja": "歌住 サクラコ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "歌住 樱子",
+      "zh-tw": "歌住 櫻子"
     },
     "searches": [
       "sisterhood",
@@ -3367,8 +3359,8 @@
     "short_names": {
       "en": "Sakurako",
       "ja": "サクラコ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "樱子",
+      "zh-tw": "櫻子"
     }
   },
   {
@@ -3429,7 +3421,6 @@
       "zh-tw": "薬子 沙耶"
     },
     "searches": [
-      "eastern_alchemy_society",
       "shanhaijing"
     ],
     "short_names": {
@@ -3502,8 +3493,7 @@
     "searches": [
       "abydos",
       "countermeasures_council",
-      "masked_swimsuit_group",
-      "sibaseki_ramen"
+      "masked_swimsuit_group"
     ],
     "short_names": {
       "en": "Serika",
@@ -3547,9 +3537,7 @@
       "zh-cn": "柴大将",
       "zh-tw": "柴大将"
     },
-    "searches": [
-      "sibaseki_ramen"
-    ],
+    "searches": [],
     "short_names": {
       "en": "Shibaseki Master",
       "ja": "柴大将",
@@ -3589,7 +3577,7 @@
       "en": "Endou Shimiko",
       "ja": "円堂 シミコ",
       "zh-cn": "圆堂 志美子",
-      "zh-tw": "円堂 志美子"
+      "zh-tw": "圓堂 志美子"
     },
     "searches": [
       "library_committee",
@@ -3771,19 +3759,19 @@
       "Nobody"
     ],
     "names": {
-      "en": "Special Error",
-      "ja": "エラー",
-      "zh-cn": "",
-      "zh-tw": ""
+      "en": "????",
+      "ja": "？？？？",
+      "zh-cn": "？？？？",
+      "zh-tw": "？？？？"
     },
     "searches": [
       "npc"
     ],
     "short_names": {
-      "en": "Special Error",
-      "ja": "エラー",
-      "zh-cn": "",
-      "zh-tw": ""
+      "en": "????",
+      "ja": "？？？？",
+      "zh-cn": "？？？？",
+      "zh-tw": "？？？？"
     }
   },
   {
@@ -3794,8 +3782,8 @@
     "names": {
       "en": "Student Council President",
       "ja": "連邦生徒会長",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "联邦学生会长",
+      "zh-tw": "聯邦學生會長"
     },
     "searches": [
       "prime_student_council"
@@ -3803,8 +3791,8 @@
     "short_names": {
       "en": "Student Council President",
       "ja": "連邦生徒会長",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "联邦学生会长",
+      "zh-tw": "聯邦學生會長"
     }
   },
   {
@@ -3816,8 +3804,8 @@
     "names": {
       "en": "Student Council Student",
       "ja": "連邦生徒会役員",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "联邦学生会成员",
+      "zh-tw": "聯邦學生會成員"
     },
     "searches": [
       "prime_student_council"
@@ -3825,8 +3813,8 @@
     "short_names": {
       "en": "Student Council Student",
       "ja": "連邦生徒会役員",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "联邦学生会成员",
+      "zh-tw": "聯邦學生會成員"
     }
   },
   {
@@ -3842,8 +3830,7 @@
       "zh-tw": "魑魅一座"
     },
     "searches": [
-      "npc",
-      "sudama_ichiza"
+      "npc"
     ],
     "short_names": {
       "en": "Sudama Ichiza",
@@ -3864,8 +3851,8 @@
     "names": {
       "en": "Chimpira",
       "ja": "チンピラ",
-      "zh-cn": "Chimpira",
-      "zh-tw": "Chimpira"
+      "zh-cn": "暴徒",
+      "zh-tw": "暴徒"
     },
     "searches": [
       "npc"
@@ -3873,8 +3860,8 @@
     "short_names": {
       "en": "Chimpira",
       "ja": "チンピラ",
-      "zh-cn": "Chimpira",
-      "zh-tw": "Chimpira"
+      "zh-cn": "暴徒",
+      "zh-tw": "暴徒"
     }
   },
   {
@@ -3928,8 +3915,8 @@
     "names": {
       "en": "Suzume Lady",
       "ja": "女将",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "女老板",
+      "zh-tw": "女老闆"
     },
     "searches": [
       "npc"
@@ -3937,8 +3924,8 @@
     "short_names": {
       "en": "Suzume Lady",
       "ja": "女将",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "女老板",
+      "zh-tw": "女老闆"
     }
   },
   {
@@ -3998,8 +3985,8 @@
     "names": {
       "en": "Asuma Toki",
       "ja": "飛鳥馬 トキ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "飞鸟马 时",
+      "zh-tw": "飛鳥馬 季"
     },
     "searches": [
       "cleaning_and_clearing",
@@ -4008,8 +3995,8 @@
     "short_names": {
       "en": "Toki",
       "ja": "トキ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "时",
+      "zh-tw": "季"
     }
   },
   {
@@ -4042,8 +4029,8 @@
     "names": {
       "en": "Trinity Student",
       "ja": "トリニティの生徒",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "三一学生",
+      "zh-tw": "三一學生"
     },
     "searches": [
       "npc",
@@ -4052,8 +4039,8 @@
     "short_names": {
       "en": "Trinity Student",
       "ja": "トリニティの生徒",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "三一学生",
+      "zh-tw": "三一學生"
     }
   },
   {
@@ -4086,8 +4073,8 @@
     "names": {
       "en": "Oono Tsukuyo",
       "ja": "大野 ツクヨ",
-      "zh-cn": "大野 筑夜",
-      "zh-tw": "大野 築夜"
+      "zh-cn": "大野 月咏",
+      "zh-tw": "大野 月夜"
     },
     "searches": [
       "hyakkiyako",
@@ -4096,8 +4083,8 @@
     "short_names": {
       "en": "Tsukuyo",
       "ja": "ツクヨ",
-      "zh-cn": "筑夜",
-      "zh-tw": "築夜"
+      "zh-cn": "月咏",
+      "zh-tw": "月夜"
     }
   },
   {
@@ -4197,8 +4184,8 @@
     "names": {
       "en": "Valkyrie Student",
       "ja": "ヴァルキューレの生徒",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "女武神学生",
+      "zh-tw": "女武神學生"
     },
     "searches": [
       "npc",
@@ -4207,8 +4194,8 @@
     "short_names": {
       "en": "Valkyrie Student",
       "ja": "ヴァルキューレの生徒",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "女武神学生",
+      "zh-tw": "女武神學生"
     }
   },
   {
@@ -4241,19 +4228,19 @@
       "Yoheki_redwinter1"
     ],
     "names": {
-      "en": "Yoheki Student",
+      "en": "Yoheki",
       "ja": "傭兵バイト",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "打工佣兵",
+      "zh-tw": "打工傭兵"
     },
     "searches": [
       "npc"
     ],
     "short_names": {
-      "en": "Yoheki Student",
+      "en": "Yoheki",
       "ja": "傭兵バイト",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "打工佣兵",
+      "zh-tw": "打工傭兵"
     }
   },
   {
@@ -4286,8 +4273,8 @@
     "names": {
       "en": "Shichido Yukino",
       "ja": "七度 ユキノ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "七度 雪乃",
+      "zh-tw": "七度 雪乃"
     },
     "searches": [
       "fox_platoon",
@@ -4296,8 +4283,8 @@
     "short_names": {
       "en": "Yukino",
       "ja": "ユキノ",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "雪乃",
+      "zh-tw": "雪乃"
     }
   },
   {
