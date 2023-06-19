@@ -8,34 +8,38 @@
     "filter_names": [
       {
         "en": "Operator",
-        "ja": "",
+        "ja": "オペレーター",
+        "ko": "오퍼레이터",
         "zh-cn": "干员",
-        "zh-tw": ""
-      },
-      {
-        "en": "Token",
-        "ja": "",
-        "zh-cn": "Token",
-        "zh-tw": ""
+        "zh-tw": "幹員"
       },
       {
         "en": "Enemy",
-        "ja": "",
+        "ja": "敵",
+        "ko": "적",
         "zh-cn": "敌方",
-        "zh-tw": ""
+        "zh-tw": "敵方"
+      },
+      {
+        "en": "Token",
+        "ja": "Token",
+        "ko": "Token",
+        "zh-cn": "Token",
+        "zh-tw": "Token"
       }
     ],
     "filter_searches": [
       ":#type-char",
-      ":#type-token",
-      ":#type-enemy"
+      ":#type-enemy",
+      ":#type-token"
     ],
     "group_key": "type",
     "group_name": {
       "en": "Type",
-      "ja": "",
+      "ja": "タイプ",
+      "ko": "유형",
       "zh-cn": "类型",
-      "zh-tw": ""
+      "zh-tw": "類型"
     }
   }
 ]
