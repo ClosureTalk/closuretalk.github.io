@@ -688,7 +688,9 @@
       "Citizen_Animal_1",
       "Citizen_Animal_6",
       "Citizen_animal7",
-      "Market_Animal_2"
+      "Market_Animal_2",
+      "NP0135",
+      "NP0136"
     ],
     "names": {
       "en": "Kivotos Citizen",
@@ -711,7 +713,8 @@
   {
     "id": "Dekaruto",
     "images": [
-      "NP0031"
+      "NP0031",
+      "NP0142"
     ],
     "names": {
       "en": "Descartes",
@@ -2718,6 +2721,7 @@
   {
     "id": "Miyako",
     "images": [
+      "CH0215",
       "Miyako"
     ],
     "names": {
@@ -2742,6 +2746,7 @@
   {
     "id": "Miyu",
     "images": [
+      "CH0218",
       "Miyu"
     ],
     "names": {
@@ -2766,6 +2771,7 @@
   {
     "id": "Moe",
     "images": [
+      "CH0216",
       "Moe"
     ],
     "names": {
@@ -3150,6 +3156,28 @@
       "ko": "",
       "zh-cn": "小孩子",
       "zh-tw": "小孩子"
+    }
+  },
+  {
+    "id": "npc_fisherman",
+    "images": [
+      "NP0132",
+      "NP0133"
+    ],
+    "names": {
+      "en": "Fisherman",
+      "ja": "漁師",
+      "ko": "",
+      "zh-cn": "渔民",
+      "zh-tw": "漁民"
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Fisherman",
+      "ja": "漁師",
+      "ko": "",
+      "zh-cn": "渔民",
+      "zh-tw": "漁民"
     }
   },
   {
@@ -3621,6 +3649,7 @@
   {
     "id": "Saki",
     "images": [
+      "CH0217",
       "Saki"
     ],
     "names": {
@@ -4555,6 +4584,7 @@
   {
     "id": "valkyrie_student",
     "images": [
+      "NP0134",
       "Valkyrie_SG"
     ],
     "names": {
