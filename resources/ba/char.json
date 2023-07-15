@@ -2,7 +2,8 @@
   {
     "id": "Airi",
     "images": [
-      "Airi"
+      "Airi",
+      "Airi_Collection"
     ],
     "names": {
       "en": "Kurimura Airi",
@@ -27,7 +28,9 @@
     "id": "Akane",
     "images": [
       "Akane",
-      "Akane_BunnyGirl"
+      "Akane_BunnyGirl",
+      "Akane_Collection",
+      "CH0099_Collection"
     ],
     "names": {
       "en": "Murokasa Akane",
@@ -52,6 +55,7 @@
     "id": "Akari",
     "images": [
       "Akari",
+      "Akari_Collection",
       "CH0196"
     ],
     "names": {
@@ -100,6 +104,7 @@
     "id": "Ako",
     "images": [
       "Ako",
+      "Ako_Collection",
       "NP0019",
       "NP0111"
     ],
@@ -126,7 +131,9 @@
     "id": "Alice",
     "images": [
       "Alice",
-      "CH0200"
+      "Aris_Collection",
+      "CH0200",
+      "CH0200_Collection"
     ],
     "names": {
       "en": "Tendou Alice",
@@ -244,7 +251,8 @@
   {
     "id": "Arona",
     "images": [
-      "Arona"
+      "Arona",
+      "Arona_Collection"
     ],
     "names": {
       "en": "Arona",
@@ -266,7 +274,9 @@
     "id": "Aru",
     "images": [
       "Aru",
-      "Aru_Newyear"
+      "Aru_Collection",
+      "Aru_Newyear",
+      "Aru_Newyear_Collection"
     ],
     "names": {
       "en": "Rikuhachima Aru",
@@ -292,6 +302,8 @@
     "images": [
       "Asuna",
       "Asuna_BunnyGirl",
+      "Asuna_Collection",
+      "CH0098_Collection",
       "NP0081"
     ],
     "names": {
@@ -317,6 +329,7 @@
     "id": "Atsuko",
     "images": [
       "Atsuko",
+      "Atsuko_Collection",
       "Atsuko_Masked",
       "NP0077"
     ],
@@ -369,8 +382,10 @@
     "id": "Ayane",
     "images": [
       "Ayane",
+      "Ayane_Collection",
       "Ayane_Robber",
       "Ayane_Robber_Swimsuit",
+      "CH0176_Collection",
       "NP0108"
     ],
     "names": {
@@ -397,6 +412,7 @@
     "id": "Ayumu",
     "images": [
       "Ayumu",
+      "NP0013_Collection",
       "NP0099"
     ],
     "names": {
@@ -421,7 +437,9 @@
     "id": "Azusa",
     "images": [
       "Azusa",
+      "Azusa_Collection",
       "Azusa_Swimsuit",
+      "Azusa_Swimsuit_Collection",
       "NP0020"
     ],
     "names": {
@@ -562,7 +580,9 @@
   {
     "id": "Cherino",
     "images": [
+      "CH0164_Collection",
       "Cherino",
+      "Cherino_Collection",
       "Cherino_Hotspring"
     ],
     "names": {
@@ -610,6 +630,7 @@
   {
     "id": "Chihiro",
     "images": [
+      "CH0160_Collection",
       "Chihiro"
     ],
     "names": {
@@ -634,6 +655,7 @@
   {
     "id": "Chinatsu",
     "images": [
+      "CH0163_Collection",
       "Chinatsu",
       "Chinatsu_Hotspring"
     ],
@@ -659,7 +681,9 @@
   {
     "id": "Chise",
     "images": [
+      "CH0178_Collection",
       "Chise",
+      "Chise_Collection",
       "Chise_Swimsuit"
     ],
     "names": {
@@ -808,7 +832,8 @@
   {
     "id": "Eimi",
     "images": [
-      "Eimi"
+      "Eimi",
+      "Eimi_Collection"
     ],
     "names": {
       "en": "Izumimoto Eimi",
@@ -878,6 +903,7 @@
   {
     "id": "Fubuki",
     "images": [
+      "CH0141_Collection",
       "Fubuki"
     ],
     "names": {
@@ -926,7 +952,9 @@
     "id": "Fuuka",
     "images": [
       "CH0177",
-      "Fuuka"
+      "CH0177_Collection",
+      "Fuuka",
+      "Fuuka_Collection"
     ],
     "names": {
       "en": "Aikiyo Fuuka",
@@ -1067,7 +1095,9 @@
     "id": "Hanae",
     "images": [
       "CH0195",
+      "CH0195_Collection",
       "Hanae",
+      "Hanae_Collection",
       "NP0076"
     ],
     "names": {
@@ -1093,6 +1123,7 @@
     "id": "Hanako",
     "images": [
       "Hanako",
+      "Hanako_Collection",
       "NP0110"
     ],
     "names": {
@@ -1117,7 +1148,8 @@
   {
     "id": "Hare",
     "images": [
-      "Hare"
+      "Hare",
+      "Hare_Collection"
     ],
     "names": {
       "en": "Omagari Hare",
@@ -1141,7 +1173,9 @@
   {
     "id": "Haruka",
     "images": [
+      "CH0087_Collection",
       "Haruka",
+      "Haruka_Collection",
       "Haruka_Newyear"
     ],
     "names": {
@@ -1167,8 +1201,10 @@
     "id": "Haruna",
     "images": [
       "CH0191",
+      "CH0191_Collection",
       "CH0193",
-      "Haruna"
+      "Haruna",
+      "Haruna_Collection"
     ],
     "names": {
       "en": "Kurodate Haruna",
@@ -1192,6 +1228,7 @@
   {
     "id": "Hasumi",
     "images": [
+      "CH0190_Collection",
       "Hasumi"
     ],
     "names": {
@@ -1216,7 +1253,8 @@
   {
     "id": "hatsune_miku",
     "images": [
-      "CH9999"
+      "CH9999",
+      "CH9999_Collection"
     ],
     "names": {
       "en": "Hatsune Miku",
@@ -1260,7 +1298,9 @@
     "id": "Hibiki",
     "images": [
       "CH0181",
-      "Hibiki"
+      "CH0181_Collection",
+      "Hibiki",
+      "Hibiki_Collection"
     ],
     "names": {
       "en": "Nekozuka Hibiki",
@@ -1307,9 +1347,11 @@
   {
     "id": "Hifumi",
     "images": [
+      "CH0058_Collection",
       "Hifumi",
       "Hifumi_Robber",
-      "Hifumi_Swimsuit"
+      "Hifumi_Swimsuit",
+      "Hihumi_Collection"
     ],
     "names": {
       "en": "Ajitani Hifumi",
@@ -1335,6 +1377,7 @@
     "id": "Himari",
     "images": [
       "CH0159",
+      "CH0159_Collection",
       "NP0112"
     ],
     "names": {
@@ -1360,9 +1403,12 @@
   {
     "id": "Hina",
     "images": [
+      "CH0063_Collection",
       "Hina",
+      "Hina_Collection",
       "Hina_Nightware",
       "Hina_Swimsuit",
+      "Hinata_Collection",
       "NP0017"
     ],
     "names": {
@@ -1411,7 +1457,8 @@
   {
     "id": "Hiyori",
     "images": [
-      "Hiyori"
+      "Hiyori",
+      "Hiyori_Collection"
     ],
     "names": {
       "en": "Tsuchinaga Hiyori",
@@ -1459,9 +1506,11 @@
     "id": "Hoshino",
     "images": [
       "Hoshino",
+      "Hoshino_Collection",
       "Hoshino_Robber",
       "Hoshino_Robber_Swimsuit",
-      "Hoshino_Swimsuit"
+      "Hoshino_Swimsuit",
+      "Hoshino_Swimsuit_Collection"
     ],
     "names": {
       "en": "Takanashi Hoshino",
@@ -1534,7 +1583,9 @@
   {
     "id": "Iori",
     "images": [
+      "CH0064_Collection",
       "Iori",
+      "Iori_Collection",
       "Iori_Swimsuit"
     ],
     "names": {
@@ -1559,6 +1610,7 @@
   {
     "id": "Iroha",
     "images": [
+      "CH0156_Collection",
       "Iroha"
     ],
     "names": {
@@ -1585,7 +1637,9 @@
     "images": [
       "CH0197",
       "Izumi",
-      "Izumi_Swimsuit"
+      "Izumi_Collection",
+      "Izumi_Swimsuit",
+      "Izumi_swimsuit_Collection"
     ],
     "names": {
       "en": "Shishidou Izumi",
@@ -1609,7 +1663,9 @@
   {
     "id": "Izuna",
     "images": [
+      "CH0179_Collection",
       "Izuna",
+      "Izuna_Collection",
       "Izuna_Swimsuit"
     ],
     "names": {
@@ -1658,7 +1714,9 @@
     "id": "Junko",
     "images": [
       "CH0192",
-      "Junko"
+      "CH0192_Collection",
+      "Junko",
+      "Zunko_Collection"
     ],
     "names": {
       "en": "Akashi Junko",
@@ -1682,7 +1740,8 @@
   {
     "id": "Juri",
     "images": [
-      "Juri"
+      "Juri",
+      "Juri_Collection"
     ],
     "names": {
       "en": "Ushimaki Juri",
@@ -1730,7 +1789,8 @@
   {
     "id": "Kaede",
     "images": [
-      "Kaede"
+      "Kaede",
+      "Kaede_Collection"
     ],
     "names": {
       "en": "Isami Kaede",
@@ -1754,6 +1814,7 @@
   {
     "id": "Kaho",
     "images": [
+      "CH0107_Collection",
       "Kaho"
     ],
     "names": {
@@ -1874,6 +1935,7 @@
   {
     "id": "Kanna",
     "images": [
+      "CH0170_Collection",
       "Kanna",
       "NP0105"
     ],
@@ -1898,8 +1960,10 @@
   {
     "id": "Karin",
     "images": [
+      "CH0100_Collection",
       "Karin",
       "Karin_BunnyGirl",
+      "Karin_Collection",
       "NP0082"
     ],
     "names": {
@@ -1971,7 +2035,9 @@
   {
     "id": "Kayoko",
     "images": [
+      "CH0086_Collection",
       "Kayoko",
+      "Kayoko_Collection",
       "Kayoko_Newyear",
       "NP0118"
     ],
@@ -1997,7 +2063,8 @@
   {
     "id": "Kazusa",
     "images": [
-      "Kazusa"
+      "Kazusa",
+      "Kazusa_Collection"
     ],
     "names": {
       "en": "Kyouyama Kazusa",
@@ -2044,7 +2111,8 @@
   {
     "id": "Kirino",
     "images": [
-      "Kirino"
+      "Kirino",
+      "Kirino_Collection"
     ],
     "names": {
       "en": "Nakatsukasa Kirino",
@@ -2091,7 +2159,8 @@
   {
     "id": "Koharu",
     "images": [
-      "Koharu"
+      "Koharu",
+      "Koharu_Collection"
     ],
     "names": {
       "en": "Shimoe Koharu",
@@ -2115,6 +2184,7 @@
   {
     "id": "Kokona",
     "images": [
+      "CH0137_Collection",
       "Kokona"
     ],
     "names": {
@@ -2139,7 +2209,8 @@
   {
     "id": "Kotama",
     "images": [
-      "Kotama"
+      "Kotama",
+      "Kotama_Collection"
     ],
     "names": {
       "en": "Otose Kotama",
@@ -2164,7 +2235,8 @@
     "id": "Kotori",
     "images": [
       "Kotori",
-      "Kotori_Cheer"
+      "Kotori_Cheer",
+      "Kotori_Collection"
     ],
     "names": {
       "en": "Toyomi Kotori",
@@ -2189,7 +2261,8 @@
     "id": "Koyuki",
     "images": [
       "CH0162",
-      "CH0198"
+      "CH0198",
+      "CH0198_Collection"
     ],
     "names": {
       "en": "Kurosaki Koyuki",
@@ -2330,7 +2403,8 @@
   {
     "id": "Maki",
     "images": [
-      "Maki"
+      "Maki",
+      "Maki_Collection"
     ],
     "names": {
       "en": "Konuri Maki",
@@ -2379,7 +2453,10 @@
     "id": "Mari",
     "images": [
       "CH0186",
-      "Mari"
+      "CH0186_Collection",
+      "Mari",
+      "Mari_Collection",
+      "Marina_Collection"
     ],
     "names": {
       "en": "Iochi Mari",
@@ -2428,7 +2505,9 @@
     "id": "Mashiro",
     "images": [
       "Mashiro",
-      "Mashiro_Swimsuit"
+      "Mashiro_Collection",
+      "Mashiro_Swimsuit",
+      "Mashiro_Swimsuit_Collection"
     ],
     "names": {
       "en": "Shizuyama Mashiro",
@@ -2452,6 +2531,7 @@
   {
     "id": "Megu",
     "images": [
+      "CH0088_Collection",
       "Megu"
     ],
     "names": {
@@ -2500,6 +2580,7 @@
   {
     "id": "Michiru",
     "images": [
+      "CH0113_Collection",
       "Michiru"
     ],
     "names": {
@@ -2525,7 +2606,8 @@
     "id": "Midori",
     "images": [
       "CH0202",
-      "Midori"
+      "Midori",
+      "Midori_Collection"
     ],
     "names": {
       "en": "Saiba Midori",
@@ -2549,6 +2631,7 @@
   {
     "id": "Mika",
     "images": [
+      "CH0069_Collection",
       "Mika",
       "NP0041",
       "NP0101",
@@ -2602,6 +2685,7 @@
     "id": "Mimori",
     "images": [
       "Mimori",
+      "Mimori_Collection",
       "Mimori_Swimsuit"
     ],
     "names": {
@@ -2626,7 +2710,8 @@
   {
     "id": "Mina",
     "images": [
-      "CH0138"
+      "CH0138",
+      "CH0138_Collection"
     ],
     "names": {
       "en": "Konoe Mina",
@@ -2649,7 +2734,8 @@
   {
     "id": "Mine",
     "images": [
-      "CH0152"
+      "CH0152",
+      "CH0152_Collection"
     ],
     "names": {
       "en": "Aomori Mine",
@@ -2674,6 +2760,7 @@
     "id": "Minori",
     "images": [
       "CH0214",
+      "CH0214_Collection",
       "Minori"
     ],
     "names": {
@@ -2697,7 +2784,8 @@
   {
     "id": "Misaki",
     "images": [
-      "Misaki"
+      "Misaki",
+      "Misaki_Collection"
     ],
     "names": {
       "en": "Imashino Misaki",
@@ -2722,7 +2810,9 @@
     "id": "Miyako",
     "images": [
       "CH0215",
-      "Miyako"
+      "CH0215_Collection",
+      "Miyako",
+      "Miyako_Collection"
     ],
     "names": {
       "en": "Tsukiyuki Miyako",
@@ -2746,7 +2836,9 @@
   {
     "id": "Miyu",
     "images": [
+      "CH0145_Collection",
       "CH0218",
+      "CH0218_Collection",
       "Miyu"
     ],
     "names": {
@@ -2772,7 +2864,8 @@
     "id": "Moe",
     "images": [
       "CH0216",
-      "Moe"
+      "Moe",
+      "Moe_Collection"
     ],
     "names": {
       "en": "Kazekura Moe",
@@ -2820,7 +2913,8 @@
     "id": "Momoi",
     "images": [
       "CH0201",
-      "Momoi"
+      "Momoi",
+      "Momoi_Collection"
     ],
     "names": {
       "en": "Saiba Momoi",
@@ -2868,7 +2962,9 @@
     "id": "Mutsuki",
     "images": [
       "Mutsuki",
-      "Mutsuki_Newyear"
+      "Mutsuki_Collection",
+      "Mutsuki_Newyear",
+      "Mutsuki_Newyear_Collection"
     ],
     "names": {
       "en": "Asagi Mutsuki",
@@ -2892,7 +2988,8 @@
   {
     "id": "Nagisa",
     "images": [
-      "Nagisa"
+      "Nagisa",
+      "Nagisa_Collection"
     ],
     "names": {
       "en": "Kirifuji Nagisa",
@@ -2962,6 +3059,7 @@
   {
     "id": "Natsu",
     "images": [
+      "CH0155_Collection",
       "Natsu"
     ],
     "names": {
@@ -2986,8 +3084,10 @@
   {
     "id": "Neru",
     "images": [
+      "CH0101_Collection",
       "Neru",
-      "Neru_BunnyGirl"
+      "Neru_BunnyGirl",
+      "Neru_Collection"
     ],
     "names": {
       "en": "Mikamo Neru",
@@ -3059,6 +3159,7 @@
   {
     "id": "Noa",
     "images": [
+      "CH0095_Collection",
       "Noa"
     ],
     "names": {
@@ -3083,7 +3184,9 @@
   {
     "id": "Nodoka",
     "images": [
+      "CH0165_Collection",
       "Nodoka",
+      "Nodoka_Collection",
       "Nodoka_Hotspring"
     ],
     "names": {
@@ -3108,7 +3211,9 @@
   {
     "id": "Nonomi",
     "images": [
+      "CH0092_Collection",
       "Nonomi",
+      "Nonomi_Collection",
       "Nonomi_Robber",
       "Nonomi_Robber_Swimsuit",
       "Nonomi_Swimsuit"
@@ -3418,7 +3523,8 @@
   {
     "id": "Pina",
     "images": [
-      "Pina"
+      "Pina",
+      "Pina_Collection"
     ],
     "names": {
       "en": "Asahina Pina",
@@ -3530,6 +3636,7 @@
   {
     "id": "Reisa",
     "images": [
+      "CH0167_Collection",
       "Reisa"
     ],
     "names": {
@@ -3626,7 +3733,8 @@
   {
     "id": "Rumi",
     "images": [
-      "CH0135"
+      "CH0135",
+      "CH0135_Collection"
     ],
     "names": {
       "en": "Akeshiro Rumi",
@@ -3649,7 +3757,9 @@
   {
     "id": "Saki",
     "images": [
+      "CH0144_Collection",
       "CH0217",
+      "CH0217_Collection",
       "Saki"
     ],
     "names": {
@@ -3675,7 +3785,8 @@
     "id": "Sakurako",
     "images": [
       "NP0090",
-      "Sakurako"
+      "Sakurako",
+      "Sakurako_Collection"
     ],
     "names": {
       "en": "Utazumi Sakurako",
@@ -3701,7 +3812,8 @@
     "images": [
       "NP0012",
       "NP0103",
-      "Saori"
+      "Saori",
+      "Saori_Collection"
     ],
     "names": {
       "en": "Joumae Saori",
@@ -3749,7 +3861,9 @@
     "id": "Saya",
     "images": [
       "Saya",
-      "Saya_Casual"
+      "Saya_Casual",
+      "Saya_Collection",
+      "Saya_casual_Collection"
     ],
     "names": {
       "en": "Yakushi Saya",
@@ -3796,7 +3910,8 @@
   {
     "id": "Sena",
     "images": [
-      "Sena"
+      "Sena",
+      "Sena_Collection"
     ],
     "names": {
       "en": "Himuro Sena",
@@ -3821,7 +3936,9 @@
     "id": "Serika",
     "images": [
       "Serika",
+      "Serika_Collection",
       "Serika_Newyear",
+      "Serika_Newyear_Collection",
       "Serika_Robber",
       "Serika_Robber_Swimsuit",
       "Serika_Shibaseki",
@@ -3851,8 +3968,10 @@
     "id": "Serina",
     "images": [
       "CH0194",
+      "CH0194_Collection",
       "NP0075",
-      "Serina"
+      "Serina",
+      "Serina_Collection"
     ],
     "names": {
       "en": "Sumi Serina",
@@ -3898,6 +4017,7 @@
     "id": "Shigure",
     "images": [
       "Shigure",
+      "Shigure_Collection",
       "Shigure_Hotspring"
     ],
     "names": {
@@ -3922,7 +4042,8 @@
   {
     "id": "Shimiko",
     "images": [
-      "Shimiko"
+      "Shimiko",
+      "Shimiko_Collection"
     ],
     "names": {
       "en": "Endou Shimiko",
@@ -3996,10 +4117,12 @@
       "NP0124",
       "NP0125",
       "Shiroko",
+      "Shiroko_Collection",
       "Shiroko_Ridingsuit",
       "Shiroko_Robber",
       "Shiroko_Robber_Swimsuit",
-      "Shiroko_Swimsuit"
+      "Shiroko_Swimsuit",
+      "Shiroko_ridingsuit_Collection"
     ],
     "names": {
       "en": "Sunaookami Shiroko",
@@ -4024,7 +4147,9 @@
   {
     "id": "Shizuko",
     "images": [
+      "CH0180_Collection",
       "Shizuko",
+      "Shizuko_Collection",
       "Shizuko_Swimsuit"
     ],
     "names": {
@@ -4049,7 +4174,9 @@
   {
     "id": "Shun",
     "images": [
+      "CH0066_Collection",
       "Shun",
+      "Shun_Collection",
       "Shun_Little_Girl"
     ],
     "names": {
@@ -4098,7 +4225,8 @@
   {
     "id": "Sora",
     "images": [
-      "Sora"
+      "Sora",
+      "Sora_Collection"
     ],
     "names": {
       "en": "Sora",
@@ -4244,7 +4372,8 @@
   {
     "id": "Sumire",
     "images": [
-      "Sumire"
+      "Sumire",
+      "Sumire_Collection"
     ],
     "names": {
       "en": "Otohana Sumire",
@@ -4314,7 +4443,8 @@
   {
     "id": "Suzumi",
     "images": [
-      "Suzumi"
+      "Suzumi",
+      "Suzumi_Collection"
     ],
     "names": {
       "en": "Morizuki Suzumi",
@@ -4364,7 +4494,9 @@
     "id": "Toki",
     "images": [
       "CH0187",
+      "CH0187_Collection",
       "CH0211",
+      "CH0211_Collection",
       "NP0078",
       "NP0079",
       "NP0123"
@@ -4391,7 +4523,8 @@
   {
     "id": "Tomoe",
     "images": [
-      "Tomoe"
+      "Tomoe",
+      "Tomoe_Collection"
     ],
     "names": {
       "en": "Sashiro Tomoe",
@@ -4439,7 +4572,8 @@
   {
     "id": "Tsubaki",
     "images": [
-      "Tsubaki"
+      "Tsubaki",
+      "Tsubaki_Collection"
     ],
     "names": {
       "en": "Kasuga Tsubaki",
@@ -4463,6 +4597,7 @@
   {
     "id": "Tsukuyo",
     "images": [
+      "CH0114_Collection",
       "Tsukuyo"
     ],
     "names": {
@@ -4487,7 +4622,9 @@
   {
     "id": "Tsurugi",
     "images": [
+      "CH0060_Collection",
       "Tsurugi",
+      "Tsurugi_Collection",
       "Tsurugi_Swimsuit"
     ],
     "names": {
@@ -4512,6 +4649,7 @@
   {
     "id": "Ui",
     "images": [
+      "CH0169_Collection",
       "Ui"
     ],
     "names": {
@@ -4559,8 +4697,10 @@
   {
     "id": "Utaha",
     "images": [
+      "CH0182_Collection",
       "Utaha",
-      "Utaha_Cheer"
+      "Utaha_Cheer",
+      "Utaha_Collection"
     ],
     "names": {
       "en": "Shiraishi Utaha",
@@ -4609,8 +4749,10 @@
   {
     "id": "Wakamo",
     "images": [
+      "CH0175_Collection",
       "NP0014",
       "Wakamo",
+      "Wakamo_Collection",
       "Wakamo_Swimsuit"
     ],
     "names": {
@@ -4658,7 +4800,8 @@
   {
     "id": "Yoshimi",
     "images": [
-      "Yoshimi"
+      "Yoshimi",
+      "Yoshimi_Collection"
     ],
     "names": {
       "en": "Ibaragi Yoshimi",
@@ -4707,8 +4850,10 @@
     "id": "Yuuka",
     "images": [
       "CH0184",
+      "CH0184_Collection",
       "NP0109",
-      "Yuuka"
+      "Yuuka",
+      "Yuuka_Collection"
     ],
     "names": {
       "en": "Hayase Yuuka",
@@ -4733,8 +4878,10 @@
     "id": "Yuzu",
     "images": [
       "CH0203",
+      "CH0203_Collection",
       "NP0126",
-      "Yuzu"
+      "Yuzu",
+      "Yuzu_Collection"
     ],
     "names": {
       "en": "Hanaoka Yuzu",
