@@ -1122,6 +1122,8 @@
   {
     "id": "Hanako",
     "images": [
+      "CH0209",
+      "CH0209_Collection",
       "Hanako",
       "Hanako_Collection",
       "NP0110"
@@ -1408,7 +1410,6 @@
       "Hina_Collection",
       "Hina_Nightware",
       "Hina_Swimsuit",
-      "Hinata_Collection",
       "NP0017"
     ],
     "names": {
@@ -1433,7 +1434,10 @@
   {
     "id": "Hinata",
     "images": [
-      "Hinata"
+      "CH0210",
+      "CH0210_Collection",
+      "Hinata",
+      "Hinata_Collection"
     ],
     "names": {
       "en": "Wakaba Hinata",
@@ -2159,6 +2163,8 @@
   {
     "id": "Koharu",
     "images": [
+      "CH0205",
+      "CH0205_Collection",
       "Koharu",
       "Koharu_Collection"
     ],
@@ -2455,8 +2461,7 @@
       "CH0186",
       "CH0186_Collection",
       "Mari",
-      "Mari_Collection",
-      "Marina_Collection"
+      "Mari_Collection"
     ],
     "names": {
       "en": "Iochi Mari",
@@ -2480,7 +2485,8 @@
   {
     "id": "Marina",
     "images": [
-      "Marina"
+      "Marina",
+      "Marina_Collection"
     ],
     "names": {
       "en": "Ikekura Marina",
@@ -3335,6 +3341,7 @@
   {
     "id": "npc_yustina",
     "images": [
+      "NP0137",
       "Yustina_SR1"
     ],
     "names": {
@@ -4113,6 +4120,7 @@
   {
     "id": "Shiroko",
     "images": [
+      "CH0188_Collection",
       "CH0199",
       "NP0124",
       "NP0125",
@@ -4650,6 +4658,8 @@
     "id": "Ui",
     "images": [
       "CH0169_Collection",
+      "CH0204",
+      "CH0204_Collection",
       "Ui"
     ],
     "names": {
