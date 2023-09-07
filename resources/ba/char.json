@@ -2240,6 +2240,7 @@
   {
     "id": "Kotori",
     "images": [
+      "CH0185_Collection",
       "Kotori",
       "Kotori_Cheer",
       "Kotori_Collection"
@@ -2563,6 +2564,7 @@
     "id": "Meru",
     "images": [
       "CH0124",
+      "CH0124_Collection",
       "CH0125"
     ],
     "names": {
@@ -2896,7 +2898,8 @@
   {
     "id": "Momiji",
     "images": [
-      "Momiji"
+      "Momiji",
+      "Momiji_Collection"
     ],
     "names": {
       "en": "Akiizumi Momiji",
@@ -4475,6 +4478,27 @@
     }
   },
   {
+    "id": "Takane",
+    "images": [
+      "CH0229"
+    ],
+    "names": {
+      "en": "Miyoshi Takane",
+      "ja": "三善 タカネ",
+      "ko": "",
+      "zh-cn": "三善 贵音",
+      "zh-tw": "三善 貴音"
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Takane",
+      "ja": "タカネ",
+      "ko": "",
+      "zh-cn": "贵音",
+      "zh-tw": "貴音"
+    }
+  },
+  {
     "id": "Tea_party",
     "images": [
       "Teaparty_Administrator",
@@ -4782,6 +4806,27 @@
       "ko": "와카모",
       "zh-cn": "若藻",
       "zh-tw": "若藻"
+    }
+  },
+  {
+    "id": "Yakumo",
+    "images": [
+      "CH0228"
+    ],
+    "names": {
+      "en": "Aramaki Yakumo",
+      "ja": "荒槇 ヤクモ",
+      "ko": "",
+      "zh-cn": "荒槙 八云",
+      "zh-tw": "荒槙 八云"
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Yakumo",
+      "ja": "ヤクモ",
+      "ko": "",
+      "zh-cn": "八云",
+      "zh-tw": "八云"
     }
   },
   {

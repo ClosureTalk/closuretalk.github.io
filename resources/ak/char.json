@@ -495,21 +495,21 @@
       "char_1029_yato2_2"
     ],
     "names": {
-      "en": "Kirin X Yato",
-      "ja": "Kirin X Yato",
-      "ko": "",
-      "zh-cn": "麒麟X夜刀",
+      "en": "Kirin R Yato",
+      "ja": "キリンRヤトウ",
+      "ko": "키린R 야토",
+      "zh-cn": "麒麟R夜刀",
       "zh-tw": ""
     },
     "searches": [
-      "Kirin X Yato",
+      "Kirin R Yato",
       ":#type-char"
     ],
     "short_names": {
-      "en": "Kirin X Yato",
-      "ja": "Kirin X Yato",
-      "ko": "",
-      "zh-cn": "麒麟X夜刀",
+      "en": "Kirin R Yato",
+      "ja": "キリンRヤトウ",
+      "ko": "키린R 야토",
+      "zh-cn": "麒麟R夜刀",
       "zh-tw": ""
     }
   },
@@ -548,8 +548,8 @@
     ],
     "names": {
       "en": "Rathalos S Noir Corne",
-      "ja": "Rathalos S Noir Corne",
-      "ko": "",
+      "ja": "レウスSノイルホーン",
+      "ko": "레우스S 느와르 코르네",
       "zh-cn": "火龙S黑角",
       "zh-tw": ""
     },
@@ -559,8 +559,8 @@
     ],
     "short_names": {
       "en": "Rathalos S Noir Corne",
-      "ja": "Rathalos S Noir Corne",
-      "ko": "",
+      "ja": "レウスSノイルホーン",
+      "ko": "레우스S 느와르 코르네",
       "zh-cn": "火龙S黑角",
       "zh-tw": ""
     }
@@ -641,6 +641,31 @@
     }
   },
   {
+    "id": "char_1034_jesca2",
+    "images": [
+      "char_1034_jesca2",
+      "char_1034_jesca2_2"
+    ],
+    "names": {
+      "en": "Jessica the Liberated",
+      "ja": "Jessica the Liberated",
+      "ko": "",
+      "zh-cn": "涤火杰西卡",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Jessica the Liberated",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Jessica the Liberated",
+      "ja": "Jessica the Liberated",
+      "ko": "",
+      "zh-cn": "涤火杰西卡",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "char_103_angel",
     "images": [
       "char_103_angel",
@@ -672,7 +697,8 @@
     "id": "char_106_franka",
     "images": [
       "char_106_franka",
-      "char_106_franka_2"
+      "char_106_franka_2",
+      "char_106_franka_ncg#1"
     ],
     "names": {
       "en": "Franka",
@@ -2307,7 +2333,8 @@
     "id": "char_2012_typhon",
     "images": [
       "char_2012_typhon",
-      "char_2012_typhon_2"
+      "char_2012_typhon_2",
+      "char_2012_typhon_wild#9"
     ],
     "names": {
       "en": "Typhon",
@@ -2439,6 +2466,7 @@
     "images": [
       "char_2023_ling",
       "char_2023_ling_2",
+      "char_2023_ling_ncg#1",
       "char_2023_ling_nian#9"
     ],
     "names": {
@@ -5801,7 +5829,8 @@
     "id": "char_4054_malist",
     "images": [
       "char_4054_malist",
-      "char_4054_malist_2"
+      "char_4054_malist_2",
+      "char_4054_malist_summer#14"
     ],
     "names": {
       "en": "Minimalist",
@@ -6083,8 +6112,8 @@
     ],
     "names": {
       "en": "Terra Research Commission",
-      "ja": "Terra Research Commission",
-      "ko": "",
+      "ja": "テラ大陸調査団",
+      "ko": "테라 대륙 조사단",
       "zh-cn": "泰拉大陆调查团",
       "zh-tw": ""
     },
@@ -6094,8 +6123,8 @@
     ],
     "short_names": {
       "en": "Terra Research Commission",
-      "ja": "Terra Research Commission",
-      "ko": "",
+      "ja": "テラ大陸調査団",
+      "ko": "테라 대륙 조사단",
       "zh-cn": "泰拉大陆调查团",
       "zh-tw": ""
     }
@@ -6154,12 +6183,13 @@
     "id": "char_4082_qiubai",
     "images": [
       "char_4082_qiubai",
-      "char_4082_qiubai_2"
+      "char_4082_qiubai_2",
+      "char_4082_qiubai_ncg#1"
     ],
     "names": {
       "en": "Qiubai",
-      "ja": "Qiubai",
-      "ko": "",
+      "ja": "チューバイ",
+      "ko": "치우바이",
       "zh-cn": "仇白",
       "zh-tw": ""
     },
@@ -6169,8 +6199,8 @@
     ],
     "short_names": {
       "en": "Qiubai",
-      "ja": "Qiubai",
-      "ko": "",
+      "ja": "チューバイ",
+      "ko": "치우바이",
       "zh-cn": "仇白",
       "zh-tw": ""
     }
@@ -6183,8 +6213,8 @@
     ],
     "names": {
       "en": "Wind Chimes",
-      "ja": "Wind Chimes",
-      "ko": "",
+      "ja": "ウィンドチャイム",
+      "ko": "윈드차임스",
       "zh-cn": "铎铃",
       "zh-tw": ""
     },
@@ -6194,8 +6224,8 @@
     ],
     "short_names": {
       "en": "Wind Chimes",
-      "ja": "Wind Chimes",
-      "ko": "",
+      "ja": "ウィンドチャイム",
+      "ko": "윈드차임스",
       "zh-cn": "铎铃",
       "zh-tw": ""
     }
@@ -6295,6 +6325,56 @@
       "ja": "Valarqvin",
       "ko": "",
       "zh-cn": "凛视",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_4104_coldst",
+    "images": [
+      "char_4104_coldst",
+      "char_4104_coldst_2"
+    ],
+    "names": {
+      "en": "Coldshot",
+      "ja": "Coldshot",
+      "ko": "",
+      "zh-cn": "冰酿",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Coldshot",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Coldshot",
+      "ja": "Coldshot",
+      "ko": "",
+      "zh-cn": "冰酿",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_4105_almond",
+    "images": [
+      "char_4105_almond",
+      "char_4105_almond_2"
+    ],
+    "names": {
+      "en": "Almond",
+      "ja": "Almond",
+      "ko": "",
+      "zh-cn": "杏仁",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Almond",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Almond",
+      "ja": "Almond",
+      "ko": "",
+      "zh-cn": "杏仁",
       "zh-tw": ""
     }
   },
@@ -8355,6 +8435,7 @@
     "id": "token_10020_ling_soul1",
     "images": [
       "token_10020_ling_soul1",
+      "token_10020_ling_soul1_ncg#1",
       "token_10020_ling_soul1_nian#9"
     ],
     "names": {
@@ -8380,6 +8461,7 @@
     "id": "token_10020_ling_soul2",
     "images": [
       "token_10020_ling_soul2",
+      "token_10020_ling_soul2_ncg#1",
       "token_10020_ling_soul2_nian#9"
     ],
     "names": {
@@ -8405,6 +8487,7 @@
     "id": "token_10020_ling_soul3",
     "images": [
       "token_10020_ling_soul3",
+      "token_10020_ling_soul3_ncg#1",
       "token_10020_ling_soul3_nian#9"
     ],
     "names": {
@@ -8742,6 +8825,30 @@
       "ja": "Champagne Bomb",
       "ko": "",
       "zh-cn": "香槟炸弹",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "token_10032_jesca2_jckshd",
+    "images": [
+      "token_10032_jesca2_jckshd"
+    ],
+    "names": {
+      "en": "Mobile personnel shield",
+      "ja": "Mobile personnel shield",
+      "ko": "",
+      "zh-cn": "机动盾牌",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Mobile personnel shield",
+      ":#type-token"
+    ],
+    "short_names": {
+      "en": "Mobile personnel shield",
+      "ja": "Mobile personnel shield",
+      "ko": "",
+      "zh-cn": "机动盾牌",
       "zh-tw": ""
     }
   },
@@ -9905,7 +10012,7 @@
     "names": {
       "en": "First-aid Kit",
       "ja": "救急バッグ",
-      "ko": "구급키드",
+      "ko": "구급키트",
       "zh-cn": "急救包",
       "zh-tw": ""
     },
@@ -9916,7 +10023,7 @@
     "short_names": {
       "en": "First-aid Kit",
       "ja": "救急バッグ",
-      "ko": "구급키드",
+      "ko": "구급키트",
       "zh-cn": "急救包",
       "zh-tw": ""
     }
@@ -10144,8 +10251,8 @@
     ],
     "names": {
       "en": "Flash Grenade",
-      "ja": "Flash Grenade",
-      "ko": "",
+      "ja": "閃光爆弾",
+      "ko": "섬광 폭탄",
       "zh-cn": "眩光手雷",
       "zh-tw": ""
     },
@@ -10155,8 +10262,8 @@
     ],
     "short_names": {
       "en": "Flash Grenade",
-      "ja": "Flash Grenade",
-      "ko": "",
+      "ja": "閃光爆弾",
+      "ko": "섬광 폭탄",
       "zh-cn": "眩光手雷",
       "zh-tw": ""
     }
@@ -10168,8 +10275,8 @@
     ],
     "names": {
       "en": "Originium Barrel Bomb",
-      "ja": "Originium Barrel Bomb",
-      "ko": "",
+      "ja": "源石タル爆弾",
+      "ko": "오리지늄 폭약통",
       "zh-cn": "高能源石爆桶",
       "zh-tw": ""
     },
@@ -10179,8 +10286,8 @@
     ],
     "short_names": {
       "en": "Originium Barrel Bomb",
-      "ja": "Originium Barrel Bomb",
-      "ko": "",
+      "ja": "源石タル爆弾",
+      "ko": "오리지늄 폭약통",
       "zh-cn": "高能源石爆桶",
       "zh-tw": ""
     }
@@ -10192,8 +10299,8 @@
     ],
     "names": {
       "en": "High-voltage Shock Trap",
-      "ja": "High-voltage Shock Trap",
-      "ko": "",
+      "ja": "高電圧シビレ罠",
+      "ko": "고압 펄스 트랩",
       "zh-cn": "高压脉冲诡雷",
       "zh-tw": ""
     },
@@ -10203,8 +10310,8 @@
     ],
     "short_names": {
       "en": "High-voltage Shock Trap",
-      "ja": "High-voltage Shock Trap",
-      "ko": "",
+      "ja": "高電圧シビレ罠",
+      "ko": "고압 펄스 트랩",
       "zh-cn": "高压脉冲诡雷",
       "zh-tw": ""
     }
@@ -10216,8 +10323,8 @@
     ],
     "names": {
       "en": "Wiredrone",
-      "ja": "Wiredrone",
-      "ko": "",
+      "ja": "滞空牽引ドローン",
+      "ko": "공중 견인 드론",
       "zh-cn": "滞空牵引无人机",
       "zh-tw": ""
     },
@@ -10227,8 +10334,8 @@
     ],
     "short_names": {
       "en": "Wiredrone",
-      "ja": "Wiredrone",
-      "ko": "",
+      "ja": "滞空牽引ドローン",
+      "ko": "공중 견인 드론",
       "zh-cn": "滞空牵引无人机",
       "zh-tw": ""
     }
@@ -10546,14 +10653,38 @@
     }
   },
   {
+    "id": "trap_124_eradio",
+    "images": [
+      "trap_124_eradio"
+    ],
+    "names": {
+      "en": "Waste Heat Spout",
+      "ja": "Waste Heat Spout",
+      "ko": "",
+      "zh-cn": "废热喷口",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Waste Heat Spout",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Waste Heat Spout",
+      "ja": "Waste Heat Spout",
+      "ko": "",
+      "zh-cn": "废热喷口",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "trap_400_xbfarm",
     "images": [
       "trap_400_xbfarm"
     ],
     "names": {
       "en": "Portable Planting Trough",
-      "ja": "Portable Planting Trough",
-      "ko": "",
+      "ja": "栽培ポット",
+      "ko": "간이 재배용기",
       "zh-cn": "便携式种植槽",
       "zh-tw": ""
     },
@@ -10563,8 +10694,8 @@
     ],
     "short_names": {
       "en": "Portable Planting Trough",
-      "ja": "Portable Planting Trough",
-      "ko": "",
+      "ja": "栽培ポット",
+      "ko": "간이 재배용기",
       "zh-cn": "便携式种植槽",
       "zh-tw": ""
     }
@@ -10576,8 +10707,8 @@
     ],
     "names": {
       "en": "Basic Harvester Hub",
-      "ja": "Basic Harvester Hub",
-      "ko": "",
+      "ja": "採取ロボ用基地",
+      "ko": "초보자용 채집 허브",
       "zh-cn": "采集实习站",
       "zh-tw": ""
     },
@@ -10587,8 +10718,8 @@
     ],
     "short_names": {
       "en": "Basic Harvester Hub",
-      "ja": "Basic Harvester Hub",
-      "ko": "",
+      "ja": "採取ロボ用基地",
+      "ko": "초보자용 채집 허브",
       "zh-cn": "采集实习站",
       "zh-tw": ""
     }
@@ -10600,8 +10731,8 @@
     ],
     "names": {
       "en": "Crabbie Pumpie",
-      "ja": "Crabbie Pumpie",
-      "ko": "",
+      "ja": "カニカニポンプ",
+      "ko": "메탈 크랩 펌프",
       "zh-cn": "蟹蟹抽水泵",
       "zh-tw": ""
     },
@@ -10611,8 +10742,8 @@
     ],
     "short_names": {
       "en": "Crabbie Pumpie",
-      "ja": "Crabbie Pumpie",
-      "ko": "",
+      "ja": "カニカニポンプ",
+      "ko": "메탈 크랩 펌프",
       "zh-cn": "蟹蟹抽水泵",
       "zh-tw": ""
     }
@@ -10626,8 +10757,8 @@
     ],
     "names": {
       "en": "Firm Platform",
-      "ja": "Firm Platform",
-      "ko": "",
+      "ja": "堅牢な台",
+      "ko": "견고한 플랫폼",
       "zh-cn": "坚固筑台",
       "zh-tw": ""
     },
@@ -10637,8 +10768,8 @@
     ],
     "short_names": {
       "en": "Firm Platform",
-      "ja": "Firm Platform",
-      "ko": "",
+      "ja": "堅牢な台",
+      "ko": "견고한 플랫폼",
       "zh-cn": "坚固筑台",
       "zh-tw": ""
     }
@@ -10652,8 +10783,8 @@
     ],
     "names": {
       "en": "Urban Style Barrier",
-      "ja": "Urban Style Barrier",
-      "ko": "",
+      "ja": "都市様式障壁",
+      "ko": "도시용 방벽",
       "zh-cn": "都市风壁障",
       "zh-tw": ""
     },
@@ -10663,8 +10794,8 @@
     ],
     "short_names": {
       "en": "Urban Style Barrier",
-      "ja": "Urban Style Barrier",
-      "ko": "",
+      "ja": "都市様式障壁",
+      "ko": "도시용 방벽",
       "zh-cn": "都市风壁障",
       "zh-tw": ""
     }
@@ -10678,8 +10809,8 @@
     ],
     "names": {
       "en": "Monitoring Tower",
-      "ja": "Monitoring Tower",
-      "ko": "",
+      "ja": "監視塔",
+      "ko": "감시탑",
       "zh-cn": "监控塔",
       "zh-tw": ""
     },
@@ -10689,8 +10820,8 @@
     ],
     "short_names": {
       "en": "Monitoring Tower",
-      "ja": "Monitoring Tower",
-      "ko": "",
+      "ja": "監視塔",
+      "ko": "감시탑",
       "zh-cn": "监控塔",
       "zh-tw": ""
     }
@@ -10702,8 +10833,8 @@
     ],
     "names": {
       "en": "The Liaison",
-      "ja": "The Liaison",
-      "ko": "",
+      "ja": "連絡員",
+      "ko": "연락원",
       "zh-cn": "联络员",
       "zh-tw": ""
     },
@@ -10713,8 +10844,8 @@
     ],
     "short_names": {
       "en": "The Liaison",
-      "ja": "The Liaison",
-      "ko": "",
+      "ja": "連絡員",
+      "ko": "연락원",
       "zh-cn": "联络员",
       "zh-tw": ""
     }
@@ -10726,8 +10857,8 @@
     ],
     "names": {
       "en": "Remote Shield Controller",
-      "ja": "Remote Shield Controller",
-      "ko": "",
+      "ja": "シールドリモコン",
+      "ko": "실드 컨트롤러",
       "zh-cn": "护盾遥控器",
       "zh-tw": ""
     },
@@ -10737,8 +10868,8 @@
     ],
     "short_names": {
       "en": "Remote Shield Controller",
-      "ja": "Remote Shield Controller",
-      "ko": "",
+      "ja": "シールドリモコン",
+      "ko": "실드 컨트롤러",
       "zh-cn": "护盾遥控器",
       "zh-tw": ""
     }
@@ -10750,8 +10881,8 @@
     ],
     "names": {
       "en": "Hypnotic Censer",
-      "ja": "Hypnotic Censer",
-      "ko": "",
+      "ja": "安眠のお香",
+      "ko": "수면용 향",
       "zh-cn": "安眠迷香",
       "zh-tw": ""
     },
@@ -10761,8 +10892,8 @@
     ],
     "short_names": {
       "en": "Hypnotic Censer",
-      "ja": "Hypnotic Censer",
-      "ko": "",
+      "ja": "安眠のお香",
+      "ko": "수면용 향",
       "zh-cn": "安眠迷香",
       "zh-tw": ""
     }
@@ -10774,8 +10905,8 @@
     ],
     "names": {
       "en": "Refreshing Potion",
-      "ja": "Refreshing Potion",
-      "ko": "",
+      "ja": "覚醒の秘薬",
+      "ko": "각성 비약",
       "zh-cn": "醒神秘药",
       "zh-tw": ""
     },
@@ -10785,8 +10916,8 @@
     ],
     "short_names": {
       "en": "Refreshing Potion",
-      "ja": "Refreshing Potion",
-      "ko": "",
+      "ja": "覚醒の秘薬",
+      "ko": "각성 비약",
       "zh-cn": "醒神秘药",
       "zh-tw": ""
     }
@@ -10798,8 +10929,8 @@
     ],
     "names": {
       "en": "Anti-Recon Camouflage Device",
-      "ja": "Anti-Recon Camouflage Device",
-      "ko": "",
+      "ja": "隠密支援用マシン",
+      "ko": "대 정찰 위장 장치",
       "zh-cn": "反侦察藏匿机",
       "zh-tw": ""
     },
@@ -10809,8 +10940,8 @@
     ],
     "short_names": {
       "en": "Anti-Recon Camouflage Device",
-      "ja": "Anti-Recon Camouflage Device",
-      "ko": "",
+      "ja": "隠密支援用マシン",
+      "ko": "대 정찰 위장 장치",
       "zh-cn": "反侦察藏匿机",
       "zh-tw": ""
     }
@@ -10822,8 +10953,8 @@
     ],
     "names": {
       "en": "Emergency Repair Vehicle",
-      "ja": "Emergency Repair Vehicle",
-      "ko": "",
+      "ja": "緊急修理車両",
+      "ko": "비상 수리 차량",
       "zh-cn": "应急修理车",
       "zh-tw": ""
     },
@@ -10833,8 +10964,8 @@
     ],
     "short_names": {
       "en": "Emergency Repair Vehicle",
-      "ja": "Emergency Repair Vehicle",
-      "ko": "",
+      "ja": "緊急修理車両",
+      "ko": "비상 수리 차량",
       "zh-cn": "应急修理车",
       "zh-tw": ""
     }
@@ -10847,8 +10978,8 @@
     ],
     "names": {
       "en": "Trap Net Launcher",
-      "ja": "Trap Net Launcher",
-      "ko": "",
+      "ja": "捕縛網発射台",
+      "ko": "그물 발사대",
       "zh-cn": "缚网发射台",
       "zh-tw": ""
     },
@@ -10858,8 +10989,8 @@
     ],
     "short_names": {
       "en": "Trap Net Launcher",
-      "ja": "Trap Net Launcher",
-      "ko": "",
+      "ja": "捕縛網発射台",
+      "ko": "그물 발사대",
       "zh-cn": "缚网发射台",
       "zh-tw": ""
     }
@@ -10872,8 +11003,8 @@
     ],
     "names": {
       "en": "Gas Jet Thrower",
-      "ja": "Gas Jet Thrower",
-      "ko": "",
+      "ja": "噴射式強制移動機",
+      "ko": "가스 분사기",
       "zh-cn": "喷拒器",
       "zh-tw": ""
     },
@@ -10883,8 +11014,8 @@
     ],
     "short_names": {
       "en": "Gas Jet Thrower",
-      "ja": "Gas Jet Thrower",
-      "ko": "",
+      "ja": "噴射式強制移動機",
+      "ko": "가스 분사기",
       "zh-cn": "喷拒器",
       "zh-tw": ""
     }
@@ -10897,8 +11028,8 @@
     ],
     "names": {
       "en": "Fortification",
-      "ja": "Fortification",
-      "ko": "",
+      "ja": "防御施設",
+      "ko": "방어 공사",
       "zh-cn": "防御工事",
       "zh-tw": ""
     },
@@ -10908,8 +11039,8 @@
     ],
     "short_names": {
       "en": "Fortification",
-      "ja": "Fortification",
-      "ko": "",
+      "ja": "防御施設",
+      "ko": "방어 공사",
       "zh-cn": "防御工事",
       "zh-tw": ""
     }
@@ -10921,8 +11052,8 @@
     ],
     "names": {
       "en": "Modular Computing Station",
-      "ja": "Modular Computing Station",
-      "ko": "",
+      "ja": "モジュラー演算所",
+      "ko": "모듈 연산 시설",
       "zh-cn": "模块演算设施",
       "zh-tw": ""
     },
@@ -10932,8 +11063,8 @@
     ],
     "short_names": {
       "en": "Modular Computing Station",
-      "ja": "Modular Computing Station",
-      "ko": "",
+      "ja": "モジュラー演算所",
+      "ko": "모듈 연산 시설",
       "zh-cn": "模块演算设施",
       "zh-tw": ""
     }
@@ -10946,8 +11077,8 @@
     ],
     "names": {
       "en": "Resource Planning Station",
-      "ja": "Resource Planning Station",
-      "ko": "",
+      "ja": "資源計画所",
+      "ko": "자원 계획 스테이션",
       "zh-cn": "资源规划站",
       "zh-tw": ""
     },
@@ -10957,8 +11088,8 @@
     ],
     "short_names": {
       "en": "Resource Planning Station",
-      "ja": "Resource Planning Station",
-      "ko": "",
+      "ja": "資源計画所",
+      "ko": "자원 계획 스테이션",
       "zh-cn": "资源规划站",
       "zh-tw": ""
     }
@@ -10971,8 +11102,8 @@
     ],
     "names": {
       "en": "Combat Readiness Station",
-      "ja": "Combat Readiness Station",
-      "ko": "",
+      "ja": "戦闘計画所",
+      "ko": "전투 준비 스테이션",
       "zh-cn": "备勤激活站",
       "zh-tw": ""
     },
@@ -10982,8 +11113,8 @@
     ],
     "short_names": {
       "en": "Combat Readiness Station",
-      "ja": "Combat Readiness Station",
-      "ko": "",
+      "ja": "戦闘計画所",
+      "ko": "전투 준비 스테이션",
       "zh-cn": "备勤激活站",
       "zh-tw": ""
     }
@@ -10996,8 +11127,8 @@
     ],
     "names": {
       "en": "Transregional Communication Station",
-      "ja": "Transregional Communication Station",
-      "ko": "",
+      "ja": "越境通信所",
+      "ko": "지역 간 통신기지",
       "zh-cn": "跨地块通讯站",
       "zh-tw": ""
     },
@@ -11007,8 +11138,8 @@
     ],
     "short_names": {
       "en": "Transregional Communication Station",
-      "ja": "Transregional Communication Station",
-      "ko": "",
+      "ja": "越境通信所",
+      "ko": "지역 간 통신기지",
       "zh-cn": "跨地块通讯站",
       "zh-tw": ""
     }
@@ -11022,8 +11153,8 @@
     ],
     "names": {
       "en": "Mint",
-      "ja": "Mint",
-      "ko": "",
+      "ja": "金床",
+      "ko": "작업대",
       "zh-cn": "冶铸台",
       "zh-tw": ""
     },
@@ -11033,8 +11164,8 @@
     ],
     "short_names": {
       "en": "Mint",
-      "ja": "Mint",
-      "ko": "",
+      "ja": "金床",
+      "ko": "작업대",
       "zh-cn": "冶铸台",
       "zh-tw": ""
     }
@@ -11046,8 +11177,8 @@
     ],
     "names": {
       "en": "Premium Harvester Hub",
-      "ja": "Premium Harvester Hub",
-      "ko": "",
+      "ja": "スーパー採取ロボ用基地",
+      "ko": "숙련자용 채집 허브",
       "zh-cn": "采集专员站",
       "zh-tw": ""
     },
@@ -11057,8 +11188,8 @@
     ],
     "short_names": {
       "en": "Premium Harvester Hub",
-      "ja": "Premium Harvester Hub",
-      "ko": "",
+      "ja": "スーパー採取ロボ用基地",
+      "ko": "숙련자용 채집 허브",
       "zh-cn": "采集专员站",
       "zh-tw": ""
     }
@@ -11070,8 +11201,8 @@
     ],
     "names": {
       "en": "Executive Harvester Hub",
-      "ja": "Executive Harvester Hub",
-      "ko": "",
+      "ja": "ハイパー採取ロボ用基地",
+      "ko": "전문가용 채집 허브",
       "zh-cn": "采集主任站",
       "zh-tw": ""
     },
@@ -11081,8 +11212,8 @@
     ],
     "short_names": {
       "en": "Executive Harvester Hub",
-      "ja": "Executive Harvester Hub",
-      "ko": "",
+      "ja": "ハイパー採取ロボ用基地",
+      "ko": "전문가용 채집 허브",
       "zh-cn": "采集主任站",
       "zh-tw": ""
     }
@@ -25343,8 +25474,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "ツノシゲミ",
+      "ko": "혼비스트",
       "zh-cn": "角兽",
       "zh-tw": ""
     },
@@ -25353,8 +25484,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "ツノシゲミ",
+      "ko": "혼비스트",
       "zh-cn": "角兽",
       "zh-tw": ""
     }
@@ -25366,8 +25497,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "ツノシゲミ亜種",
+      "ko": "흥분한 혼비스트",
       "zh-cn": "亢角兽",
       "zh-tw": ""
     },
@@ -25376,8 +25507,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "ツノシゲミ亜種",
+      "ko": "흥분한 혼비스트",
       "zh-cn": "亢角兽",
       "zh-tw": ""
     }
@@ -25389,8 +25520,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "タテガミツキ",
+      "ko": "케라토비스트",
       "zh-cn": "鬣犄兽",
       "zh-tw": ""
     },
@@ -25399,8 +25530,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "タテガミツキ",
+      "ko": "케라토비스트",
       "zh-cn": "鬣犄兽",
       "zh-tw": ""
     }
@@ -25412,8 +25543,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "タテガミツキ亜種",
+      "ko": "송곳니 케라토비스트",
       "zh-cn": "利齿鬣犄兽",
       "zh-tw": ""
     },
@@ -25422,8 +25553,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "タテガミツキ亜種",
+      "ko": "송곳니 케라토비스트",
       "zh-cn": "利齿鬣犄兽",
       "zh-tw": ""
     }
@@ -25435,8 +25566,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "灼熱オリジムシ",
+      "ko": "작열 원석충",
       "zh-cn": "灼热源石虫",
       "zh-tw": ""
     },
@@ -25445,8 +25576,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "灼熱オリジムシ",
+      "ko": "작열 원석충",
       "zh-cn": "灼热源石虫",
       "zh-tw": ""
     }
@@ -25458,8 +25589,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "猛焔オリジムシ",
+      "ko": "폭염 원석충",
       "zh-cn": "炽焰源石虫",
       "zh-tw": ""
     },
@@ -25468,8 +25599,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "猛焔オリジムシ",
+      "ko": "폭염 원석충",
       "zh-cn": "炽焰源石虫",
       "zh-tw": ""
     }
@@ -25481,8 +25612,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "キッコウソウ",
+      "ko": "아머 클로비스트",
       "zh-cn": "硬甲爪兽",
       "zh-tw": ""
     },
@@ -25491,8 +25622,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "キッコウソウ",
+      "ko": "아머 클로비스트",
       "zh-cn": "硬甲爪兽",
       "zh-tw": ""
     }
@@ -25504,8 +25635,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "キッコウソウ亜種",
+      "ko": "아이언 클로비스트",
       "zh-cn": "刚甲爪兽",
       "zh-tw": ""
     },
@@ -25514,8 +25645,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "キッコウソウ亜種",
+      "ko": "아이언 클로비스트",
       "zh-cn": "刚甲爪兽",
       "zh-tw": ""
     }
@@ -25527,8 +25658,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "イワカムリ",
+      "ko": "록 크라운비스트",
       "zh-cn": "岩冠兽",
       "zh-tw": ""
     },
@@ -25537,8 +25668,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "イワカムリ",
+      "ko": "록 크라운비스트",
       "zh-cn": "岩冠兽",
       "zh-tw": ""
     }
@@ -25550,8 +25681,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "イワカムリ亜種",
+      "ko": "하드록 크라운비스트",
       "zh-cn": "坚岩冠兽",
       "zh-tw": ""
     },
@@ -25560,8 +25691,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "イワカムリ亜種",
+      "ko": "하드록 크라운비스트",
       "zh-cn": "坚岩冠兽",
       "zh-tw": ""
     }
@@ -25573,8 +25704,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "カゼツカミ",
+      "ko": "샤프파울비스트",
       "zh-cn": "锋羽兽",
       "zh-tw": ""
     },
@@ -25583,8 +25714,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "カゼツカミ",
+      "ko": "샤프파울비스트",
       "zh-cn": "锋羽兽",
       "zh-tw": ""
     }
@@ -25596,8 +25727,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "カゼツカミ亜種",
+      "ko": "사나운 샤프파울비스트",
       "zh-cn": "迅猛锋羽兽",
       "zh-tw": ""
     },
@@ -25606,8 +25737,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "カゼツカミ亜種",
+      "ko": "사나운 샤프파울비스트",
       "zh-cn": "迅猛锋羽兽",
       "zh-tw": ""
     }
@@ -25619,8 +25750,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "キバタケリ",
+      "ko": "트리케라비스트",
       "zh-cn": "凶豕兽",
       "zh-tw": ""
     },
@@ -25629,8 +25760,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "キバタケリ",
+      "ko": "트리케라비스트",
       "zh-cn": "凶豕兽",
       "zh-tw": ""
     }
@@ -25642,8 +25773,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "猛進キバタケリ",
+      "ko": "와일드 트리케라비스트",
       "zh-cn": "狂暴凶豕兽",
       "zh-tw": ""
     },
@@ -25652,8 +25783,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "猛進キバタケリ",
+      "ko": "와일드 트리케라비스트",
       "zh-cn": "狂暴凶豕兽",
       "zh-tw": ""
     }
@@ -25665,8 +25796,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "トゲアラシ",
+      "ko": "가스토비스트",
       "zh-cn": "棘兽",
       "zh-tw": ""
     },
@@ -25675,8 +25806,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "トゲアラシ",
+      "ko": "가스토비스트",
       "zh-cn": "棘兽",
       "zh-tw": ""
     }
@@ -25688,8 +25819,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "撃烈トゲアラシ",
+      "ko": "화살 가스토비스트",
       "zh-cn": "箭棘兽",
       "zh-tw": ""
     },
@@ -25698,8 +25829,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "撃烈トゲアラシ",
+      "ko": "화살 가스토비스트",
       "zh-cn": "箭棘兽",
       "zh-tw": ""
     }
@@ -25711,8 +25842,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "アクドウジ",
+      "ko": "티라노비스트",
       "zh-cn": "狡兽",
       "zh-tw": ""
     },
@@ -25721,8 +25852,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "アクドウジ",
+      "ko": "티라노비스트",
       "zh-cn": "狡兽",
       "zh-tw": ""
     }
@@ -25734,8 +25865,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "狡虐アクドウジ",
+      "ko": "포악한 티라노비스트",
       "zh-cn": "恶狡兽",
       "zh-tw": ""
     },
@@ -25744,8 +25875,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "狡虐アクドウジ",
+      "ko": "포악한 티라노비스트",
       "zh-cn": "恶狡兽",
       "zh-tw": ""
     }
@@ -27338,6 +27469,374 @@
     }
   },
   {
+    "id": "enemy_1352_eslime",
+    "images": [
+      "enemy_1352_eslime"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "辐能源石虫",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "辐能源石虫",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1352_eslime_2",
+    "images": [
+      "enemy_1352_eslime_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "辐能源石虫·α",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "辐能源石虫·α",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1353_esabr",
+    "images": [
+      "enemy_1353_esabr"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "匪帮混混",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "匪帮混混",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1353_esabr_2",
+    "images": [
+      "enemy_1353_esabr_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "匪帮混混头目",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "匪帮混混头目",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1354_eghost",
+    "images": [
+      "enemy_1354_eghost"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "匪帮窃贼",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "匪帮窃贼",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1354_eghost_2",
+    "images": [
+      "enemy_1354_eghost_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "匪帮窃贼头目",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "匪帮窃贼头目",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1355_mrfly",
+    "images": [
+      "enemy_1355_mrfly"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "护障",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "护障",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1355_mrfly_2",
+    "images": [
+      "enemy_1355_mrfly_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "护障·P",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "护障·P",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1356_egun",
+    "images": [
+      "enemy_1356_egun"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "匪帮射手",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "匪帮射手",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1356_egun_2",
+    "images": [
+      "enemy_1356_egun_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "匪帮射手头目",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "匪帮射手头目",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1357_erob",
+    "images": [
+      "enemy_1357_erob"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "匪帮斧手",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "匪帮斧手",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1357_erob_2",
+    "images": [
+      "enemy_1357_erob_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "匪帮斧手头目",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "匪帮斧手头目",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1358_esheld",
+    "images": [
+      "enemy_1358_esheld"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "匪帮防御者",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "匪帮防御者",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1358_esheld_2",
+    "images": [
+      "enemy_1358_esheld_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "匪帮防御者头目",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "匪帮防御者头目",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1359_ekulsr",
+    "images": [
+      "enemy_1359_ekulsr"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "匪帮轰击者",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "匪帮轰击者",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1359_ekulsr_2",
+    "images": [
+      "enemy_1359_ekulsr_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "匪帮轰击者头目",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "匪帮轰击者头目",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "enemy_1500_skulsr",
     "images": [
       "enemy_1500_skulsr"
@@ -28172,8 +28671,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "リオレウス",
+      "ko": "리오레우스",
       "zh-cn": "火龙",
       "zh-tw": ""
     },
@@ -28182,8 +28681,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "リオレウス",
+      "ko": "리오레우스",
       "zh-cn": "火龙",
       "zh-tw": ""
     }
@@ -28369,6 +28868,29 @@
       "ja": "",
       "ko": "",
       "zh-cn": "多利，“羊之主”",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1546_cliff",
+    "images": [
+      "enemy_1546_cliff"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "“桥夹”克里夫",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "“桥夹”克里夫",
       "zh-tw": ""
     }
   },
@@ -30380,8 +30902,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "部族呪術師",
+      "ko": "부족 주술사",
       "zh-cn": "部族巫术师",
       "zh-tw": ""
     },
@@ -30390,8 +30912,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "部族呪術師",
+      "ko": "부족 주술사",
       "zh-cn": "部族巫术师",
       "zh-tw": ""
     }
@@ -30403,8 +30925,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "首長呪術師",
+      "ko": "아미르 주술사",
       "zh-cn": "王酋巫术师",
       "zh-tw": ""
     },
@@ -30413,8 +30935,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "首長呪術師",
+      "ko": "아미르 주술사",
       "zh-cn": "王酋巫术师",
       "zh-tw": ""
     }
@@ -30426,8 +30948,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "鉱脈の守護者",
+      "ko": "광맥 가디언",
       "zh-cn": "矿脉守卫",
       "zh-tw": ""
     },
@@ -30436,8 +30958,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "鉱脈の守護者",
+      "ko": "광맥 가디언",
       "zh-cn": "矿脉守卫",
       "zh-tw": ""
     }
@@ -30449,8 +30971,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "狂える鉱脈の守護者",
+      "ko": "폭주한 광맥 가디언",
       "zh-cn": "狂化矿脉守卫",
       "zh-tw": ""
     },
@@ -30459,8 +30981,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "狂える鉱脈の守護者",
+      "ko": "폭주한 광맥 가디언",
       "zh-cn": "狂化矿脉守卫",
       "zh-tw": ""
     }
@@ -30472,8 +30994,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "「ブッコワセール」",
+      "ko": "'다 박살낼 수 있어'",
       "zh-cn": "“都可以砸”",
       "zh-tw": ""
     },
@@ -30482,8 +31004,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "「ブッコワセール」",
+      "ko": "'다 박살낼 수 있어'",
       "zh-cn": "“都可以砸”",
       "zh-tw": ""
     }
@@ -30495,8 +31017,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "「ブッツブスーゾ」",
+      "ko": "'다 박살내야만 해'",
       "zh-cn": "“都应该砸”",
       "zh-tw": ""
     },
@@ -30505,8 +31027,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "「ブッツブスーゾ」",
+      "ko": "'다 박살내야만 해'",
       "zh-cn": "“都应该砸”",
       "zh-tw": ""
     }
@@ -30518,8 +31040,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "小角跳獣",
+      "ko": "작은 뿔 점핑 비스트",
       "zh-cn": "小角跳兽",
       "zh-tw": ""
     },
@@ -30528,8 +31050,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "小角跳獣",
+      "ko": "작은 뿔 점핑 비스트",
       "zh-cn": "小角跳兽",
       "zh-tw": ""
     }
@@ -30541,8 +31063,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "大角跳獣",
+      "ko": "큰 뿔 점핑 비스트",
       "zh-cn": "大角跳兽",
       "zh-tw": ""
     },
@@ -30551,8 +31073,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "大角跳獣",
+      "ko": "큰 뿔 점핑 비스트",
       "zh-cn": "大角跳兽",
       "zh-tw": ""
     }
@@ -30564,8 +31086,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "苔生獣",
+      "ko": "이끼 비스트",
       "zh-cn": "苔生兽",
       "zh-tw": ""
     },
@@ -30574,8 +31096,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "苔生獣",
+      "ko": "이끼 비스트",
       "zh-cn": "苔生兽",
       "zh-tw": ""
     }
@@ -30587,8 +31109,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "生い茂る苔生獣",
+      "ko": "무성한 이끼 비스트",
       "zh-cn": "茂密苔生兽",
       "zh-tw": ""
     },
@@ -30597,8 +31119,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "生い茂る苔生獣",
+      "ko": "무성한 이끼 비스트",
       "zh-cn": "茂密苔生兽",
       "zh-tw": ""
     }
@@ -30610,8 +31132,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "ガンセキガニ",
+      "ko": "스톤 크랩",
       "zh-cn": "岩壳蟹",
       "zh-tw": ""
     },
@@ -30620,8 +31142,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "ガンセキガニ",
+      "ko": "스톤 크랩",
       "zh-cn": "岩壳蟹",
       "zh-tw": ""
     }
@@ -30633,8 +31155,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "ケッショウガニ",
+      "ko": "결정화 스톤 크랩",
       "zh-cn": "结晶岩壳蟹",
       "zh-tw": ""
     },
@@ -30643,8 +31165,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "ケッショウガニ",
+      "ko": "결정화 스톤 크랩",
       "zh-cn": "结晶岩壳蟹",
       "zh-tw": ""
     }
@@ -30656,8 +31178,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "金砂晶蹄獣",
+      "ko": "샌드스필 후프비스트",
       "zh-cn": "落沙晶蹄兽",
       "zh-tw": ""
     },
@@ -30666,8 +31188,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "金砂晶蹄獣",
+      "ko": "샌드스필 후프비스트",
       "zh-cn": "落沙晶蹄兽",
       "zh-tw": ""
     }
@@ -30679,8 +31201,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "採取ロボ",
+      "ko": "채집 실습생",
       "zh-cn": "采集实习生",
       "zh-tw": ""
     },
@@ -30689,8 +31211,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "採取ロボ",
+      "ko": "채집 실습생",
       "zh-cn": "采集实习生",
       "zh-tw": ""
     }
@@ -30702,8 +31224,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "「イモータル」",
+      "ko": "'이모탈'",
       "zh-cn": "“不朽之人”",
       "zh-tw": ""
     },
@@ -30712,8 +31234,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "「イモータル」",
+      "ko": "'이모탈'",
       "zh-cn": "“不朽之人”",
       "zh-tw": ""
     }
@@ -30725,8 +31247,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "巨翼獣",
+      "ko": "자이언트 윙",
       "zh-cn": "巨翼兽",
       "zh-tw": ""
     },
@@ -30735,8 +31257,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "巨翼獣",
+      "ko": "자이언트 윙",
       "zh-cn": "巨翼兽",
       "zh-tw": ""
     }
@@ -30748,8 +31270,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "サルゴンの雇われ暗殺者",
+      "ko": "사르곤 계약 자객",
       "zh-cn": "萨尔贡契约刺客",
       "zh-tw": ""
     },
@@ -30758,8 +31280,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "サルゴンの雇われ暗殺者",
+      "ko": "사르곤 계약 자객",
       "zh-cn": "萨尔贡契约刺客",
       "zh-tw": ""
     }
@@ -30771,8 +31293,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "首長軍切り込み隊長",
+      "ko": "저지할 수 없는 돌격 장교",
       "zh-cn": "无阻冲锋官",
       "zh-tw": ""
     },
@@ -30781,8 +31303,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "首長軍切り込み隊長",
+      "ko": "저지할 수 없는 돌격 장교",
       "zh-cn": "无阻冲锋官",
       "zh-tw": ""
     }
@@ -30794,8 +31316,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "「破滅を呼ぶ者」",
+      "ko": "'디스트로이어'",
       "zh-cn": "“召毁者”",
       "zh-tw": ""
     },
@@ -30804,8 +31326,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "「破滅を呼ぶ者」",
+      "ko": "'디스트로이어'",
       "zh-cn": "“召毁者”",
       "zh-tw": ""
     }
@@ -30817,8 +31339,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "「バディ」",
+      "ko": "'파트너'",
       "zh-cn": "“搭档”",
       "zh-tw": ""
     },
@@ -30827,8 +31349,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "「バディ」",
+      "ko": "'파트너'",
       "zh-cn": "“搭档”",
       "zh-tw": ""
     }
@@ -30840,8 +31362,8 @@
     ],
     "names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "「カニキング」",
+      "ko": "'집게돌이'",
       "zh-cn": "“钳钳生风”",
       "zh-tw": ""
     },
@@ -30850,8 +31372,8 @@
     ],
     "short_names": {
       "en": "",
-      "ja": "",
-      "ko": "",
+      "ja": "「カニキング」",
+      "ko": "'집게돌이'",
       "zh-cn": "“钳钳生风”",
       "zh-tw": ""
     }
