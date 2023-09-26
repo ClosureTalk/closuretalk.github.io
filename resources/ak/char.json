@@ -5415,7 +5415,8 @@
     "id": "char_4019_ncdeer",
     "images": [
       "char_4019_ncdeer",
-      "char_4019_ncdeer_2"
+      "char_4019_ncdeer_2",
+      "char_4019_ncdeer_ncdeer#1"
     ],
     "names": {
       "en": "Nine-Colored Deer",
@@ -10274,7 +10275,7 @@
       "trap_100_mhlbmb"
     ],
     "names": {
-      "en": "Originium Barrel Bomb",
+      "en": "High-Energy Originium Barrel Bomb",
       "ja": "源石タル爆弾",
       "ko": "오리지늄 폭약통",
       "zh-cn": "高能源石爆桶",
@@ -10285,7 +10286,7 @@
       ":#type-trap"
     ],
     "short_names": {
-      "en": "Originium Barrel Bomb",
+      "en": "High-Energy Originium Barrel Bomb",
       "ja": "源石タル爆弾",
       "ko": "오리지늄 폭약통",
       "zh-cn": "高能源石爆桶",
@@ -10298,7 +10299,7 @@
       "trap_101_mhshok"
     ],
     "names": {
-      "en": "High-voltage Shock Trap",
+      "en": "High-Voltage Shock Trap",
       "ja": "高電圧シビレ罠",
       "ko": "고압 펄스 트랩",
       "zh-cn": "高压脉冲诡雷",
@@ -10309,7 +10310,7 @@
       ":#type-trap"
     ],
     "short_names": {
-      "en": "High-voltage Shock Trap",
+      "en": "High-Voltage Shock Trap",
       "ja": "高電圧シビレ罠",
       "ko": "고압 펄스 트랩",
       "zh-cn": "高压脉冲诡雷",
@@ -10706,7 +10707,7 @@
       "trap_401_xbfato"
     ],
     "names": {
-      "en": "Basic Harvester Hub",
+      "en": "Basic Gathering Hub",
       "ja": "採取ロボ用基地",
       "ko": "초보자용 채집 허브",
       "zh-cn": "采集实习站",
@@ -10717,7 +10718,7 @@
       ":#type-trap"
     ],
     "short_names": {
-      "en": "Basic Harvester Hub",
+      "en": "Basic Gathering Hub",
       "ja": "採取ロボ用基地",
       "ko": "초보자용 채집 허브",
       "zh-cn": "采集实习站",
@@ -10832,7 +10833,7 @@
       "trap_415_trademan"
     ],
     "names": {
-      "en": "The Liaison",
+      "en": "Liaison",
       "ja": "連絡員",
       "ko": "연락원",
       "zh-cn": "联络员",
@@ -10843,7 +10844,7 @@
       ":#type-trap"
     ],
     "short_names": {
-      "en": "The Liaison",
+      "en": "Liaison",
       "ja": "連絡員",
       "ko": "연락원",
       "zh-cn": "联络员",
@@ -10856,7 +10857,7 @@
       "trap_417_shielder"
     ],
     "names": {
-      "en": "Remote Shield Controller",
+      "en": "Remote Shield Generator",
       "ja": "シールドリモコン",
       "ko": "실드 컨트롤러",
       "zh-cn": "护盾遥控器",
@@ -10867,7 +10868,7 @@
       ":#type-trap"
     ],
     "short_names": {
-      "en": "Remote Shield Controller",
+      "en": "Remote Shield Generator",
       "ja": "シールドリモコン",
       "ko": "실드 컨트롤러",
       "zh-cn": "护盾遥控器",
@@ -10928,7 +10929,7 @@
       "trap_420_umbrella"
     ],
     "names": {
-      "en": "Anti-Recon Camouflage Device",
+      "en": "Camouflage Device",
       "ja": "隠密支援用マシン",
       "ko": "대 정찰 위장 장치",
       "zh-cn": "反侦察藏匿机",
@@ -10939,7 +10940,7 @@
       ":#type-trap"
     ],
     "short_names": {
-      "en": "Anti-Recon Camouflage Device",
+      "en": "Camouflage Device",
       "ja": "隠密支援用マシン",
       "ko": "대 정찰 위장 장치",
       "zh-cn": "反侦察藏匿机",
@@ -11176,7 +11177,7 @@
       "trap_438_xbfato2"
     ],
     "names": {
-      "en": "Premium Harvester Hub",
+      "en": "Advanced Gathering Hub",
       "ja": "スーパー採取ロボ用基地",
       "ko": "숙련자용 채집 허브",
       "zh-cn": "采集专员站",
@@ -11187,7 +11188,7 @@
       ":#type-trap"
     ],
     "short_names": {
-      "en": "Premium Harvester Hub",
+      "en": "Advanced Gathering Hub",
       "ja": "スーパー採取ロボ用基地",
       "ko": "숙련자용 채집 허브",
       "zh-cn": "采集专员站",
@@ -11200,7 +11201,7 @@
       "trap_439_xbfato3"
     ],
     "names": {
-      "en": "Executive Harvester Hub",
+      "en": "Executive Gathering Hub",
       "ja": "ハイパー採取ロボ用基地",
       "ko": "전문가용 채집 허브",
       "zh-cn": "采集主任站",
@@ -11211,7 +11212,7 @@
       ":#type-trap"
     ],
     "short_names": {
-      "en": "Executive Harvester Hub",
+      "en": "Executive Gathering Hub",
       "ja": "ハイパー採取ロボ用基地",
       "ko": "전문가용 채집 허브",
       "zh-cn": "采集主任站",
@@ -25473,7 +25474,7 @@
       "enemy_1303_mhshep"
     ],
     "names": {
-      "en": "",
+      "en": "Hornbeast",
       "ja": "ツノシゲミ",
       "ko": "혼비스트",
       "zh-cn": "角兽",
@@ -25483,7 +25484,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Hornbeast",
       "ja": "ツノシゲミ",
       "ko": "혼비스트",
       "zh-cn": "角兽",
@@ -25496,7 +25497,7 @@
       "enemy_1303_mhshep_2"
     ],
     "names": {
-      "en": "",
+      "en": "Hardy Hornbeast",
       "ja": "ツノシゲミ亜種",
       "ko": "흥분한 혼비스트",
       "zh-cn": "亢角兽",
@@ -25506,7 +25507,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Hardy Hornbeast",
       "ja": "ツノシゲミ亜種",
       "ko": "흥분한 혼비스트",
       "zh-cn": "亢角兽",
@@ -25519,7 +25520,7 @@
       "enemy_1304_mhwolf"
     ],
     "names": {
-      "en": "",
+      "en": "Oxmane",
       "ja": "タテガミツキ",
       "ko": "케라토비스트",
       "zh-cn": "鬣犄兽",
@@ -25529,7 +25530,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Oxmane",
       "ja": "タテガミツキ",
       "ko": "케라토비스트",
       "zh-cn": "鬣犄兽",
@@ -25542,7 +25543,7 @@
       "enemy_1304_mhwolf_2"
     ],
     "names": {
-      "en": "",
+      "en": "Keenfanged Oxmane",
       "ja": "タテガミツキ亜種",
       "ko": "송곳니 케라토비스트",
       "zh-cn": "利齿鬣犄兽",
@@ -25552,7 +25553,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Keenfanged Oxmane",
       "ja": "タテガミツキ亜種",
       "ko": "송곳니 케라토비스트",
       "zh-cn": "利齿鬣犄兽",
@@ -25565,7 +25566,7 @@
       "enemy_1305_mhslim"
     ],
     "names": {
-      "en": "",
+      "en": "Blazing Originium Slug",
       "ja": "灼熱オリジムシ",
       "ko": "작열 원석충",
       "zh-cn": "灼热源石虫",
@@ -25575,7 +25576,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Blazing Originium Slug",
       "ja": "灼熱オリジムシ",
       "ko": "작열 원석충",
       "zh-cn": "灼热源石虫",
@@ -25588,7 +25589,7 @@
       "enemy_1305_mhslim_2"
     ],
     "names": {
-      "en": "",
+      "en": "Pyric Originium Slug",
       "ja": "猛焔オリジムシ",
       "ko": "폭염 원석충",
       "zh-cn": "炽焰源石虫",
@@ -25598,7 +25599,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Pyric Originium Slug",
       "ja": "猛焔オリジムシ",
       "ko": "폭염 원석충",
       "zh-cn": "炽焰源石虫",
@@ -25611,7 +25612,7 @@
       "enemy_1306_mhtrtl"
     ],
     "names": {
-      "en": "",
+      "en": "Chitotex Clawbeast",
       "ja": "キッコウソウ",
       "ko": "아머 클로비스트",
       "zh-cn": "硬甲爪兽",
@@ -25621,7 +25622,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Chitotex Clawbeast",
       "ja": "キッコウソウ",
       "ko": "아머 클로비스트",
       "zh-cn": "硬甲爪兽",
@@ -25634,7 +25635,7 @@
       "enemy_1306_mhtrtl_2"
     ],
     "names": {
-      "en": "",
+      "en": "Keratex Clawbeast",
       "ja": "キッコウソウ亜種",
       "ko": "아이언 클로비스트",
       "zh-cn": "刚甲爪兽",
@@ -25644,7 +25645,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Keratex Clawbeast",
       "ja": "キッコウソウ亜種",
       "ko": "아이언 클로비스트",
       "zh-cn": "刚甲爪兽",
@@ -25657,7 +25658,7 @@
       "enemy_1307_mhrhcr"
     ],
     "names": {
-      "en": "",
+      "en": "Basorobeast",
       "ja": "イワカムリ",
       "ko": "록 크라운비스트",
       "zh-cn": "岩冠兽",
@@ -25667,7 +25668,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Basorobeast",
       "ja": "イワカムリ",
       "ko": "록 크라운비스트",
       "zh-cn": "岩冠兽",
@@ -25680,7 +25681,7 @@
       "enemy_1307_mhrhcr_2"
     ],
     "names": {
-      "en": "",
+      "en": "Gravorobeast",
       "ja": "イワカムリ亜種",
       "ko": "하드록 크라운비스트",
       "zh-cn": "坚岩冠兽",
@@ -25690,7 +25691,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Gravorobeast",
       "ja": "イワカムリ亜種",
       "ko": "하드록 크라운비스트",
       "zh-cn": "坚岩冠兽",
@@ -25703,7 +25704,7 @@
       "enemy_1308_mheagl"
     ],
     "names": {
-      "en": "",
+      "en": "Serrant Fowlbeast",
       "ja": "カゼツカミ",
       "ko": "샤프파울비스트",
       "zh-cn": "锋羽兽",
@@ -25713,7 +25714,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Serrant Fowlbeast",
       "ja": "カゼツカミ",
       "ko": "샤프파울비스트",
       "zh-cn": "锋羽兽",
@@ -25726,7 +25727,7 @@
       "enemy_1308_mheagl_2"
     ],
     "names": {
-      "en": "",
+      "en": "Daimoserrant Fowlbeast",
       "ja": "カゼツカミ亜種",
       "ko": "사나운 샤프파울비스트",
       "zh-cn": "迅猛锋羽兽",
@@ -25736,7 +25737,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Daimoserrant Fowlbeast",
       "ja": "カゼツカミ亜種",
       "ko": "사나운 샤프파울비스트",
       "zh-cn": "迅猛锋羽兽",
@@ -25749,7 +25750,7 @@
       "enemy_1309_mhboar"
     ],
     "names": {
-      "en": "",
+      "en": "Direswine",
       "ja": "キバタケリ",
       "ko": "트리케라비스트",
       "zh-cn": "凶豕兽",
@@ -25759,7 +25760,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Direswine",
       "ja": "キバタケリ",
       "ko": "트리케라비스트",
       "zh-cn": "凶豕兽",
@@ -25772,7 +25773,7 @@
       "enemy_1309_mhboar_2"
     ],
     "names": {
-      "en": "",
+      "en": "Raging Direswine",
       "ja": "猛進キバタケリ",
       "ko": "와일드 트리케라비스트",
       "zh-cn": "狂暴凶豕兽",
@@ -25782,7 +25783,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Raging Direswine",
       "ja": "猛進キバタケリ",
       "ko": "와일드 트리케라비스트",
       "zh-cn": "狂暴凶豕兽",
@@ -25795,7 +25796,7 @@
       "enemy_1310_mhprpn"
     ],
     "names": {
-      "en": "",
+      "en": "Haribeast",
       "ja": "トゲアラシ",
       "ko": "가스토비스트",
       "zh-cn": "棘兽",
@@ -25805,7 +25806,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Haribeast",
       "ja": "トゲアラシ",
       "ko": "가스토비스트",
       "zh-cn": "棘兽",
@@ -25818,7 +25819,7 @@
       "enemy_1310_mhprpn_2"
     ],
     "names": {
-      "en": "",
+      "en": "Rainer Haribeast",
       "ja": "撃烈トゲアラシ",
       "ko": "화살 가스토비스트",
       "zh-cn": "箭棘兽",
@@ -25828,7 +25829,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Rainer Haribeast",
       "ja": "撃烈トゲアラシ",
       "ko": "화살 가스토비스트",
       "zh-cn": "箭棘兽",
@@ -25841,7 +25842,7 @@
       "enemy_1311_mhkryk"
     ],
     "names": {
-      "en": "",
+      "en": "Cautelotaur",
       "ja": "アクドウジ",
       "ko": "티라노비스트",
       "zh-cn": "狡兽",
@@ -25851,7 +25852,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Cautelotaur",
       "ja": "アクドウジ",
       "ko": "티라노비스트",
       "zh-cn": "狡兽",
@@ -25864,7 +25865,7 @@
       "enemy_1311_mhkryk_2"
     ],
     "names": {
-      "en": "",
+      "en": "Kouaku Cautelotaur",
       "ja": "狡虐アクドウジ",
       "ko": "포악한 티라노비스트",
       "zh-cn": "恶狡兽",
@@ -25874,7 +25875,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Kouaku Cautelotaur",
       "ja": "狡虐アクドウジ",
       "ko": "포악한 티라노비스트",
       "zh-cn": "恶狡兽",
@@ -28670,7 +28671,7 @@
       "enemy_1537_mhrors"
     ],
     "names": {
-      "en": "",
+      "en": "Rathalos",
       "ja": "リオレウス",
       "ko": "리오레우스",
       "zh-cn": "火龙",
@@ -28680,7 +28681,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Rathalos",
       "ja": "リオレウス",
       "ko": "리오레우스",
       "zh-cn": "火龙",
@@ -28716,9 +28717,9 @@
       "enemy_1539_reid"
     ],
     "names": {
-      "en": "",
-      "ja": "",
-      "ko": "",
+      "en": "'Hateful Avenger'",
+      "ja": "\"Vendetta\"",
+      "ko": "'어벤져'",
       "zh-cn": "“复仇者”",
       "zh-tw": ""
     },
@@ -28726,9 +28727,9 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
-      "ja": "",
-      "ko": "",
+      "en": "'Hateful Avenger'",
+      "ja": "\"Vendetta\"",
+      "ko": "'어벤져'",
       "zh-cn": "“复仇者”",
       "zh-tw": ""
     }
@@ -30901,7 +30902,7 @@
       "enemy_7001_blwzad"
     ],
     "names": {
-      "en": "",
+      "en": "Tribal Shaman",
       "ja": "部族呪術師",
       "ko": "부족 주술사",
       "zh-cn": "部族巫术师",
@@ -30911,7 +30912,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Tribal Shaman",
       "ja": "部族呪術師",
       "ko": "부족 주술사",
       "zh-cn": "部族巫术师",
@@ -30924,7 +30925,7 @@
       "enemy_7001_blwzad_2"
     ],
     "names": {
-      "en": "",
+      "en": "Lord Ameer Shaman",
       "ja": "首長呪術師",
       "ko": "아미르 주술사",
       "zh-cn": "王酋巫术师",
@@ -30934,7 +30935,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Lord Ameer Shaman",
       "ja": "首長呪術師",
       "ko": "아미르 주술사",
       "zh-cn": "王酋巫术师",
@@ -30947,7 +30948,7 @@
       "enemy_7002_veingd"
     ],
     "names": {
-      "en": "",
+      "en": "Vein Guardian",
       "ja": "鉱脈の守護者",
       "ko": "광맥 가디언",
       "zh-cn": "矿脉守卫",
@@ -30957,7 +30958,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Vein Guardian",
       "ja": "鉱脈の守護者",
       "ko": "광맥 가디언",
       "zh-cn": "矿脉守卫",
@@ -30970,7 +30971,7 @@
       "enemy_7002_veingd_2"
     ],
     "names": {
-      "en": "",
+      "en": "Maddened Vein Guardian",
       "ja": "狂える鉱脈の守護者",
       "ko": "폭주한 광맥 가디언",
       "zh-cn": "狂化矿脉守卫",
@@ -30980,7 +30981,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Maddened Vein Guardian",
       "ja": "狂える鉱脈の守護者",
       "ko": "폭주한 광맥 가디언",
       "zh-cn": "狂化矿脉守卫",
@@ -30993,7 +30994,7 @@
       "enemy_7003_catapt"
     ],
     "names": {
-      "en": "",
+      "en": "'Anything Can Be Broken'",
       "ja": "「ブッコワセール」",
       "ko": "'다 박살낼 수 있어'",
       "zh-cn": "“都可以砸”",
@@ -31003,7 +31004,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "'Anything Can Be Broken'",
       "ja": "「ブッコワセール」",
       "ko": "'다 박살낼 수 있어'",
       "zh-cn": "“都可以砸”",
@@ -31016,7 +31017,7 @@
       "enemy_7003_catapt_2"
     ],
     "names": {
-      "en": "",
+      "en": "'Everything Should Be Smashed'",
       "ja": "「ブッツブスーゾ」",
       "ko": "'다 박살내야만 해'",
       "zh-cn": "“都应该砸”",
@@ -31026,7 +31027,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "'Everything Should Be Smashed'",
       "ja": "「ブッツブスーゾ」",
       "ko": "'다 박살내야만 해'",
       "zh-cn": "“都应该砸”",
@@ -31039,7 +31040,7 @@
       "enemy_7004_xbdeer"
     ],
     "names": {
-      "en": "",
+      "en": "Leporibeast Shorthorn",
       "ja": "小角跳獣",
       "ko": "작은 뿔 점핑 비스트",
       "zh-cn": "小角跳兽",
@@ -31049,7 +31050,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Leporibeast Shorthorn",
       "ja": "小角跳獣",
       "ko": "작은 뿔 점핑 비스트",
       "zh-cn": "小角跳兽",
@@ -31062,7 +31063,7 @@
       "enemy_7004_xbdeer_2"
     ],
     "names": {
-      "en": "",
+      "en": "Leporibeast Longhorn",
       "ja": "大角跳獣",
       "ko": "큰 뿔 점핑 비스트",
       "zh-cn": "大角跳兽",
@@ -31072,7 +31073,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Leporibeast Longhorn",
       "ja": "大角跳獣",
       "ko": "큰 뿔 점핑 비스트",
       "zh-cn": "大角跳兽",
@@ -31085,7 +31086,7 @@
       "enemy_7005_xbbull"
     ],
     "names": {
-      "en": "",
+      "en": "Mossback Beast",
       "ja": "苔生獣",
       "ko": "이끼 비스트",
       "zh-cn": "苔生兽",
@@ -31095,7 +31096,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Mossback Beast",
       "ja": "苔生獣",
       "ko": "이끼 비스트",
       "zh-cn": "苔生兽",
@@ -31108,7 +31109,7 @@
       "enemy_7005_xbbull_2"
     ],
     "names": {
-      "en": "",
+      "en": "Lush Mossback Beast",
       "ja": "生い茂る苔生獣",
       "ko": "무성한 이끼 비스트",
       "zh-cn": "茂密苔生兽",
@@ -31118,7 +31119,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Lush Mossback Beast",
       "ja": "生い茂る苔生獣",
       "ko": "무성한 이끼 비스트",
       "zh-cn": "茂密苔生兽",
@@ -31131,7 +31132,7 @@
       "enemy_7006_xbcrab"
     ],
     "names": {
-      "en": "",
+      "en": "Cragpincer",
       "ja": "ガンセキガニ",
       "ko": "스톤 크랩",
       "zh-cn": "岩壳蟹",
@@ -31141,7 +31142,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Cragpincer",
       "ja": "ガンセキガニ",
       "ko": "스톤 크랩",
       "zh-cn": "岩壳蟹",
@@ -31154,7 +31155,7 @@
       "enemy_7006_xbcrab_2"
     ],
     "names": {
-      "en": "",
+      "en": "Crystalline Cragpincer",
       "ja": "ケッショウガニ",
       "ko": "결정화 스톤 크랩",
       "zh-cn": "结晶岩壳蟹",
@@ -31164,7 +31165,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Crystalline Cragpincer",
       "ja": "ケッショウガニ",
       "ko": "결정화 스톤 크랩",
       "zh-cn": "结晶岩壳蟹",
@@ -31177,7 +31178,7 @@
       "enemy_7007_xbbird"
     ],
     "names": {
-      "en": "",
+      "en": "Sandfall Crystalhoof",
       "ja": "金砂晶蹄獣",
       "ko": "샌드스필 후프비스트",
       "zh-cn": "落沙晶蹄兽",
@@ -31187,7 +31188,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Sandfall Crystalhoof",
       "ja": "金砂晶蹄獣",
       "ko": "샌드스필 후프비스트",
       "zh-cn": "落沙晶蹄兽",
@@ -31200,7 +31201,7 @@
       "enemy_7008_wrkwrk"
     ],
     "names": {
-      "en": "",
+      "en": "Basic Harvester",
       "ja": "採取ロボ",
       "ko": "채집 실습생",
       "zh-cn": "采集实习生",
@@ -31210,7 +31211,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Basic Harvester",
       "ja": "採取ロボ",
       "ko": "채집 실습생",
       "zh-cn": "采集实习生",
@@ -31223,7 +31224,7 @@
       "enemy_7009_mtmoun"
     ],
     "names": {
-      "en": "",
+      "en": "'The Immortal'",
       "ja": "「イモータル」",
       "ko": "'이모탈'",
       "zh-cn": "“不朽之人”",
@@ -31233,7 +31234,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "'The Immortal'",
       "ja": "「イモータル」",
       "ko": "'이모탈'",
       "zh-cn": "“不朽之人”",
@@ -31246,7 +31247,7 @@
       "enemy_7010_bldrgn"
     ],
     "names": {
-      "en": "",
+      "en": "Great Wingbeast",
       "ja": "巨翼獣",
       "ko": "자이언트 윙",
       "zh-cn": "巨翼兽",
@@ -31256,7 +31257,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Great Wingbeast",
       "ja": "巨翼獣",
       "ko": "자이언트 윙",
       "zh-cn": "巨翼兽",
@@ -31269,7 +31270,7 @@
       "enemy_7011_paki"
     ],
     "names": {
-      "en": "",
+      "en": "Sargonian Contract Assassin",
       "ja": "サルゴンの雇われ暗殺者",
       "ko": "사르곤 계약 자객",
       "zh-cn": "萨尔贡契约刺客",
@@ -31279,7 +31280,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Sargonian Contract Assassin",
       "ja": "サルゴンの雇われ暗殺者",
       "ko": "사르곤 계약 자객",
       "zh-cn": "萨尔贡契约刺客",
@@ -31292,7 +31293,7 @@
       "enemy_7012_wilder"
     ],
     "names": {
-      "en": "",
+      "en": "Dauntless Linebreaker",
       "ja": "首長軍切り込み隊長",
       "ko": "저지할 수 없는 돌격 장교",
       "zh-cn": "无阻冲锋官",
@@ -31302,7 +31303,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "Dauntless Linebreaker",
       "ja": "首長軍切り込み隊長",
       "ko": "저지할 수 없는 돌격 장교",
       "zh-cn": "无阻冲锋官",
@@ -31315,7 +31316,7 @@
       "enemy_7013_slwazd"
     ],
     "names": {
-      "en": "",
+      "en": "'The Ruinbringer'",
       "ja": "「破滅を呼ぶ者」",
       "ko": "'디스트로이어'",
       "zh-cn": "“召毁者”",
@@ -31325,7 +31326,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "'The Ruinbringer'",
       "ja": "「破滅を呼ぶ者」",
       "ko": "'디스트로이어'",
       "zh-cn": "“召毁者”",
@@ -31338,7 +31339,7 @@
       "enemy_7014_dva"
     ],
     "names": {
-      "en": "",
+      "en": "'Al-Rafiq'",
       "ja": "「バディ」",
       "ko": "'파트너'",
       "zh-cn": "“搭档”",
@@ -31348,7 +31349,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "'Al-Rafiq'",
       "ja": "「バディ」",
       "ko": "'파트너'",
       "zh-cn": "“搭档”",
@@ -31361,7 +31362,7 @@
       "enemy_7015_xbcrab2"
     ],
     "names": {
-      "en": "",
+      "en": "'Consortium of Pincers'",
       "ja": "「カニキング」",
       "ko": "'집게돌이'",
       "zh-cn": "“钳钳生风”",
@@ -31371,7 +31372,7 @@
       ":#type-enemy"
     ],
     "short_names": {
-      "en": "",
+      "en": "'Consortium of Pincers'",
       "ja": "「カニキング」",
       "ko": "'집게돌이'",
       "zh-cn": "“钳钳生风”",
