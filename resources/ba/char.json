@@ -555,6 +555,27 @@
     }
   },
   {
+    "id": "BlackMarket_Member",
+    "images": [
+      "NP0143"
+    ],
+    "names": {
+      "en": "BlackMarket Member",
+      "ja": "組織員",
+      "ko": "",
+      "zh-cn": "组织成员",
+      "zh-tw": "組織成員"
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Member",
+      "ja": "組織員",
+      "ko": "",
+      "zh-cn": "组织成员",
+      "zh-tw": "組織成員"
+    }
+  },
+  {
     "id": "bunny_girl",
     "images": [
       "BunnyGirl_SR"
@@ -1564,14 +1585,15 @@
   {
     "id": "Ichika",
     "images": [
-      "CH0071"
+      "CH0071",
+      "CH0071_Collection"
     ],
     "names": {
-      "en": "Ichika",
-      "ja": "イチカ",
+      "en": "Nakamasa Ichika",
+      "ja": "仲正 イチカ",
       "ko": "",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "仲正 一花",
+      "zh-tw": "仲正 一花"
     },
     "searches": [
       "justice_task_force",
@@ -1581,8 +1603,8 @@
       "en": "Ichika",
       "ja": "イチカ",
       "ko": "",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "一花",
+      "zh-tw": "一花"
     }
   },
   {
@@ -1993,14 +2015,15 @@
   {
     "id": "Kasumi",
     "images": [
-      "CH0089"
+      "CH0089",
+      "CH0089_Collection"
     ],
     "names": {
-      "en": "Kasumi",
-      "ja": "カスミ",
+      "en": "Kinugawa Kasumi",
+      "ja": "鬼怒川 カスミ",
       "ko": "",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "鬼怒川 霞",
+      "zh-tw": "鬼怒川 霞"
     },
     "searches": [
       "gehenna",
@@ -2010,8 +2033,8 @@
       "en": "Kasumi",
       "ja": "カスミ",
       "ko": "",
-      "zh-cn": "",
-      "zh-tw": ""
+      "zh-cn": "霞",
+      "zh-tw": "霞"
     }
   },
   {
@@ -4577,6 +4600,49 @@
       "ko": "토모에",
       "zh-cn": "巴",
       "zh-tw": "智惠"
+    }
+  },
+  {
+    "id": "train_attendant",
+    "images": [
+      "NP0138",
+      "NP0159"
+    ],
+    "names": {
+      "en": "Train Attendant",
+      "ja": "列車乗務員の生徒",
+      "ko": "",
+      "zh-cn": "列车乘务员",
+      "zh-tw": "列車乘務員"
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Attendant",
+      "ja": "列車乗務員の生徒",
+      "ko": "",
+      "zh-cn": "列车乘务员",
+      "zh-tw": "列車乘務員"
+    }
+  },
+  {
+    "id": "train_maintainer",
+    "images": [
+      "NP0158"
+    ],
+    "names": {
+      "en": "Train Maintainer",
+      "ja": "列車整備工の生徒",
+      "ko": "",
+      "zh-cn": "列车维修工",
+      "zh-tw": "列車維修工"
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Maintainer",
+      "ja": "列車整備工の生徒",
+      "ko": "",
+      "zh-cn": "列车维修工",
+      "zh-tw": "列車維修工"
     }
   },
   {

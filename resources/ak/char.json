@@ -2621,6 +2621,7 @@
     "id": "char_209_ardign",
     "images": [
       "char_209_ardign",
+      "char_209_ardign_epoque#26",
       "char_209_ardign_snow#1"
     ],
     "names": {
@@ -31376,6 +31377,98 @@
       "ja": "「カニキング」",
       "ko": "'집게돌이'",
       "zh-cn": "“钳钳生风”",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_8001_flmlod",
+    "images": [
+      "enemy_8001_flmlod"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "熔戈者，护王余火",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "熔戈者，护王余火",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_8001_flmlod_2",
+    "images": [
+      "enemy_8001_flmlod_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "熔戈者，护王余火",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "熔戈者，护王余火",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_8001_flmlod_3",
+    "images": [
+      "enemy_8001_flmlod_3"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "熔戈者，护王余火",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "熔戈者，护王余火",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_8006_flmgd",
+    "images": [
+      "enemy_8006_flmgd"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "再铸扈从",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "再铸扈从",
       "zh-tw": ""
     }
   }
