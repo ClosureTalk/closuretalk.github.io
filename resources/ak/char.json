@@ -3993,7 +3993,8 @@
     "id": "char_300_phenxi",
     "images": [
       "char_300_phenxi",
-      "char_300_phenxi_2"
+      "char_300_phenxi_2",
+      "char_300_phenxi_witch#4"
     ],
     "names": {
       "en": "Fiammetta",
@@ -5806,7 +5807,8 @@
     "id": "char_4048_doroth",
     "images": [
       "char_4048_doroth",
-      "char_4048_doroth_2"
+      "char_4048_doroth_2",
+      "char_4048_doroth_witch#4"
     ],
     "names": {
       "en": "Dorothy",
@@ -6258,6 +6260,31 @@
     }
   },
   {
+    "id": "char_4088_hodrer",
+    "images": [
+      "char_4088_hodrer",
+      "char_4088_hodrer_2"
+    ],
+    "names": {
+      "en": "Hoederer",
+      "ja": "Hoederer",
+      "ko": "",
+      "zh-cn": "赫德雷",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Hoederer",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Hoederer",
+      "ja": "Hoederer",
+      "ko": "",
+      "zh-cn": "赫德雷",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "char_4091_ulika",
     "images": [
       "char_4091_ulika"
@@ -6402,6 +6429,56 @@
       "ja": "Bryophyta",
       "ko": "",
       "zh-cn": "苍苔",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_4107_vrdant",
+    "images": [
+      "char_4107_vrdant",
+      "char_4107_vrdant_2"
+    ],
+    "names": {
+      "en": "Verdant",
+      "ja": "Verdant",
+      "ko": "",
+      "zh-cn": "维荻",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Verdant",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Verdant",
+      "ja": "Verdant",
+      "ko": "",
+      "zh-cn": "维荻",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_4110_delphn",
+    "images": [
+      "char_4110_delphn",
+      "char_4110_delphn_2"
+    ],
+    "names": {
+      "en": "Delphine",
+      "ja": "Delphine",
+      "ko": "",
+      "zh-cn": "戴菲恩",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Delphine",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Delphine",
+      "ja": "Delphine",
+      "ko": "",
+      "zh-cn": "戴菲恩",
       "zh-tw": ""
     }
   },
@@ -6720,7 +6797,8 @@
     "images": [
       "char_436_whispr",
       "char_436_whispr_2",
-      "char_436_whispr_nian#4"
+      "char_436_whispr_nian#4",
+      "char_436_whispr_witch#4"
     ],
     "names": {
       "en": "Whisperain",
@@ -7420,7 +7498,8 @@
     "images": [
       "char_492_quercu",
       "char_492_quercu_2",
-      "char_492_quercu_epoque#17"
+      "char_492_quercu_epoque#17",
+      "char_492_quercu_witch#4"
     ],
     "names": {
       "en": "Quercus",
@@ -7463,6 +7542,31 @@
       "ja": "ファイヤーホイッスル",
       "ko": "파이어휘슬",
       "zh-cn": "火哨",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_494_vendla",
+    "images": [
+      "char_494_vendla",
+      "char_494_vendla_2"
+    ],
+    "names": {
+      "en": "Vendela",
+      "ja": "Vendela",
+      "ko": "",
+      "zh-cn": "刺玫",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Vendela",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Vendela",
+      "ja": "Vendela",
+      "ko": "",
+      "zh-cn": "刺玫",
       "zh-tw": ""
     }
   },
@@ -8613,7 +8717,8 @@
   {
     "id": "token_10025_doroth_recttp",
     "images": [
-      "token_10025_doroth_recttp"
+      "token_10025_doroth_recttp",
+      "token_10025_doroth_recttp_witch#4"
     ],
     "names": {
       "en": "Resonator",
@@ -10675,6 +10780,78 @@
       "ja": "Waste Heat Spout",
       "ko": "",
       "zh-cn": "废热喷口",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_125_bonore",
+    "images": [
+      "trap_125_bonore"
+    ],
+    "names": {
+      "en": "Bloodconvoker Altar",
+      "ja": "Bloodconvoker Altar",
+      "ko": "",
+      "zh-cn": "唤血祭坛",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Bloodconvoker Altar",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Bloodconvoker Altar",
+      "ja": "Bloodconvoker Altar",
+      "ko": "",
+      "zh-cn": "唤血祭坛",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_126_outset",
+    "images": [
+      "trap_126_outset"
+    ],
+    "names": {
+      "en": "Explosives Loading Point",
+      "ja": "Explosives Loading Point",
+      "ko": "",
+      "zh-cn": "炸弹载荷点",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Explosives Loading Point",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Explosives Loading Point",
+      "ja": "Explosives Loading Point",
+      "ko": "",
+      "zh-cn": "炸弹载荷点",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_127_bldore",
+    "images": [
+      "trap_127_bldore"
+    ],
+    "names": {
+      "en": "Sanguine Throne",
+      "ja": "Sanguine Throne",
+      "ko": "",
+      "zh-cn": "沥血王座",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Sanguine Throne",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Sanguine Throne",
+      "ja": "Sanguine Throne",
+      "ko": "",
+      "zh-cn": "沥血王座",
       "zh-tw": ""
     }
   },
@@ -27839,6 +28016,374 @@
     }
   },
   {
+    "id": "enemy_1360_dfello",
+    "images": [
+      "enemy_1360_dfello"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "新生血裔",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "新生血裔",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1361_dthrow",
+    "images": [
+      "enemy_1361_dthrow"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "萨卡兹子裔轰击者",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "萨卡兹子裔轰击者",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1361_dthrow_2",
+    "images": [
+      "enemy_1361_dthrow_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "萨卡兹子裔毁击者",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "萨卡兹子裔毁击者",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1362_dfat",
+    "images": [
+      "enemy_1362_dfat"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "萨卡兹子裔责罚者",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "萨卡兹子裔责罚者",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1362_dfat_2",
+    "images": [
+      "enemy_1362_dfat_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "萨卡兹子裔惩戒者",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "萨卡兹子裔惩戒者",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1363_spnshd",
+    "images": [
+      "enemy_1363_spnshd"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "萨卡兹骸骨卫士",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "萨卡兹骸骨卫士",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1363_spnshd_2",
+    "images": [
+      "enemy_1363_spnshd_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "萨卡兹骸骨卫士长",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "萨卡兹骸骨卫士长",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1364_spnaxe",
+    "images": [
+      "enemy_1364_spnaxe"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "萨卡兹骸骨鞭笞者",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "萨卡兹骸骨鞭笞者",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1364_spnaxe_2",
+    "images": [
+      "enemy_1364_spnaxe_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "萨卡兹骸骨拷打者",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "萨卡兹骸骨拷打者",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1365_spnwiz",
+    "images": [
+      "enemy_1365_spnwiz"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "萨卡兹骸骨漂泊术师",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "萨卡兹骸骨漂泊术师",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1365_spnwiz_2",
+    "images": [
+      "enemy_1365_spnwiz_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "萨卡兹骸骨漂泊术师长\n",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "萨卡兹骸骨漂泊术师长\n",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1366_dcolle",
+    "images": [
+      "enemy_1366_dcolle"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "萨卡兹敛血行者",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "萨卡兹敛血行者",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1366_dcolle_2",
+    "images": [
+      "enemy_1366_dcolle_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "萨卡兹萃血行者",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "萨卡兹萃血行者",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1367_dseed",
+    "images": [
+      "enemy_1367_dseed"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "血珀",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "血珀",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1368_spilot",
+    "images": [
+      "enemy_1368_spilot"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "指挥官厄尔苏拉",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "指挥官厄尔苏拉",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1369_bmbcar1",
+    "images": [
+      "enemy_1369_bmbcar1"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "反巫术变位炸弹",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "反巫术变位炸弹",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "enemy_1500_skulsr",
     "images": [
       "enemy_1500_skulsr"
@@ -28893,6 +29438,29 @@
       "ja": "",
       "ko": "",
       "zh-cn": "“桥夹”克里夫",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1547_blord",
+    "images": [
+      "enemy_1547_blord"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "杜卡雷，“君主之红”",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "杜卡雷，“君主之红”",
       "zh-tw": ""
     }
   },
