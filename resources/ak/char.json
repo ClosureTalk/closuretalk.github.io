@@ -6695,7 +6695,8 @@
     "id": "char_427_vigil",
     "images": [
       "char_427_vigil",
-      "char_427_vigil_2"
+      "char_427_vigil_2",
+      "char_427_vigil_epoque#27"
     ],
     "names": {
       "en": "Vigil",
@@ -8842,7 +8843,8 @@
   {
     "id": "token_10028_vigil_wolf",
     "images": [
-      "token_10028_vigil_wolf"
+      "token_10028_vigil_wolf",
+      "token_10028_vigil_wolf_epoque#27"
     ],
     "names": {
       "en": "Wolfpack",
@@ -10852,6 +10854,126 @@
       "ja": "Sanguine Throne",
       "ko": "",
       "zh-cn": "沥血王座",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_128_toolore",
+    "images": [
+      "trap_128_toolore"
+    ],
+    "names": {
+      "en": "Altar-type Radar",
+      "ja": "Altar-type Radar",
+      "ko": "",
+      "zh-cn": "祭坛式雷达",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Altar-type Radar",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Altar-type Radar",
+      "ja": "Altar-type Radar",
+      "ko": "",
+      "zh-cn": "祭坛式雷达",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_129_tooltower",
+    "images": [
+      "trap_129_tooltower"
+    ],
+    "names": {
+      "en": "R-45 Portable \"Gramophone\"",
+      "ja": "R-45 Portable \"Gramophone\"",
+      "ko": "",
+      "zh-cn": "R-45便携式“留声机”",
+      "zh-tw": ""
+    },
+    "searches": [
+      "R-45 Portable \"Gramophone\"",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "R-45 Portable \"Gramophone\"",
+      "ja": "R-45 Portable \"Gramophone\"",
+      "ko": "",
+      "zh-cn": "R-45便携式“留声机”",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_130_tooltree",
+    "images": [
+      "trap_130_tooltree"
+    ],
+    "names": {
+      "en": "Ornamental Giant Mushroom",
+      "ja": "Ornamental Giant Mushroom",
+      "ko": "",
+      "zh-cn": "景观巨蕈",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Ornamental Giant Mushroom",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Ornamental Giant Mushroom",
+      "ja": "Ornamental Giant Mushroom",
+      "ko": "",
+      "zh-cn": "景观巨蕈",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_132_toolinvert",
+    "images": [
+      "trap_132_toolinvert"
+    ],
+    "names": {
+      "en": "Two-step Firecracker and Data-collector",
+      "ja": "Two-step Firecracker and Data-collector",
+      "ko": "",
+      "zh-cn": "“二踢脚”型数据收集装置",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Two-step Firecracker and Data-collector",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Two-step Firecracker and Data-collector",
+      "ja": "Two-step Firecracker and Data-collector",
+      "ko": "",
+      "zh-cn": "“二踢脚”型数据收集装置",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_133_toolgarage",
+    "images": [
+      "trap_133_toolgarage"
+    ],
+    "names": {
+      "en": "Recon Self-Driving Cart",
+      "ja": "Recon Self-Driving Cart",
+      "ko": "",
+      "zh-cn": "勘察用自走车",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Recon Self-Driving Cart",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Recon Self-Driving Cart",
+      "ja": "Recon Self-Driving Cart",
+      "ko": "",
+      "zh-cn": "勘察用自走车",
       "zh-tw": ""
     }
   },
