@@ -2815,6 +2815,28 @@
     }
   },
   {
+    "id": "MisakaMikoto",
+    "images": [
+      "CH9998",
+      "CH9998_Collection"
+    ],
+    "names": {
+      "en": "Misaka Mikoto",
+      "ja": "御坂 美琴",
+      "ko": "미사카 미코토",
+      "zh-cn": "御坂 美琴",
+      "zh-tw": "御坂 美琴"
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Mikoto",
+      "ja": "美琴",
+      "ko": "미코토",
+      "zh-cn": "美琴",
+      "zh-tw": "美琴"
+    }
+  },
+  {
     "id": "Misaki",
     "images": [
       "Misaki",
@@ -3870,6 +3892,28 @@
     }
   },
   {
+    "id": "SatenRuiko",
+    "images": [
+      "CH9996",
+      "CH9996_Collection"
+    ],
+    "names": {
+      "en": "Saten Ruiko",
+      "ja": "佐天 涙子",
+      "ko": "사텐 루이코",
+      "zh-cn": "佐天 泪子",
+      "zh-tw": "佐天 淚子"
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Ruiko",
+      "ja": "涙子",
+      "ko": "루이코",
+      "zh-cn": "泪子",
+      "zh-tw": "淚子"
+    }
+  },
+  {
     "id": "Satsuki",
     "images": [
       "CH0080"
@@ -4206,6 +4250,28 @@
       "ko": "시즈코",
       "zh-cn": "静子",
       "zh-tw": "靜子"
+    }
+  },
+  {
+    "id": "ShokuhouMisaki",
+    "images": [
+      "CH9997",
+      "CH9997_Collection"
+    ],
+    "names": {
+      "en": "Shokuhou Misaki",
+      "ja": "食蜂 操祈",
+      "ko": "쇼쿠호 미사키",
+      "zh-cn": "食蜂 操祈",
+      "zh-tw": "食蜂 操祈"
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Misaki",
+      "ja": "操祈",
+      "ko": "미사키",
+      "zh-cn": "操祈",
+      "zh-tw": "操祈"
     }
   },
   {
