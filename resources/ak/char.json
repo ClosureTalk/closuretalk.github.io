@@ -467,7 +467,8 @@
     "id": "char_1028_texas2",
     "images": [
       "char_1028_texas2",
-      "char_1028_texas2_2"
+      "char_1028_texas2_2",
+      "char_1028_texas2_iteration#1"
     ],
     "names": {
       "en": "Texas the Omertosa",
@@ -1087,7 +1088,8 @@
     "images": [
       "char_126_shotst",
       "char_126_shotst_2",
-      "char_126_shotst_epoque#10"
+      "char_126_shotst_epoque#10",
+      "char_126_shotst_epoque#28"
     ],
     "names": {
       "en": "Meteor",
@@ -2880,6 +2882,7 @@
     "images": [
       "char_222_bpipe",
       "char_222_bpipe_2",
+      "char_222_bpipe_epoque#28",
       "char_222_bpipe_race#1"
     ],
     "names": {
@@ -3160,6 +3163,31 @@
       "ja": "ワイフー",
       "ko": "와이후",
       "zh-cn": "槐琥",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_245_cello",
+    "images": [
+      "char_245_cello",
+      "char_245_cello_2"
+    ],
+    "names": {
+      "en": "Virtuosa",
+      "ja": "Virtuosa",
+      "ko": "",
+      "zh-cn": "塑心",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Virtuosa",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Virtuosa",
+      "ja": "Virtuosa",
+      "ko": "",
+      "zh-cn": "塑心",
       "zh-tw": ""
     }
   },
@@ -5286,6 +5314,31 @@
     }
   },
   {
+    "id": "char_4011_lessng",
+    "images": [
+      "char_4011_lessng",
+      "char_4011_lessng_2"
+    ],
+    "names": {
+      "en": "Lessing",
+      "ja": "Lessing",
+      "ko": "",
+      "zh-cn": "止颂",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Lessing",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Lessing",
+      "ja": "Lessing",
+      "ko": "",
+      "zh-cn": "止颂",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "char_4013_kjera",
     "images": [
       "char_4013_kjera",
@@ -5885,7 +5938,8 @@
     "id": "char_405_absin",
     "images": [
       "char_405_absin",
-      "char_405_absin_2"
+      "char_405_absin_2",
+      "char_405_absin_epoque#28"
     ],
     "names": {
       "en": "Absinthe",
@@ -5960,7 +6014,8 @@
     "id": "char_4064_mlynar",
     "images": [
       "char_4064_mlynar",
-      "char_4064_mlynar_2"
+      "char_4064_mlynar_2",
+      "char_4064_mlynar_epoque#28"
     ],
     "names": {
       "en": "Młynar",
@@ -6333,6 +6388,56 @@
     }
   },
   {
+    "id": "char_4098_vvana",
+    "images": [
+      "char_4098_vvana",
+      "char_4098_vvana_2"
+    ],
+    "names": {
+      "en": "Viviana",
+      "ja": "Viviana",
+      "ko": "",
+      "zh-cn": "薇薇安娜",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Viviana",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Viviana",
+      "ja": "Viviana",
+      "ko": "",
+      "zh-cn": "薇薇安娜",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_4100_caper",
+    "images": [
+      "char_4100_caper",
+      "char_4100_caper_2"
+    ],
+    "names": {
+      "en": "Caper",
+      "ja": "Caper",
+      "ko": "",
+      "zh-cn": "跃跃",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Caper",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Caper",
+      "ja": "Caper",
+      "ko": "",
+      "zh-cn": "跃跃",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "char_4102_threye",
     "images": [
       "char_4102_threye",
@@ -6454,6 +6559,31 @@
       "ja": "Verdant",
       "ko": "",
       "zh-cn": "维荻",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_4109_baslin",
+    "images": [
+      "char_4109_baslin",
+      "char_4109_baslin_2"
+    ],
+    "names": {
+      "en": "Bassline",
+      "ja": "Bassline",
+      "ko": "",
+      "zh-cn": "深律",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Bassline",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Bassline",
+      "ja": "Bassline",
+      "ko": "",
+      "zh-cn": "深律",
       "zh-tw": ""
     }
   },
@@ -6747,7 +6877,8 @@
     "id": "char_431_ashlok",
     "images": [
       "char_431_ashlok",
-      "char_431_ashlok_2"
+      "char_431_ashlok_2",
+      "char_431_ashlok_epoque#28"
     ],
     "names": {
       "en": "Ashlock",
@@ -7645,6 +7776,31 @@
       "ja": "Insider",
       "ko": "",
       "zh-cn": "隐现",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "char_499_kaitou",
+    "images": [
+      "char_499_kaitou",
+      "char_499_kaitou_2"
+    ],
+    "names": {
+      "en": "Diamante",
+      "ja": "Diamante",
+      "ko": "",
+      "zh-cn": "折光",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Diamante",
+      ":#type-char"
+    ],
+    "short_names": {
+      "en": "Diamante",
+      "ja": "Diamante",
+      "ko": "",
+      "zh-cn": "折光",
       "zh-tw": ""
     }
   },
@@ -10974,6 +11130,30 @@
       "ja": "Recon Self-Driving Cart",
       "ko": "",
       "zh-cn": "勘察用自走车",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "trap_135_portlent",
+    "images": [
+      "trap_135_portlent"
+    ],
+    "names": {
+      "en": "Locus of Annihilation",
+      "ja": "Locus of Annihilation",
+      "ko": "",
+      "zh-cn": "湮灭之相",
+      "zh-tw": ""
+    },
+    "searches": [
+      "Locus of Annihilation",
+      ":#type-trap"
+    ],
+    "short_names": {
+      "en": "Locus of Annihilation",
+      "ja": "Locus of Annihilation",
+      "ko": "",
+      "zh-cn": "湮灭之相",
       "zh-tw": ""
     }
   },
@@ -28506,6 +28686,420 @@
     }
   },
   {
+    "id": "enemy_1371_ltnflu",
+    "images": [
+      "enemy_1371_ltnflu"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "残党乐团长笛手",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "残党乐团长笛手",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1371_ltnflu_2",
+    "images": [
+      "enemy_1371_ltnflu_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "巫王乐团长笛手",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "巫王乐团长笛手",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1372_ltntpt",
+    "images": [
+      "enemy_1372_ltntpt"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "残党乐团小号手",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "残党乐团小号手",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1372_ltntpt_2",
+    "images": [
+      "enemy_1372_ltntpt_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "巫王乐团小号手",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "巫王乐团小号手",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1373_ltnhor",
+    "images": [
+      "enemy_1373_ltnhor"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "残党乐团圆号手",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "残党乐团圆号手",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1373_ltnhor_2",
+    "images": [
+      "enemy_1373_ltnhor_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "巫王乐团圆号手",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "巫王乐团圆号手",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1374_ltnhap",
+    "images": [
+      "enemy_1374_ltnhap"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "残党乐团颂诗者",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "残党乐团颂诗者",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1374_ltnhap_2",
+    "images": [
+      "enemy_1374_ltnhap_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "巫王乐团颂诗者",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "巫王乐团颂诗者",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1375_ltnclr",
+    "images": [
+      "enemy_1375_ltnclr"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "残党乐团管乐家",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "残党乐团管乐家",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1375_ltnclr_2",
+    "images": [
+      "enemy_1375_ltnclr_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "巫王乐团管乐家",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "巫王乐团管乐家",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1376_ltndru",
+    "images": [
+      "enemy_1376_ltndru"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "残党乐团鼓手",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "残党乐团鼓手",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1376_ltndru_2",
+    "images": [
+      "enemy_1376_ltndru_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "巫王乐团鼓手",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "巫王乐团鼓手",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1377_ltnclo",
+    "images": [
+      "enemy_1377_ltnclo"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "残党乐团大提琴家",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "残党乐团大提琴家",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1377_ltnclo_2",
+    "images": [
+      "enemy_1377_ltnclo_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "巫王乐团大提琴家",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "巫王乐团大提琴家",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1378_ltnmst",
+    "images": [
+      "enemy_1378_ltnmst"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "残党乐团调律师",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "残党乐团调律师",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1378_ltnmst_2",
+    "images": [
+      "enemy_1378_ltnmst_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "巫王乐团调律师",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "巫王乐团调律师",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1379_ltncdt",
+    "images": [
+      "enemy_1379_ltncdt"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "残党乐团指挥家",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "残党乐团指挥家",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1379_ltncdt_2",
+    "images": [
+      "enemy_1379_ltncdt_2"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "巫王乐团指挥家",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "巫王乐团指挥家",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "enemy_1500_skulsr",
     "images": [
       "enemy_1500_skulsr"
@@ -29583,6 +30177,29 @@
       "ja": "",
       "ko": "",
       "zh-cn": "杜卡雷，“君主之红”",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "enemy_1548_ltniak",
+    "images": [
+      "enemy_1548_ltniak"
+    ],
+    "names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "赫尔昏佐伦，“巫王”",
+      "zh-tw": ""
+    },
+    "searches": [
+      ":#type-enemy"
+    ],
+    "short_names": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-cn": "赫尔昏佐伦，“巫王”",
       "zh-tw": ""
     }
   },
