@@ -225,6 +225,27 @@
     }
   },
   {
+    "id": "Arata",
+    "images": [
+      "CH0236"
+    ],
+    "names": {
+      "en": "Arata",
+      "ja": "アラタ",
+      "ko": "",
+      "zh-cn": "新",
+      "zh-tw": "新"
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Arata",
+      "ja": "アラタ",
+      "ko": "",
+      "zh-cn": "新",
+      "zh-tw": "新"
+    }
+  },
+  {
     "id": "arius_student",
     "images": [
       "Arius_GL1"
@@ -1559,6 +1580,29 @@
     }
   },
   {
+    "id": "Hyakkiyako_Club_Member",
+    "images": [
+      "NP0149",
+      "NP0150",
+      "NP0156"
+    ],
+    "names": {
+      "en": "Hyakkiyako Club Member",
+      "ja": "百鬼夜行サークル部員",
+      "ko": "",
+      "zh-cn": "百鬼夜行社团部员",
+      "zh-tw": "百鬼夜行社團部員"
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Member",
+      "ja": "百鬼夜行サークル部員",
+      "ko": "",
+      "zh-cn": "百鬼夜行社团部员",
+      "zh-tw": "百鬼夜行社團部員"
+    }
+  },
+  {
     "id": "Ibuki",
     "images": [
       "Ibuki"
@@ -2111,6 +2155,27 @@
       "ko": "카즈사",
       "zh-cn": "和纱",
       "zh-tw": "千紗"
+    }
+  },
+  {
+    "id": "Kikyou",
+    "images": [
+      "CH0225"
+    ],
+    "names": {
+      "en": "Kiryuu Kikyou",
+      "ja": "桐生 キキョウ",
+      "ko": "",
+      "zh-cn": "桐生 桔梗",
+      "zh-tw": "桐生 桔梗"
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Kikyou",
+      "ja": "キキョウ",
+      "ko": "",
+      "zh-cn": "桔梗",
+      "zh-tw": "桔梗"
     }
   },
   {
@@ -3716,6 +3781,27 @@
     }
   },
   {
+    "id": "Renge",
+    "images": [
+      "CH0224"
+    ],
+    "names": {
+      "en": "Fuwa Renge",
+      "ja": "不破 レンゲ",
+      "ko": "",
+      "zh-cn": "不破 莲华",
+      "zh-tw": "不破 蓮華"
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Renge",
+      "ja": "レンゲ",
+      "ko": "",
+      "zh-cn": "莲华",
+      "zh-tw": "蓮華"
+    }
+  },
+  {
     "id": "Rin",
     "images": [
       "Rin"
@@ -5010,6 +5096,29 @@
       "ko": "요시미",
       "zh-cn": "好美",
       "zh-tw": "喜美"
+    }
+  },
+  {
+    "id": "Yukari",
+    "images": [
+      "CH0161",
+      "CH0161_Collection",
+      "NP0147"
+    ],
+    "names": {
+      "en": "Kadenokouji Yukari",
+      "ja": "勘解由小路 ユカリ",
+      "ko": "카데노코지 유카리",
+      "zh-cn": "勘解由小路 紫",
+      "zh-tw": "勘解由小路 紫"
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Yukari",
+      "ja": "ユカリ",
+      "ko": "유카리",
+      "zh-cn": "紫",
+      "zh-tw": "紫"
     }
   },
   {
