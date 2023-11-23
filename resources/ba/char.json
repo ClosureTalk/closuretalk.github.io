@@ -1065,6 +1065,27 @@
     }
   },
   {
+    "id": "genryou_hyakumonogatari",
+    "images": [
+      "NP0160"
+    ],
+    "names": {
+      "en": "Genryou Hyakumonogatari",
+      "ja": "幻魎百物語",
+      "ko": "",
+      "zh-cn": "幻魉百物语",
+      "zh-tw": "幻魎百物語"
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Hyakumonogatari",
+      "ja": "幻魎百物語",
+      "ko": "",
+      "zh-cn": "幻魉百物语",
+      "zh-tw": "幻魎百物語"
+    }
+  },
+  {
     "id": "genryuumon_student",
     "images": [
       "NP0121"
@@ -2160,7 +2181,8 @@
   {
     "id": "Kikyou",
     "images": [
-      "CH0225"
+      "CH0225",
+      "CH0225_Collection"
     ],
     "names": {
       "en": "Kiryuu Kikyou",
@@ -2299,6 +2321,27 @@
       "ko": "코코나",
       "zh-cn": "心奈",
       "zh-tw": "心菜"
+    }
+  },
+  {
+    "id": "Kokuriko",
+    "images": [
+      "CH0226"
+    ],
+    "names": {
+      "en": "Kokuriko",
+      "ja": "コクリコ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Kokuriko",
+      "ja": "コクリコ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
     }
   },
   {
@@ -3080,6 +3123,27 @@
     }
   },
   {
+    "id": "mubou_katashiro",
+    "images": [
+      "NP0163"
+    ],
+    "names": {
+      "en": "Mubou Katashiro",
+      "ja": "無貌の形代",
+      "ko": "",
+      "zh-cn": "无貌的人偶",
+      "zh-tw": "無貌的人偶"
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Katashiro",
+      "ja": "無貌の形代",
+      "ko": "",
+      "zh-cn": "无貌的人偶",
+      "zh-tw": "無貌的人偶"
+    }
+  },
+  {
     "id": "Mutsuki",
     "images": [
       "Mutsuki",
@@ -3783,7 +3847,8 @@
   {
     "id": "Renge",
     "images": [
-      "CH0224"
+      "CH0224",
+      "CH0224_Collection"
     ],
     "names": {
       "en": "Fuwa Renge",
@@ -4385,6 +4450,27 @@
       "ko": "슌",
       "zh-cn": "瞬",
       "zh-tw": "旬"
+    }
+  },
+  {
+    "id": "Shuro",
+    "images": [
+      "CH0227"
+    ],
+    "names": {
+      "en": "Shuro",
+      "ja": "シュロ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Shuro",
+      "ja": "シュロ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
     }
   },
   {
@@ -5103,7 +5189,8 @@
     "images": [
       "CH0161",
       "CH0161_Collection",
-      "NP0147"
+      "NP0147",
+      "NP0148"
     ],
     "names": {
       "en": "Kadenokouji Yukari",

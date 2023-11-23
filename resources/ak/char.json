@@ -1218,7 +1218,8 @@
     "images": [
       "char_131_flameb",
       "char_131_flameb_2",
-      "char_131_flameb_summer#8"
+      "char_131_flameb_summer#8",
+      "char_131_flameb_whirlwind#6"
     ],
     "names": {
       "en": "Flamebringer",
@@ -4464,7 +4465,8 @@
     "id": "char_341_sntlla",
     "images": [
       "char_341_sntlla",
-      "char_341_sntlla_2"
+      "char_341_sntlla_2",
+      "char_341_sntlla_summer#15"
     ],
     "names": {
       "en": "Santalla",
