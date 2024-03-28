@@ -77,7 +77,8 @@
     "images": [
       "Akari",
       "Akari_Collection",
-      "CH0196"
+      "CH0196",
+      "CH0196_Collection"
     ],
     "names": {
       "en": "Wanibuchi Akari",
@@ -227,7 +228,8 @@
   {
     "id": "Aoi",
     "images": [
-      "NP0032"
+      "NP0032",
+      "NP0032_Collection"
     ],
     "names": {
       "en": "Oki Aoi",
@@ -320,7 +322,9 @@
       "Aru",
       "Aru_Collection",
       "Aru_Newyear",
-      "Aru_Newyear_Collection"
+      "Aru_Newyear_Collection",
+      "CH0240",
+      "CH0240_Collection"
     ],
     "names": {
       "en": "Rikuhachima Aru",
@@ -529,6 +533,27 @@
     }
   },
   {
+    "id": "basement_dweller",
+    "images": [
+      "NP0165"
+    ],
+    "names": {
+      "en": "Basement Dweller",
+      "ja": "地下生活者",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Dweller",
+      "ja": "地下生活者",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "beatrice",
     "images": [
       "NP0029"
@@ -693,6 +718,27 @@
     }
   },
   {
+    "id": "Chiaki",
+    "images": [
+      "CH0238"
+    ],
+    "names": {
+      "en": "Motomiya Chiaki",
+      "ja": "元宮 チアキ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Chiaki",
+      "ja": "チアキ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "Chihiro",
     "images": [
       "CH0160_Collection",
@@ -846,6 +892,27 @@
       "ko": "",
       "zh-cn": "风纪委员",
       "zh-tw": "風紀委員"
+    }
+  },
+  {
+    "id": "don_arancino",
+    "images": [
+      "NP0180"
+    ],
+    "names": {
+      "en": "Don Arancino",
+      "ja": "ドン・アランチーノ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Arancino",
+      "ja": "ドン・アランチーノ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
     }
   },
   {
@@ -1266,6 +1333,8 @@
     "id": "Haruka",
     "images": [
       "CH0087_Collection",
+      "CH0247",
+      "CH0249",
       "Haruka",
       "Haruka_Collection",
       "Haruka_Newyear"
@@ -1504,7 +1573,8 @@
       "Hina_Collection",
       "Hina_Nightware",
       "Hina_Swimsuit",
-      "NP0017"
+      "NP0017",
+      "NP0205"
     ],
     "names": {
       "en": "Sorasaki Hina",
@@ -1603,12 +1673,14 @@
   {
     "id": "Hoshino",
     "images": [
+      "CH0241",
       "Hoshino",
       "Hoshino_Collection",
       "Hoshino_Robber",
       "Hoshino_Robber_Swimsuit",
       "Hoshino_Swimsuit",
-      "Hoshino_Swimsuit_Collection"
+      "Hoshino_Swimsuit_Collection",
+      "NP0167"
     ],
     "names": {
       "en": "Takanashi Hoshino",
@@ -1658,6 +1730,7 @@
   {
     "id": "Ibuki",
     "images": [
+      "CH0254",
       "Ibuki",
       "Ibuki_Collection"
     ],
@@ -1914,6 +1987,7 @@
   {
     "id": "Kaede",
     "images": [
+      "CH0256",
       "Kaede",
       "Kaede_Collection"
     ],
@@ -2162,6 +2236,8 @@
     "id": "Kayoko",
     "images": [
       "CH0086_Collection",
+      "CH0239",
+      "CH0239_Collection",
       "Kayoko",
       "Kayoko_Collection",
       "Kayoko_Newyear",
@@ -2552,6 +2628,27 @@
     }
   },
   {
+    "id": "mafia",
+    "images": [
+      "NP0181"
+    ],
+    "names": {
+      "en": "Mafia",
+      "ja": "マフィア",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Mafia",
+      "ja": "マフィア",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "Mai",
     "images": [
       "Mai"
@@ -2604,7 +2701,8 @@
     "id": "Makoto",
     "images": [
       "CH0079",
-      "CH0079_Collection"
+      "CH0079_Collection",
+      "CH0253"
     ],
     "names": {
       "en": "Hanuma Makoto",
@@ -3183,6 +3281,8 @@
   {
     "id": "Mutsuki",
     "images": [
+      "CH0246",
+      "CH0248",
       "Mutsuki",
       "Mutsuki_Collection",
       "Mutsuki_Newyear",
@@ -3767,6 +3867,7 @@
   {
     "id": "Pina",
     "images": [
+      "CH0257",
       "Pina",
       "Pina_Collection"
     ],
@@ -3792,7 +3893,8 @@
   {
     "id": "Purana",
     "images": [
-      "NP0035"
+      "NP0035",
+      "NP0035_Collection"
     ],
     "names": {
       "en": "Purana",
@@ -3849,6 +3951,27 @@
     "short_names": {
       "en": "Rabu",
       "ja": "ラブ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
+    "id": "Rei",
+    "images": [
+      "CH0245"
+    ],
+    "names": {
+      "en": "Nomasa Rei",
+      "ja": "野正 レイ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Rei",
+      "ja": "レイ",
       "ko": "",
       "zh-cn": "",
       "zh-tw": ""
@@ -3922,6 +4045,27 @@
       "ko": "",
       "zh-cn": "莲华",
       "zh-tw": "蓮華"
+    }
+  },
+  {
+    "id": "rickshaw_student",
+    "images": [
+      "NP0182"
+    ],
+    "names": {
+      "en": "Rickshaw Student",
+      "ja": "人力車の生徒",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Student",
+      "ja": "人力車の生徒",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
     }
   },
   {
@@ -4076,8 +4220,10 @@
   {
     "id": "Saori",
     "images": [
+      "CH0259",
       "NP0012",
       "NP0103",
+      "NP0164",
       "Saori",
       "Saori_Collection"
     ],
@@ -4990,6 +5136,8 @@
   {
     "id": "Tsubaki",
     "images": [
+      "CH0255",
+      "CH0255_Collection",
       "Tsubaki",
       "Tsubaki_Collection"
     ],
@@ -5094,11 +5242,12 @@
   {
     "id": "Umika",
     "images": [
-      "CH0110"
+      "CH0110",
+      "CH0110_Collection"
     ],
     "names": {
-      "en": "Umika",
-      "ja": "ウミカ",
+      "en": "Satohama Umika",
+      "ja": "里浜 ウミカ",
       "ko": "",
       "zh-cn": "",
       "zh-tw": ""
@@ -5309,6 +5458,28 @@
       "ko": "",
       "zh-cn": "雪乃",
       "zh-tw": "雪乃"
+    }
+  },
+  {
+    "id": "Yume",
+    "images": [
+      "CH0157",
+      "NP0166"
+    ],
+    "names": {
+      "en": "Yume",
+      "ja": "ユメ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Yume",
+      "ja": "ユメ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
     }
   },
   {
