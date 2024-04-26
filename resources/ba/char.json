@@ -24,7 +24,10 @@
     "id": "Airi",
     "images": [
       "Airi",
-      "Airi_Collection"
+      "Airi_Collection",
+      "CH0251",
+      "CH0251_Collection",
+      "NP0189"
     ],
     "names": {
       "en": "Kurimura Airi",
@@ -1536,6 +1539,27 @@
     }
   },
   {
+    "id": "Hikari",
+    "images": [
+      "CH0242"
+    ],
+    "names": {
+      "en": "Tachibana Hikari",
+      "ja": "橘 ヒカリ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Hikari",
+      "ja": "ヒカリ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "Himari",
     "images": [
       "CH0159",
@@ -1680,7 +1704,9 @@
       "Hoshino_Robber_Swimsuit",
       "Hoshino_Swimsuit",
       "Hoshino_Swimsuit_Collection",
-      "NP0167"
+      "NP0167",
+      "NP0173",
+      "NP0204"
     ],
     "names": {
       "en": "Takanashi Hoshino",
@@ -2265,8 +2291,11 @@
   {
     "id": "Kazusa",
     "images": [
+      "CH0250",
+      "CH0250_Collection",
       "Kazusa",
-      "Kazusa_Collection"
+      "Kazusa_Collection",
+      "NP0188"
     ],
     "names": {
       "en": "Kyouyama Kazusa",
@@ -3382,6 +3411,8 @@
     "id": "Natsu",
     "images": [
       "CH0155_Collection",
+      "CH0221",
+      "NP0190",
       "Natsu"
     ],
     "names": {
@@ -3534,6 +3565,7 @@
     "id": "Nonomi",
     "images": [
       "CH0092_Collection",
+      "NP0171",
       "Nonomi",
       "Nonomi_Collection",
       "Nonomi_Robber",
@@ -3558,6 +3590,27 @@
       "ko": "노노미",
       "zh-cn": "野宫",
       "zh-tw": "野乃美"
+    }
+  },
+  {
+    "id": "Nozomi",
+    "images": [
+      "CH0243"
+    ],
+    "names": {
+      "en": "Tachibana Nozomi",
+      "ja": "橘 ノゾミ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Nozomi",
+      "ja": "ノゾミ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
     }
   },
   {
@@ -4917,6 +4970,27 @@
     }
   },
   {
+    "id": "Suou",
+    "images": [
+      "CH0244"
+    ],
+    "names": {
+      "en": "Asagiri Suou",
+      "ja": "朝霧 スオウ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Suou",
+      "ja": "スオウ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "suzume_lady",
     "images": [
       "NP0086",
@@ -5186,6 +5260,27 @@
     }
   },
   {
+    "id": "Tsumugi",
+    "images": [
+      "CH0252"
+    ],
+    "names": {
+      "en": "Shiina Tsumugi",
+      "ja": "椎名 ツムギ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Tsumugi",
+      "ja": "ツムギ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "Tsurugi",
     "images": [
       "CH0060_Collection",
@@ -5390,6 +5485,9 @@
   {
     "id": "Yoshimi",
     "images": [
+      "CH0220",
+      "CH0220_Collection",
+      "NP0187",
       "Yoshimi",
       "Yoshimi_Collection"
     ],
