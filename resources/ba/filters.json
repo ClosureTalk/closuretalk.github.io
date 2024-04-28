@@ -10,6 +10,9 @@
       false,
       false,
       false,
+      false,
+      false,
+      false,
       false
     ],
     "filter_names": [
@@ -35,11 +38,32 @@
         "zh-tw": "格黑娜學園"
       },
       {
+        "en": "General Student Council",
+        "ja": "連邦生徒会",
+        "ko": "",
+        "zh-cn": "联邦学生会",
+        "zh-tw": "聯邦學生會"
+      },
+      {
+        "en": "Hilander Railroad Academy",
+        "ja": "ハイランダー鉄道学園",
+        "ko": "",
+        "zh-cn": "高地铁道学园",
+        "zh-tw": "高地鐵道學園"
+      },
+      {
         "en": "Allied Hyakkiyako Academy",
         "ja": "百鬼夜行連合学院",
         "ko": "백귀야행 연합학원",
         "zh-cn": "百鬼夜行联合学园",
         "zh-tw": "百鬼夜行聯合學園"
+      },
+      {
+        "en": "Kronos School of Journalism",
+        "ja": "クロノスジャーナリズムスクール",
+        "ko": "",
+        "zh-cn": "克洛诺斯新闻学院",
+        "zh-tw": "克洛諾斯新聞學院"
       },
       {
         "en": "Millennium Science Academy",
@@ -88,7 +112,10 @@
       "abydos",
       "arius",
       "gehenna",
+      "general_student_council",
+      "hilander",
       "hyakkiyako",
+      "kronos",
       "millennium",
       "red_winter",
       "shanhaijing",
@@ -107,6 +134,19 @@
   },
   {
     "active": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
       false,
       false,
       false,
@@ -167,6 +207,20 @@
         "ko": "아리우스 스쿼드",
         "zh-cn": "阿里乌斯小队",
         "zh-tw": "奧利斯小隊"
+      },
+      {
+        "en": "CCC",
+        "ja": "CCC",
+        "ko": "CCC",
+        "zh-cn": "CCC",
+        "zh-tw": "CCC"
+      },
+      {
+        "en": "Chinese Alchemy Study Club",
+        "ja": "錬丹術研究会",
+        "ko": "",
+        "zh-cn": "炼丹研究会",
+        "zh-tw": "煉丹研究會"
       },
       {
         "en": "Cleaning & Clearing",
@@ -232,11 +286,32 @@
         "zh-tw": "遊戲開發部"
       },
       {
+        "en": "Go Home Club",
+        "ja": "帰宅部",
+        "ko": "",
+        "zh-cn": "回家部",
+        "zh-tw": "回家部"
+      },
+      {
         "en": "Gourmet Research Society",
         "ja": "美食研究会",
         "ko": "미식연구회",
         "zh-cn": "美食研究会",
         "zh-tw": "美食研究會"
+      },
+      {
+        "en": "Gym Training Department",
+        "ja": "トレーニング部",
+        "ko": "",
+        "zh-cn": "健身部",
+        "zh-tw": "健身部"
+      },
+      {
+        "en": "Hyakkaryouran Conflict Resolution Council",
+        "ja": "百花繚乱紛争調停委員会",
+        "ko": "",
+        "zh-cn": "百花缭乱纷争调停委员会",
+        "zh-tw": "百花繚亂紛爭調停委員會"
       },
       {
         "en": "Inner Discipline Club",
@@ -251,6 +326,13 @@
         "ko": "정의실현부",
         "zh-cn": "正义实现委员会",
         "zh-tw": "實現正義部"
+      },
+      {
+        "en": "Knowledge Liberation Front",
+        "ja": "知識解放戦線",
+        "ko": "",
+        "zh-cn": "知识解放战线",
+        "zh-tw": "知識解放戰線"
       },
       {
         "en": "Library Committee",
@@ -274,11 +356,25 @@
         "zh-tw": "蒙面泳裝團"
       },
       {
+        "en": "Nature's Beauty Club",
+        "ja": "花鳥風月部",
+        "ko": "",
+        "zh-cn": "花鸟风月部",
+        "zh-tw": "花鳥風月部"
+      },
+      {
         "en": "Future Students?",
         "ja": "新キャラ？",
         "ko": "",
         "zh-cn": "新学生？",
         "zh-tw": "新學生？"
+      },
+      {
+        "en": "News Club",
+        "ja": "報道部",
+        "ko": "",
+        "zh-cn": "新闻部",
+        "zh-tw": "新聞部"
       },
       {
         "en": "Ninjutsu Research Department",
@@ -330,6 +426,20 @@
         "zh-tw": "便利屋68"
       },
       {
+        "en": "Public Works Department",
+        "ja": "工務部",
+        "ko": "",
+        "zh-cn": "工务部",
+        "zh-tw": "工務部"
+      },
+      {
+        "en": "Publishing Department",
+        "ja": "出版部",
+        "ko": "",
+        "zh-cn": "出版部",
+        "zh-tw": "出版部"
+      },
+      {
         "en": "RABBIT Platoon",
         "ja": "RABBIT小隊",
         "ko": "RABBIT 소대",
@@ -379,6 +489,13 @@
         "zh-tw": "227特別班"
       },
       {
+        "en": "Street Ghost Troupe",
+        "ja": "魑魅一座",
+        "ko": "",
+        "zh-cn": "魑魅一座",
+        "zh-tw": "魑魅一座"
+      },
+      {
         "en": "Super Phenomenon Task Force",
         "ja": "特異現象特務部",
         "ko": "초현상특무부",
@@ -407,6 +524,20 @@
         "zh-tw": "三一自衛隊"
       },
       {
+        "en": "Xuanlong Office",
+        "ja": "玄龍門",
+        "ko": "",
+        "zh-cn": "玄龙门",
+        "zh-tw": "玄龍門"
+      },
+      {
+        "en": "Xuanwu Merchant Association",
+        "ja": "玄武商会",
+        "ko": "",
+        "zh-cn": "玄武商会",
+        "zh-tw": "玄武商會"
+      },
+      {
         "en": "Yin-Yang Club",
         "ja": "陰陽部",
         "ko": "음양부",
@@ -418,6 +549,8 @@
       "after_school_sweets_club",
       "angel_24",
       "arius_squad",
+      "ccc",
+      "chinese_alchemy_study_club",
       "cleaning_and_clearing",
       "community_safety_bureau",
       "countermeasures_council",
@@ -427,13 +560,19 @@
       "festival_operations_department",
       "fox_platoon",
       "game_development_department",
+      "go_home_club",
       "gourmet_research_society",
+      "gym_training_department",
+      "hyakkaryouran_conflict_resolution_council",
       "inner_discipline_club",
       "justice_task_force",
+      "knowledge_libration_front",
       "library_committee",
       "makeup_work_club",
       "masked_swimsuit_group",
+      "nature_beauty_club",
       "new_students",
+      "news_club",
       "ninjutsu_research_department",
       "npc",
       "onsen_development_club",
@@ -441,6 +580,8 @@
       "plum_blossom_garden",
       "prime_student_council",
       "problem_solver_68",
+      "public_works_department",
+      "publishing_department",
       "rabbit_platoon",
       "red_winter_secretariat",
       "remedial_knights",
@@ -448,10 +589,13 @@
       "seminar",
       "sisterhood",
       "special_class_no.227",
+      "street_ghost_troupe",
       "super_phenomenon_task_force",
       "tea_party",
       "veritas",
       "vigilante_crew",
+      "xuanlong_office",
+      "xuanwu_merchant_association",
       "yin_yang_club"
     ],
     "group_key": "clubs",

@@ -242,6 +242,7 @@
       "zh-tw": "扇喜 葵"
     },
     "searches": [
+      "general_student_council",
       "prime_student_council"
     ],
     "short_names": {
@@ -264,7 +265,10 @@
       "zh-cn": "新",
       "zh-tw": "新"
     },
-    "searches": [],
+    "searches": [
+      "hyakkiyako",
+      "street_ghost_troupe"
+    ],
     "short_names": {
       "en": "Arata",
       "ja": "アラタ",
@@ -474,6 +478,7 @@
       "zh-tw": "岩櫃 步夢"
     },
     "searches": [
+      "general_student_council",
       "prime_student_council"
     ],
     "short_names": {
@@ -732,7 +737,10 @@
       "zh-cn": "",
       "zh-tw": ""
     },
-    "searches": [],
+    "searches": [
+      "gehenna",
+      "pandemonium_society"
+    ],
     "short_names": {
       "en": "Chiaki",
       "ja": "チアキ",
@@ -1027,7 +1035,8 @@
       "zh-tw": ""
     },
     "searches": [
-      "gehenna"
+      "gehenna",
+      "go_home_club"
     ],
     "short_names": {
       "en": "Erika",
@@ -1239,7 +1248,8 @@
       "zh-tw": ""
     },
     "searches": [
-      "countermeasures_council"
+      "countermeasures_council",
+      "general_student_council"
     ],
     "short_names": {
       "en": "Haine",
@@ -1550,7 +1560,10 @@
       "zh-cn": "",
       "zh-tw": ""
     },
-    "searches": [],
+    "searches": [
+      "ccc",
+      "hilander"
+    ],
     "short_names": {
       "en": "Hikari",
       "ja": "ヒカリ",
@@ -2248,6 +2261,7 @@
       "zh-tw": "不知火 香耶"
     },
     "searches": [
+      "general_student_council",
       "prime_student_council"
     ],
     "short_names": {
@@ -2329,7 +2343,10 @@
       "zh-cn": "桐生 桔梗",
       "zh-tw": "桐生 桔梗"
     },
-    "searches": [],
+    "searches": [
+      "hyakkaryouran_conflict_resolution_council",
+      "hyakkiyako"
+    ],
     "short_names": {
       "en": "Kikyou",
       "ja": "キキョウ",
@@ -2351,7 +2368,8 @@
       "zh-tw": ""
     },
     "searches": [
-      "gehenna"
+      "gehenna",
+      "go_home_club"
     ],
     "short_names": {
       "en": "Kirara",
@@ -2399,7 +2417,8 @@
       "zh-tw": "龍華 妃咲"
     },
     "searches": [
-      "shanhaijing"
+      "shanhaijing",
+      "xuanlong_office"
     ],
     "short_names": {
       "en": "Kisaki",
@@ -2473,7 +2492,10 @@
       "zh-cn": "",
       "zh-tw": ""
     },
-    "searches": [],
+    "searches": [
+      "hyakkiyako",
+      "nature_beauty_club"
+    ],
     "short_names": {
       "en": "Kokuriko",
       "ja": "コクリコ",
@@ -2690,7 +2712,8 @@
       "zh-tw": ""
     },
     "searches": [
-      "new_students"
+      "kronos",
+      "news_club"
     ],
     "short_names": {
       "en": "Mai",
@@ -2871,6 +2894,7 @@
       "zh-tw": "姬木 愛瑠"
     },
     "searches": [
+      "knowledge_libration_front",
       "red_winter"
     ],
     "short_names": {
@@ -3026,7 +3050,8 @@
       "zh-tw": "近衛 彌奈"
     },
     "searches": [
-      "shanhaijing"
+      "shanhaijing",
+      "xuanlong_office"
     ],
     "short_names": {
       "en": "Mina",
@@ -3076,6 +3101,7 @@
       "zh-tw": "安守 實里"
     },
     "searches": [
+      "public_works_department",
       "red_winter"
     ],
     "short_names": {
@@ -3227,6 +3253,7 @@
       "zh-tw": "秋泉 紅葉"
     },
     "searches": [
+      "knowledge_libration_front",
       "red_winter"
     ],
     "short_names": {
@@ -3276,6 +3303,7 @@
       "zh-tw": "由良木 桃香"
     },
     "searches": [
+      "general_student_council",
       "prime_student_council"
     ],
     "short_names": {
@@ -3374,6 +3402,7 @@
       "zh-tw": ""
     },
     "searches": [
+      "hyakkaryouran_conflict_resolution_council",
       "hyakkiyako"
     ],
     "short_names": {
@@ -3604,7 +3633,10 @@
       "zh-cn": "",
       "zh-tw": ""
     },
-    "searches": [],
+    "searches": [
+      "ccc",
+      "hilander"
+    ],
     "short_names": {
       "en": "Nozomi",
       "ja": "ノゾミ",
@@ -4021,7 +4053,10 @@
       "zh-cn": "",
       "zh-tw": ""
     },
-    "searches": [],
+    "searches": [
+      "gym_training_department",
+      "millennium"
+    ],
     "short_names": {
       "en": "Rei",
       "ja": "レイ",
@@ -4043,7 +4078,8 @@
       "zh-tw": "鹿山 麗情"
     },
     "searches": [
-      "shanhaijing"
+      "shanhaijing",
+      "xuanwu_merchant_association"
     ],
     "short_names": {
       "en": "Reijo",
@@ -4091,7 +4127,10 @@
       "zh-cn": "不破 莲华",
       "zh-tw": "不破 蓮華"
     },
-    "searches": [],
+    "searches": [
+      "hyakkaryouran_conflict_resolution_council",
+      "hyakkiyako"
+    ],
     "short_names": {
       "en": "Renge",
       "ja": "レンゲ",
@@ -4112,7 +4151,9 @@
       "zh-cn": "",
       "zh-tw": ""
     },
-    "searches": [],
+    "searches": [
+      "hyakkiyako"
+    ],
     "short_names": {
       "en": "Rickshaw Student",
       "ja": "人力車の生徒",
@@ -4134,6 +4175,7 @@
       "zh-tw": "七神 琳"
     },
     "searches": [
+      "general_student_council",
       "prime_student_council"
     ],
     "short_names": {
@@ -4207,7 +4249,8 @@
       "zh-tw": "朱城 瑠美"
     },
     "searches": [
-      "shanhaijing"
+      "shanhaijing",
+      "xuanwu_merchant_association"
     ],
     "short_names": {
       "en": "Rumi",
@@ -4334,7 +4377,8 @@
       "zh-tw": ""
     },
     "searches": [
-      "gehenna"
+      "gehenna",
+      "pandemonium_society"
     ],
     "short_names": {
       "en": "Satsuki",
@@ -4360,6 +4404,7 @@
       "zh-tw": "薬子 沙耶"
     },
     "searches": [
+      "chinese_alchemy_study_club",
       "shanhaijing"
     ],
     "short_names": {
@@ -4565,7 +4610,8 @@
       "zh-tw": ""
     },
     "searches": [
-      "new_students"
+      "kronos",
+      "news_club"
     ],
     "short_names": {
       "en": "Shinon",
@@ -4721,7 +4767,10 @@
       "zh-cn": "",
       "zh-tw": ""
     },
-    "searches": [],
+    "searches": [
+      "hyakkiyako",
+      "nature_beauty_club"
+    ],
     "short_names": {
       "en": "Shuro",
       "ja": "シュロ",
@@ -4837,6 +4886,7 @@
       "zh-tw": "聯邦學生會長"
     },
     "searches": [
+      "general_student_council",
       "prime_student_council"
     ],
     "short_names": {
@@ -4936,6 +4986,7 @@
       "zh-tw": "乙花 堇"
     },
     "searches": [
+      "gym_training_department",
       "millennium"
     ],
     "short_names": {
@@ -4959,7 +5010,8 @@
       "zh-tw": ""
     },
     "searches": [
-      "countermeasures_council"
+      "countermeasures_council",
+      "general_student_council"
     ],
     "short_names": {
       "en": "Sumomo",
@@ -4981,7 +5033,10 @@
       "zh-cn": "",
       "zh-tw": ""
     },
-    "searches": [],
+    "searches": [
+      "ccc",
+      "hilander"
+    ],
     "short_names": {
       "en": "Suou",
       "ja": "スオウ",
@@ -5051,7 +5106,10 @@
       "zh-cn": "三善 贵音",
       "zh-tw": "三善 貴音"
     },
-    "searches": [],
+    "searches": [
+      "publishing_department",
+      "red_winter"
+    ],
     "short_names": {
       "en": "Takane",
       "ja": "タカネ",
@@ -5348,6 +5406,7 @@
       "zh-tw": ""
     },
     "searches": [
+      "festival_operations_department",
       "hyakkiyako"
     ],
     "short_names": {
@@ -5449,7 +5508,10 @@
       "zh-cn": "荒槙 八云",
       "zh-tw": "荒槙 八云"
     },
-    "searches": [],
+    "searches": [
+      "publishing_department",
+      "red_winter"
+    ],
     "short_names": {
       "en": "Yakumo",
       "ja": "ヤクモ",
@@ -5525,7 +5587,10 @@
       "zh-cn": "勘解由小路 紫",
       "zh-tw": "勘解由小路 紫"
     },
-    "searches": [],
+    "searches": [
+      "hyakkaryouran_conflict_resolution_council",
+      "hyakkiyako"
+    ],
     "short_names": {
       "en": "Yukari",
       "ja": "ユカリ",
@@ -5571,7 +5636,9 @@
       "zh-cn": "栀子 梦",
       "zh-tw": "栀子 梦"
     },
-    "searches": [],
+    "searches": [
+      "abydos"
+    ],
     "short_names": {
       "en": "Yume",
       "ja": "ユメ",
