@@ -421,7 +421,8 @@
       "Ayane",
       "Ayane_Robber",
       "Ayane_Robber_Swimsuit",
-      "NP0108"
+      "NP0108",
+      "NP0174"
     ],
     "names": {
       "en": "Okusora Ayane",
@@ -1018,6 +1019,7 @@
   {
     "id": "Fubuki",
     "images": [
+      "CH0261",
       "Fubuki"
     ],
     "names": {
@@ -1653,6 +1655,7 @@
     "id": "Hoshino",
     "images": [
       "CH0241",
+      "CH0258",
       "Hoshino",
       "Hoshino_Robber",
       "Hoshino_Robber_Swimsuit",
@@ -2099,6 +2102,7 @@
   {
     "id": "Kanna",
     "images": [
+      "CH0260",
       "Kanna",
       "NP0105"
     ],
@@ -2298,6 +2302,7 @@
   {
     "id": "Kirino",
     "images": [
+      "CH0262",
       "Kirino"
     ],
     "names": {
@@ -3466,6 +3471,8 @@
     "id": "Nonomi",
     "images": [
       "NP0171",
+      "NP0176",
+      "NP0195",
       "Nonomi",
       "Nonomi_Robber",
       "Nonomi_Robber_Swimsuit",
@@ -3891,6 +3898,7 @@
   {
     "id": "Rabu",
     "images": [
+      "CH0279",
       "Rabu"
     ],
     "names": {
@@ -4324,6 +4332,7 @@
   {
     "id": "Serika",
     "images": [
+      "NP0175",
       "Serika",
       "Serika_Newyear",
       "Serika_Robber",
@@ -4500,6 +4509,7 @@
       "CH0199",
       "NP0124",
       "NP0125",
+      "NP0172",
       "Shiroko",
       "Shiroko_Ridingsuit",
       "Shiroko_Robber",
@@ -4864,7 +4874,9 @@
   {
     "id": "Suou",
     "images": [
-      "CH0244"
+      "CH0244",
+      "NP0177",
+      "NP0178"
     ],
     "names": {
       "en": "Asagiri Suou",
