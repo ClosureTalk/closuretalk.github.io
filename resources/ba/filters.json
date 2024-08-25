@@ -184,6 +184,7 @@
       false,
       false,
       false,
+      false,
       false
     ],
     "filter_names": [
@@ -319,6 +320,13 @@
         "ko": "수행부",
         "zh-cn": "修行部",
         "zh-tw": "執行部"
+      },
+      {
+        "en": "Peking Opera Club",
+        "ja": "京劇部",
+        "ko": "",
+        "zh-cn": "京剧部",
+        "zh-tw": "京劇部"
       },
       {
         "en": "Justice Task Force",
@@ -565,6 +573,7 @@
       "gym_training_department",
       "hyakkaryouran_conflict_resolution_council",
       "inner_discipline_club",
+      "jingju_club",
       "justice_task_force",
       "knowledge_libration_front",
       "library_committee",

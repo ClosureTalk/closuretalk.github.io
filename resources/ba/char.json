@@ -97,6 +97,29 @@
     }
   },
   {
+    "id": "Akemi",
+    "images": [
+      "CH0265"
+    ],
+    "names": {
+      "en": "Kurihama Akemi",
+      "ja": "栗浜 アケミ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "new_students"
+    ],
+    "short_names": {
+      "en": "Akemi",
+      "ja": "アケミ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "Akira",
     "images": [
       "CH0212"
@@ -368,6 +391,7 @@
     "images": [
       "Atsuko",
       "Atsuko_Masked",
+      "CH0267",
       "NP0077"
     ],
     "names": {
@@ -656,6 +680,7 @@
   {
     "id": "Cherino",
     "images": [
+      "CH0278",
       "Cherino",
       "Cherino_Hotspring"
     ],
@@ -808,7 +833,8 @@
       "Citizen_animal7",
       "Market_Animal_2",
       "NP0135",
-      "NP0136"
+      "NP0136",
+      "NP0203"
     ],
     "names": {
       "en": "Kivotos Citizen",
@@ -1607,6 +1633,7 @@
   {
     "id": "Hiyori",
     "images": [
+      "CH0269",
       "Hiyori"
     ],
     "names": {
@@ -1656,12 +1683,15 @@
     "images": [
       "CH0241",
       "CH0258",
+      "CH0258_01",
       "Hoshino",
       "Hoshino_Robber",
       "Hoshino_Robber_Swimsuit",
       "Hoshino_Swimsuit",
       "NP0167",
       "NP0173",
+      "NP0179",
+      "NP0186",
       "NP0204"
     ],
     "names": {
@@ -1882,6 +1912,31 @@
     }
   },
   {
+    "id": "jingju_student",
+    "images": [
+      "NP0207",
+      "NP0208"
+    ],
+    "names": {
+      "en": "Peking Opera Student",
+      "ja": "京劇部員",
+      "ko": "",
+      "zh-cn": "京剧部成员",
+      "zh-tw": "京劇部成員"
+    },
+    "searches": [
+      "jingju_club",
+      "shanhaijing"
+    ],
+    "short_names": {
+      "en": "Peking Opera Student",
+      "ja": "京劇部員",
+      "ko": "",
+      "zh-cn": "京剧部成员",
+      "zh-tw": "京劇部成員"
+    }
+  },
+  {
     "id": "Junko",
     "images": [
       "CH0192",
@@ -1977,6 +2032,32 @@
       "ko": "카에데",
       "zh-cn": "枫",
       "zh-tw": "楓"
+    }
+  },
+  {
+    "id": "Kaguya",
+    "images": [
+      "CH0272",
+      "NP0242",
+      "NP0243"
+    ],
+    "names": {
+      "en": "Urushibara Kaguya",
+      "ja": "漆原 カグヤ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "jingju_club",
+      "shanhaijing"
+    ],
+    "short_names": {
+      "en": "Kaguya",
+      "ja": "カグヤ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
     }
   },
   {
@@ -2713,6 +2794,7 @@
   {
     "id": "Marina",
     "images": [
+      "CH0270",
       "Marina"
     ],
     "names": {
@@ -3031,6 +3113,7 @@
   {
     "id": "Misaki",
     "images": [
+      "CH0268",
       "Misaki"
     ],
     "names": {
@@ -3852,6 +3935,27 @@
     }
   },
   {
+    "id": "Professor",
+    "images": [
+      "CH0277"
+    ],
+    "names": {
+      "en": "Smiling Professor",
+      "ja": "ニヤニヤ教授",
+      "ko": "",
+      "zh-cn": "笑面教授",
+      "zh-tw": "笑面教授"
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Smiling Professor",
+      "ja": "ニヤニヤ教授",
+      "ko": "",
+      "zh-cn": "笑面教授",
+      "zh-tw": "笑面教授"
+    }
+  },
+  {
     "id": "Purana",
     "images": [
       "NP0035"
@@ -4187,9 +4291,11 @@
     "id": "Saori",
     "images": [
       "CH0259",
+      "CH0266",
       "NP0012",
       "NP0103",
       "NP0164",
+      "NP0230",
       "Saori"
     ],
     "names": {
@@ -4507,9 +4613,12 @@
     "id": "Shiroko",
     "images": [
       "CH0199",
+      "CH0263",
       "NP0124",
       "NP0125",
       "NP0172",
+      "NP0231",
+      "NP0232",
       "Shiroko",
       "Shiroko_Ridingsuit",
       "Shiroko_Robber",
@@ -5378,6 +5487,29 @@
       "ko": "용역알바",
       "zh-cn": "打工佣兵",
       "zh-tw": "打工傭兵"
+    }
+  },
+  {
+    "id": "Yonoka",
+    "images": [
+      "CH0264"
+    ],
+    "names": {
+      "en": "Yonoka",
+      "ja": "コノカ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [
+      "valkyrie"
+    ],
+    "short_names": {
+      "en": "Yonoka",
+      "ja": "コノカ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
     }
   },
   {
