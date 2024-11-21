@@ -25,7 +25,8 @@
     "images": [
       "Airi",
       "CH0251",
-      "NP0189"
+      "NP0189",
+      "NP0227"
     ],
     "names": {
       "en": "Kurimura Airi",
@@ -446,7 +447,8 @@
       "Ayane_Robber",
       "Ayane_Robber_Swimsuit",
       "NP0108",
-      "NP0174"
+      "NP0174",
+      "NP0218"
     ],
     "names": {
       "en": "Okusora Ayane",
@@ -1046,7 +1048,8 @@
     "id": "Fubuki",
     "images": [
       "CH0261",
-      "Fubuki"
+      "Fubuki",
+      "NP0219"
     ],
     "names": {
       "en": "Nemugaki Fubuki",
@@ -1767,7 +1770,8 @@
   {
     "id": "Ichika",
     "images": [
-      "CH0071"
+      "CH0071",
+      "NP0222"
     ],
     "names": {
       "en": "Nakamasa Ichika",
@@ -2311,7 +2315,8 @@
     "images": [
       "CH0250",
       "Kazusa",
-      "NP0188"
+      "NP0188",
+      "NP0226"
     ],
     "names": {
       "en": "Kyouyama Kazusa",
@@ -2384,7 +2389,8 @@
     "id": "Kirino",
     "images": [
       "CH0262",
-      "Kirino"
+      "Kirino",
+      "NP0220"
     ],
     "names": {
       "en": "Nakatsukasa Kirino",
@@ -2771,6 +2777,7 @@
     "id": "Mari",
     "images": [
       "CH0186",
+      "CH0273",
       "Mari"
     ],
     "names": {
@@ -3044,7 +3051,8 @@
   {
     "id": "Mine",
     "images": [
-      "CH0152"
+      "CH0152",
+      "CH0275"
     ],
     "names": {
       "en": "Aomori Mine",
@@ -3408,6 +3416,7 @@
     "images": [
       "CH0221",
       "NP0190",
+      "NP0228",
       "Natsu"
     ],
     "names": {
@@ -4267,6 +4276,7 @@
   {
     "id": "Sakurako",
     "images": [
+      "CH0274",
       "NP0090",
       "Sakurako"
     ],
@@ -4441,6 +4451,7 @@
     "id": "Serika",
     "images": [
       "NP0175",
+      "NP0217",
       "Serika",
       "Serika_Newyear",
       "Serika_Robber",
@@ -5136,6 +5147,7 @@
   {
     "id": "Tomoe",
     "images": [
+      "CH0271",
       "Tomoe"
     ],
     "names": {
@@ -5297,6 +5309,7 @@
   {
     "id": "Tsurugi",
     "images": [
+      "NP0223",
       "Tsurugi",
       "Tsurugi_Swimsuit"
     ],
@@ -5371,6 +5384,7 @@
   {
     "id": "Utaha",
     "images": [
+      "NP0221",
       "Utaha",
       "Utaha_Cheer"
     ],
@@ -5519,6 +5533,7 @@
     "images": [
       "CH0220",
       "NP0187",
+      "NP0225",
       "Yoshimi"
     ],
     "names": {
