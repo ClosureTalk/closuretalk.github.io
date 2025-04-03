@@ -51,7 +51,8 @@
     "id": "Akane",
     "images": [
       "Akane",
-      "Akane_BunnyGirl"
+      "Akane_BunnyGirl",
+      "CH0307"
     ],
     "names": {
       "en": "Murokasa Akane",
@@ -174,7 +175,8 @@
     "id": "Alice",
     "images": [
       "Alice",
-      "CH0200"
+      "CH0200",
+      "NP0234"
     ],
     "names": {
       "en": "Tendou Alice",
@@ -222,7 +224,8 @@
     "id": "Android",
     "images": [
       "Citizen_Borot_1",
-      "Citizen_Borot_2"
+      "Citizen_Borot_2",
+      "NP0241"
     ],
     "names": {
       "en": "Android",
@@ -366,6 +369,7 @@
     "images": [
       "Asuna",
       "Asuna_BunnyGirl",
+      "CH0281",
       "NP0081"
     ],
     "names": {
@@ -756,6 +760,7 @@
     "id": "Chihiro",
     "images": [
       "CH0234",
+      "CH0313",
       "Chihiro"
     ],
     "names": {
@@ -836,7 +841,8 @@
       "Market_Animal_2",
       "NP0135",
       "NP0136",
-      "NP0203"
+      "NP0203",
+      "NP0247"
     ],
     "names": {
       "en": "Kivotos Citizen",
@@ -1097,6 +1103,7 @@
     "id": "Fuuka",
     "images": [
       "CH0177",
+      "CH0290",
       "Fuuka"
     ],
     "names": {
@@ -1312,6 +1319,7 @@
     "id": "Hare",
     "images": [
       "CH0233",
+      "CH0311",
       "Hare"
     ],
     "names": {
@@ -1968,6 +1976,7 @@
   {
     "id": "Juri",
     "images": [
+      "CH0286",
       "Juri"
     ],
     "names": {
@@ -2212,6 +2221,7 @@
   {
     "id": "Karin",
     "images": [
+      "CH0282",
       "Karin",
       "Karin_BunnyGirl",
       "NP0082"
@@ -2513,6 +2523,7 @@
     "id": "Kotama",
     "images": [
       "CH0232",
+      "CH0314",
       "Kotama"
     ],
     "names": {
@@ -2563,7 +2574,8 @@
     "id": "Koyuki",
     "images": [
       "CH0162",
-      "CH0198"
+      "CH0198",
+      "CH0310"
     ],
     "names": {
       "en": "Kurosaki Koyuki",
@@ -2727,6 +2739,7 @@
     "id": "Maki",
     "images": [
       "CH0235",
+      "CH0312",
       "Maki"
     ],
     "names": {
@@ -2822,6 +2835,28 @@
       "ko": "마리나",
       "zh-cn": "玛丽娜",
       "zh-tw": "瑪麗娜"
+    }
+  },
+  {
+    "id": "marukuto",
+    "images": [
+      "NP0030",
+      "NP0119"
+    ],
+    "names": {
+      "en": "Marukuto",
+      "ja": "マルクト",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Marukuto",
+      "ja": "マルクト",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
     }
   },
   {
@@ -2926,7 +2961,8 @@
     "id": "Midori",
     "images": [
       "CH0202",
-      "Midori"
+      "Midori",
+      "NP0236"
     ],
     "names": {
       "en": "Saiba Midori",
@@ -3099,6 +3135,27 @@
     }
   },
   {
+    "id": "Mirai",
+    "images": [
+      "CH0283"
+    ],
+    "names": {
+      "en": "Mirai",
+      "ja": "ミライ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    },
+    "searches": [],
+    "short_names": {
+      "en": "Mirai",
+      "ja": "ミライ",
+      "ko": "",
+      "zh-cn": "",
+      "zh-tw": ""
+    }
+  },
+  {
     "id": "MisakaMikoto",
     "images": [
       "CH9998"
@@ -3247,7 +3304,8 @@
     "id": "Momoi",
     "images": [
       "CH0201",
-      "Momoi"
+      "Momoi",
+      "NP0235"
     ],
     "names": {
       "en": "Saiba Momoi",
@@ -3441,6 +3499,7 @@
   {
     "id": "Neru",
     "images": [
+      "CH0280",
       "Neru",
       "Neru_BunnyGirl"
     ],
@@ -3514,6 +3573,7 @@
   {
     "id": "Noa",
     "images": [
+      "CH0285",
       "Noa"
     ],
     "names": {
@@ -4178,7 +4238,8 @@
     "id": "Rio",
     "images": [
       "CH0158",
-      "NP0122"
+      "NP0122",
+      "NP0240"
     ],
     "names": {
       "en": "Tsukatsuki Rio",
@@ -4402,6 +4463,7 @@
   {
     "id": "Seia",
     "images": [
+      "NP0244",
       "Seia"
     ],
     "names": {
@@ -4426,6 +4488,7 @@
   {
     "id": "Sena",
     "images": [
+      "CH0082",
       "Sena"
     ],
     "names": {
@@ -4948,6 +5011,7 @@
   {
     "id": "Sumire",
     "images": [
+      "CH0287",
       "Sumire"
     ],
     "names": {
@@ -5121,6 +5185,7 @@
     "images": [
       "CH0187",
       "CH0211",
+      "CH0308",
       "NP0078",
       "NP0079",
       "NP0123"
@@ -5633,6 +5698,7 @@
     "id": "Yuuka",
     "images": [
       "CH0184",
+      "CH0284",
       "NP0109",
       "Yuuka"
     ],
@@ -5660,6 +5726,7 @@
     "images": [
       "CH0203",
       "NP0126",
+      "NP0237",
       "Yuzu"
     ],
     "names": {
